@@ -1,0 +1,377 @@
+@import "compass";
+
+.fed-2 {
+
+  h2 {
+    color: #a96c26;
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 3px solid white;
+    width: 70%;
+    margin: 75px auto 25px;
+  }
+
+  &.base {
+    background: #eef1f6;
+  }
+
+  &.first {
+    margin-top: 0;
+    padding-top: 30px;
+  }
+
+  .next-class {
+    background: white;
+    margin-top: 15px;
+    padding: 25px;
+    text-align: center;
+
+    a.button {
+      @include inline-block;
+    }
+  }
+
+  .next-class__info {
+    @include inline-block;
+    margin-right: 15px;
+    margin-top: -8px;
+    text-align: right;
+
+    p {
+      color: #876132;
+      margin: 0;
+    }
+  }
+
+  .next-class__info__message {
+    font-style: italic;
+    font-size: 21px;
+  }
+
+  .next-class__info__date {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 24px;
+  }
+
+  .learn-and-do {
+
+    p {
+      font-size: 22px;
+    }
+
+    img {
+      width: 231px;
+      margin-right: 10px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .with-this-guy {
+
+    p {
+      font-size: 21px;
+
+      &.your-instructor {
+        color: #a96c26;
+        font-weight: bold;
+      }
+    }
+
+    img {
+      float: left;
+      margin-top: 10px;
+      margin-right: 20px;
+    }
+  }
+
+  .when {
+    padding-bottom: 40px;
+
+    p {
+      font-size: 21px;
+      margin: 0 0 65px;
+
+      strong {
+        color: #876132;
+        font-weight: bold;
+      }
+    }
+
+    .lecture-time,
+    .lab-time {
+      @include box-sizing(border-box);
+      float: left;
+      margin: 35px 0 40px;
+      padding: 0 35px;
+      width: 49.5%;
+
+      h3 {
+        color: #a96c26;
+        font-size: 21pt;
+        margin-top: 0;
+        text-align: center;
+      }
+
+      p {
+        margin-bottom: 0;
+      }
+    }
+
+    .lab-time {
+      border-left: 1px solid #6e787d;
+    }
+
+    p.callout {
+      @include box-sizing(border-box);
+      @include border-radius(3px);
+      clear: both;
+      color: #a96c26;
+      font-size: 15px;
+      margin-top: 32px;
+      border: 2px solid white;
+      padding: 18px 25px;
+      margin: 0 auto;
+      text-align: center;
+      width: 80%;
+    }
+  }
+
+  &.selling-points-callout {
+    background: #a96c26;
+  }
+}
+
+.selling-points-callout {
+  @include legacy-pie-clearfix;
+  padding: 30px 0;
+
+  ul {
+    float: left;
+    margin: 0;
+    width: 325px;
+  }
+
+  li {
+    list-style-type: none;
+    color: #eef1f6;
+    margin-bottom: 15px;
+
+    img {
+      @include inline-block;
+      margin-right: 22px;
+      width: 75px;
+      height: 75px;
+    }
+
+    p {
+      font-size: 17px;
+      @include inline-block;
+      margin: 0;
+      position: relative;
+      top: -4px;
+      width: 55%;
+    }
+  }
+
+  .testimonials {
+    @include legacy-pie-clearfix;
+    float: right;
+    width: 555px;
+  }
+
+  .testimonial {
+    float: left;
+    width: 48%;
+    margin-left: 3%;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    img {
+      @include box-sizing(border-box);
+      @include border-radius(2px);
+      border: 3px solid white;
+    }
+
+    p {
+      color: #eef1f6;
+      font-style: italic;
+      font-size: 22px;
+      line-height: 27px;
+      margin: 0;
+      padding: 15px 25px;
+
+      span {
+        color: #39474e;
+        display: block;
+        font-style: normal;
+        margin-top: 15px;
+      }
+    }
+  }
+
+  a.apply-now {
+    @include transition(all 100ms);
+    @include border-radius(2px);
+    @include box-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+    background: #20a3d9;
+    border: 3px solid white;
+    color: #eef1f6;
+    display: block;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 25px 0;
+    position: relative;
+    top: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 340px;
+
+    &:hover {
+      background: lighten(#20a3d9, 3);
+      color: #eef1f6;
+      text-decoration: none;
+    }
+
+    &:active {
+      top: 27px;
+      @include box-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
+    }
+  }
+}
+
+.fed-2.base.curriculum {
+  
+  padding: 60px 0 30px;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.curriculum-overview {
+
+  p {
+    font-size: 22px;
+  }
+
+  .columns {
+    @include legacy-pie-clearfix;
+    padding: 20px 0;
+
+    ul {
+      margin: 0;
+      float: left;
+      width: 30%;
+
+      &.left-column {
+        width: 26%;
+        margin-right: 5%;
+      }
+
+      &.center-column {
+        border: 1px solid #6e787d;
+        border-top: none;
+        border-bottom: none;
+        padding: 0 20px 0 55px;
+
+        li:last-child {
+          margin-bottom: -5px;
+        }
+      }
+
+      &.right-column {
+        float: right;
+        width: 235px;
+      }
+    }
+
+    li {
+      @include box-sizing(border-box);
+      background: url('/images/education/academy/front-end-2/curriculum-item-arrow.png') no-repeat 0% 9px;
+      list-style-type: none;
+      color: #a96c26;
+      font-size: 22px;
+      padding-left: 20px;
+    }
+  }
+}
+
+.fed-2.base.for-you {
+  padding-top: 60px;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.is-this-for-you {
+  
+  .columns {
+    @include legacy-pie-clearfix;
+
+    p {
+      width: 48%;
+      font-size: 21px;
+      line-height: 30px;
+    }
+
+    .left {
+      float: left;
+    }
+
+    .right {
+      float: right;
+    }
+  }
+}
+
+.fed-2.base.our-sponsors-container {
+  padding-top: 60px;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.our-sponsors {
+  padding-bottom: 95px;
+
+  p {
+    font-size: 21px;
+  }
+}
+
+.sponsor-logo-large {
+  margin-bottom: 5px;
+
+  &:first-child {
+    margin-right: 5px;
+  }
+}
+
+.sponsor-logo-small {
+  margin-right: 3px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
