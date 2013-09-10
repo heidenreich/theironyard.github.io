@@ -335,6 +335,82 @@
   }
 }
 
+.endearing-qualities {
+  padding: 50px 0;
+
+  li {
+    @include legacy-pie-clearfix;
+    list-style-type: none;
+    margin-bottom: -45px;
+    position: relative;
+    top: 15px;
+
+    &.left {
+
+      .image {
+        float: left;
+        margin-left: -150px;
+      }
+
+      .text {
+        float: right;
+      }
+    }
+
+    &.right {
+
+      .image {
+        float: right;
+        margin-right: -150px;
+      }
+
+      .text {
+        float: left;
+        text-align: right;
+      }
+    }
+  }
+
+  .image {
+    @include border-radius(150px);
+    @include inline-block;
+    background: url('/images/education/academy/front-end-2/girlatcomputer.jpg') no-repeat top center;
+    border: 3px solid white;
+    width: 238px;
+    height: 238px;
+  }
+
+  .text {
+    @include box-sizing(border-box);
+    padding-top: 35px;
+    width: 790px;
+
+    h3, p {
+      margin: 0;
+    }
+
+    h3 {
+      color: #876132;
+      font-size: 25px;
+    }
+
+    p {
+      font-size: 21px;
+    }
+  }
+
+  li:first-child {
+
+    .text {
+      padding-top: 80px;   
+    }
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .fed-2.base.our-sponsors-container {
   padding-top: 60px;
 
@@ -368,8 +444,159 @@
 }
 
 
+.faqs {
 
+  h2 {
+    margin-bottom: 0;
+  }
+}
 
+.faq-questions {
+  background: #eef1f6;
+  padding-top: 25px;
+
+  h3 {
+    cursor: pointer;
+    font-size: 21px;
+    margin: 0;
+  }
+
+  .answer {
+    padding-top: 15px;
+
+    & > :last-child {
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-top: 0;
+    }
+  }
+
+  .container {
+    padding: 15px 0 20px 25px;
+  }
+
+  li.question {
+    list-style-type: none;
+    margin: 0;
+
+    &.odd {
+      background: white;
+
+      h3 {
+        background: url('/images/education/academy/front-end-2/question-arrows-dark-closed.png') no-repeat 0 15px;
+      }
+
+      &.open h3 {
+        background: url('/images/education/academy/front-end-2/question-arrows-dark-open.png') no-repeat 0 15px;
+      }
+    }
+
+    &.even {
+      background: #39474e;
+
+      h3 {
+        background: url('/images/education/academy/front-end-2/question-arrows-light-closed.png') no-repeat 0 15px;
+        color: white;
+      }
+
+      &.open h3 {
+        background: url('/images/education/academy/front-end-2/question-arrows-light-open.png') no-repeat 0 15px;
+      }
+
+      p {
+        color: white;
+      }
+    }
+
+    h3 {
+      margin-left: -25px;
+      padding-left: 25px;
+    }
+
+    .answer {
+      display: none;
+    }
+
+    &.open {
+      .answer {
+        display: block;
+      }
+    }
+
+    &.greenville {
+
+      .container {
+        background: url('/images/education/academy/front-end-2/sc-greenville.png') no-repeat 999999px 0;
+      }
+      
+      &.open {
+
+        .container {
+          @include box-sizing(border-box);
+          background-position: 100% 20px;
+          min-height: 350px;
+        }
+      }
+
+      p {
+        font-size: 22px;
+        line-height: 35px;
+        padding-top: 25px;
+        width: 515px;
+      }
+    }
+
+    &.cost {
+
+      .answer > p {
+        font-size: 23px;
+        line-height: 30px;
+        margin-bottom: 30px;
+      }
+    }
+  }
+
+  .cost-columns {
+    @include inline-block;
+
+    .column {
+      @include box-sizing(border-box);
+      float: left;
+      padding: 85px 50px 0;
+      text-align: center;
+      width: 33%;
+      
+      h4 {
+        margin-bottom: 5px;
+        font-size: 21px;
+      }
+
+      p {
+        font-size: 21px;
+        line-height: 26px;
+      }
+    }
+
+    .left-column {
+      background: url('/images/education/academy/front-end-2/noun_project_14016.svg') no-repeat 40% 10%;
+      padding-left: 0;
+    }
+
+    .center-column {
+      background: url('/images/education/academy/front-end-2/noun_project_16813.svg') no-repeat top center;
+      border: 1px solid #6e787d;
+      border-top: none;
+      border-bottom: none;
+    }
+
+    .right-column {
+      background: url('/images/education/academy/front-end-2/noun_project_9074.svg') no-repeat 62% 5%;
+      padding-right: 0;
+    }
+  }
+}
 
 
 
