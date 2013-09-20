@@ -153,6 +153,25 @@
       width: 16%;
     }
 
+    @media all and (max-width: 971px) {
+      
+      .location-details-content {
+        text-align: center;
+      }
+
+      .location-description {
+        @include box-sizing(border-box);
+        padding: 0 4%;
+        max-width: 775px;
+        text-align: center;
+        width: 100%;
+      }
+
+      .button {
+        width: auto;
+      }
+    }
+
     &.spartanburg {
       border-bottom: none;
     }
@@ -165,6 +184,18 @@
     .slide {
       padding-left: 0 !important;
       height: 100%;
+    }
+
+    @media all and (max-width: 419px) {
+      height: 175px !important;
+    }
+
+    @media all and (max-width: 609px) {
+      height: 225px !important;
+    }
+
+    @media all and (max-width: 720px) {
+      height: 310px !important;
     }
   }
 
