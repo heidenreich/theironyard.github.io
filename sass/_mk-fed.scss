@@ -1,6 +1,10 @@
 @import "compass";
 
 .fed-2 {
+  
+  .main > & {
+    padding: 0 4%;
+  }
 
   h2 {
     color: #a96c26;
@@ -11,6 +15,7 @@
     padding-bottom: 10px;
     border-bottom: 3px solid white;
     width: 70%;
+    min-width: 260px;
     margin: 75px auto 25px;
   }
 
@@ -26,12 +31,14 @@
   .next-class {
     background: white;
     margin-top: 15px;
-    padding: 25px;
+    padding: 25px 1.5em;
     text-align: center;
 
     a.button {
       @include inline-block;
     }
+
+
   }
 
   .next-class__info {
@@ -43,6 +50,13 @@
     p {
       color: #876132;
       margin: 0;
+    }
+
+    @media all and (max-width: 460px) {
+      text-align: center;
+      margin-bottom: 1.5em;
+      margin-right: 0;
+      display: block;
     }
   }
 
@@ -61,11 +75,17 @@
 
     p {
       font-size: 22px;
+
+      @media all and (max-width: 719px) {
+        font-size: 18px;
+      }
     }
 
     img {
-      width: 231px;
-      margin-right: 10px;
+      width: 48%;
+      max-width: 231px;
+      margin-right: 2%;
+      margin-bottom: 2%;
 
       &:last-child {
         margin-right: 0;
@@ -77,6 +97,10 @@
 
     p {
       font-size: 21px;
+
+      @media all and (max-width: 719px) {
+        font-size: 18px;
+      }
 
       &.your-instructor {
         color: #a96c26;
@@ -97,6 +121,10 @@
     p {
       font-size: 21px;
       margin: 0 0 65px;
+
+      @media all and (max-width: 719px) {
+        font-size: 18px;
+      }
 
       strong {
         color: #876132;
@@ -122,10 +150,23 @@
       p {
         margin-bottom: 0;
       }
+
+      @media all and (max-width: 650px) {
+        float: none;
+        margin-bottom: 15px;
+        padding: 1em;
+        width: auto;
+
+        p {
+          font-size: 18px;
+        }
+      }
     }
 
     .lab-time {
-      border-left: 1px solid #6e787d;
+      @media all and (min-width: 651px) {
+        border-left: 1px solid #6e787d;
+      }
     }
 
     p.callout {
@@ -142,26 +183,40 @@
       width: 80%;
     }
   }
-
-  &.selling-points-callout {
-    background: #a96c26;
-  }
 }
 
 .selling-points-callout {
   @include legacy-pie-clearfix;
-  padding: 30px 0;
+  background: #a96c26;
+  padding-top: 2em !important;
+  padding-bottom:  5em !important;
 
   ul {
+    @include legacy-pie-clearfix;
     float: left;
     margin: 0;
-    width: 325px;
+    width: 35%;
+
+    @media all and (max-width: 684px) {
+      width: auto;
+    }
   }
 
   li {
     list-style-type: none;
     color: #eef1f6;
     margin-bottom: 15px;
+
+    @media all and (max-width: 684px) {
+      float: left;
+      margin-right: 1%;
+      width: 48%;
+    }
+
+    @media all and (max-width: 558px) {
+      margin-right: 0;
+      width: auto;
+    }
 
     img {
       @include inline-block;
@@ -183,7 +238,11 @@
   .testimonials {
     @include legacy-pie-clearfix;
     float: right;
-    width: 555px;
+    width: 62%;
+
+    @media all and (max-width: 684px) {
+      width: 100%;
+    }
   }
 
   .testimonial {
@@ -216,6 +275,11 @@
         margin-top: 15px;
       }
     }
+
+    @media all and (max-width: 399px) {
+      margin: 0;
+      width: auto;
+    }
   }
 
   a.apply-now {
@@ -234,7 +298,7 @@
     top: 25px;
     text-transform: uppercase;
     text-align: center;
-    width: 340px;
+    max-width: 340px;
 
     &:hover {
       background: lighten(#20a3d9, 3);
@@ -251,7 +315,8 @@
 
 .fed-2.base.curriculum {
   
-  padding: 60px 0 30px;
+  padding-top: 60px;
+  padding-bottom: 30px;
 
   h2 {
     margin-top: 0;
@@ -264,6 +329,16 @@
     font-size: 22px;
   }
 
+  @media all and (max-width: 719px) {
+    h2 {
+      width: 80%;
+    }
+
+    p {
+      font-size: 18px;
+    }
+  }
+
   .columns {
     @include legacy-pie-clearfix;
     padding: 20px 0;
@@ -271,18 +346,18 @@
     ul {
       margin: 0;
       float: left;
-      width: 30%;
+      width: 29%;
 
       &.left-column {
         width: 26%;
-        margin-right: 5%;
+        margin-right: 4%;
       }
 
       &.center-column {
         border: 1px solid #6e787d;
         border-top: none;
         border-bottom: none;
-        padding: 0 20px 0 55px;
+        padding: 0 2% 0 5%;
 
         li:last-child {
           margin-bottom: -5px;
@@ -291,7 +366,6 @@
 
       &.right-column {
         float: right;
-        width: 235px;
       }
     }
 
@@ -303,7 +377,28 @@
       font-size: 22px;
       padding-left: 20px;
     }
+
+    @media all and (max-width: 649px) {
+      margin: 0 auto;
+      max-width: 275px;
+
+      ul {
+        @include inline-block;
+        float: none;
+        margin: 0 0 7px;
+        width: 100% !important;
+
+        &.center-column {
+          border: none;
+          padding: 0;
+        }
+      }
+    }
   }
+}
+
+.fed-2.image-slider {
+  padding: 0;
 }
 
 .fed-2.base.for-you {
@@ -332,11 +427,27 @@
     .right {
       float: right;
     }
+
+    @media all and (max-width: 719px) {
+      
+      p {
+        font-size: 18px;
+      }
+    }
+
+    @media all and (max-width: 499px) {
+      .left,
+      .right {
+        float: none;
+        width: 100%;
+      }
+    }
   }
 }
 
 .endearing-qualities {
   padding: 50px 0;
+  margin-left: 0;
 
   li {
     @include legacy-pie-clearfix;
@@ -347,7 +458,7 @@
 
     &.left {
 
-      .image {
+      img {
         float: left;
         margin-left: -150px;
       }
@@ -359,7 +470,7 @@
 
     &.right {
 
-      .image {
+      img {
         float: right;
         margin-right: -150px;
       }
@@ -371,13 +482,10 @@
     }
   }
 
-  .image {
-    @include border-radius(150px);
+  img {
     @include inline-block;
-    background: url('/images/education/academy/front-end-2/girlatcomputer.jpg') no-repeat top center;
-    border: 3px solid white;
-    width: 238px;
-    height: 238px;
+    width: 25%;
+    max-width: 238px;
   }
 
   .text {
@@ -409,6 +517,71 @@
   li:last-child {
     margin-bottom: 0;
   }
+
+  @media all and (max-width: 1275px) {
+
+    li {
+      margin-bottom: 20px;
+    }
+
+    img {
+      margin-right: 3% !important;
+      width: 15%;
+    }
+
+    li.left {
+      
+      img {
+        float: none;
+        margin-left: 0;
+      }
+
+      .text {
+        @include inline-block;
+        float: none;
+        padding-top: 0;
+        text-align: left;
+        width: 73%;
+      }
+    }
+
+    li.right {
+      
+      img {
+        float: none;
+      }
+
+      .text {
+        @include inline-block;
+        float: none;
+        padding-top: 0;
+        text-align: left;
+        width: 73%;
+      }
+    }
+  }
+
+  @media all and (max-width: 719px) {
+
+    img {
+      vertical-align: top;
+      width: 25%;
+    }
+
+    li.left .text,
+    li.right .text {
+      width: 65%;
+
+      h3 {
+        font-size: 18px;
+        line-height: 20px;
+      }
+
+      p {
+        font-size: 18px;
+      }
+    }
+  }
 }
 
 .fed-2.base.our-sponsors-container {
@@ -425,18 +598,29 @@
   p {
     font-size: 21px;
   }
+
+  @media all and (max-width: 719px) {
+
+    p {
+      font-size: 18px;   
+    }
+  }
 }
 
 .sponsor-logo-large {
-  margin-bottom: 5px;
+  @include inline-block;
+  margin-bottom: 1%;
+  width: 49.5%;
 
   &:first-child {
-    margin-right: 5px;
+    margin-right: 1%;
   }
 }
 
 .sponsor-logo-small {
-  margin-right: 3px;
+  @include inline-block;
+  margin-right: 1%;
+  width: 32.6%;
 
   &:last-child {
     margin-right: 0;
@@ -474,7 +658,10 @@
   }
 
   .container {
+    @include box-sizing(border-box);
+    margin-left: 4%;
     padding: 15px 0 20px 25px;
+    width: 89%;
   }
 
   li.question {
@@ -527,24 +714,48 @@
 
     &.greenville {
 
-      .container {
-        background: url('/images/education/academy/front-end-2/sc-greenville.png') no-repeat 999999px 0;
+      img {
+        display: none;
       }
       
       &.open {
 
         .container {
           @include box-sizing(border-box);
-          background-position: 100% 20px;
-          min-height: 350px;
+
+          .answer {
+            @include legacy-pie-clearfix;
+            padding-top: 0;
+
+            img {
+              display: block;
+              float: right;
+              width: 40%;
+            }
+          }
         }
       }
 
       p {
         font-size: 22px;
+        float: left;
         line-height: 35px;
         padding-top: 25px;
-        width: 515px;
+        width: 55%;
+      }
+
+      @media all and (max-width: 719px) {
+
+        &.open .container .answer img {
+          display: none;
+        }
+
+        p {
+          float: none;
+          font-size: 18px;
+          line-height: 25px;
+          width: 100%;
+        }
       }
     }
 
@@ -594,6 +805,21 @@
     .right-column {
       background: url('/images/education/academy/front-end-2/noun_project_9074.svg') no-repeat 62% 5%;
       padding-right: 0;
+    }
+  }
+
+  @media all and (max-width: 719px) {
+
+    li.question {
+
+      &.even h3,
+      &.even.open h3,
+      &.odd h3,
+      &.odd.open h3 {
+        background-position: 0 7px;
+        font-size: 18px;
+        line-height: 22px;
+      }
     }
   }
 }
