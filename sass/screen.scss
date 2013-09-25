@@ -484,16 +484,24 @@ hr {
 
     blockquote {
       border-left: 4px solid #dddddd;
+      color: #777777; 
       padding: 0 15px;
-      color: #777777; }
+      font-size: 16px;
+      margin: 25px 18px 25px 18px;
+    }
+      
       blockquote > :first-child {
-      margin-top: 0; }
+      margin-top: 0; 
+    }
+      
       blockquote > :last-child {
-      margin-bottom: 0; }
+      margin-bottom: 0; 
+    }
+
     // @media (max-width: 767px) {
     //   padding: 20px;
     // }
-  }
+}
 
   .article-sidebar-content {
     font-size: 16px;
