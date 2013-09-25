@@ -54,8 +54,10 @@ Backtrace:
 /Users/ericdodds/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
 /Users/ericdodds/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `call'
 /Users/ericdodds/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
-/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/compass:23:in `load'
-/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/compass:23:in `<main>'
+/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/compass:19:in `load'
+/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/compass:19:in `<main>'
+/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/ruby_noexec_wrapper:14:in `eval'
+/Users/ericdodds/.rbenv/versions/1.9.3-p194/bin/ruby_noexec_wrapper:14:in `<main>'
 */
 body:before {
   white-space: pre;
