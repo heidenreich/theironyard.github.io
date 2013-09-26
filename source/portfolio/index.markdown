@@ -737,6 +737,29 @@ parent_url: "/"
    </div>
 </div>
 
+<div class="team-member one-fourth ">
+   <a href="http://blazehealth.co" target="_blank">
+      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-blaze-health.jpg" class="photo wp-post-image" alt="Blaze Health" title="Blaze Health" />
+    </a>
+   <div class="content">
+      <h4 class="xname">Blaze health</h4>
+      <ul class="social-links">
+         <li class="tumblr">
+            <a href="http://blazehealth.co" target="_blank">Tumblr</a>
+         </li>
+         <li class="twitter">
+            <a href="http://twitter.com/blazehealth" target="_blank">Twitter</a>
+         </li>
+         <li class="facebook">
+            <a href="https://www.facebook.com/BlazeHealth" target="_blank">Facebook</a>
+         </li>
+         <li class="email">
+            <a href="hfounders@blazehealth.co" target="_blank">Email</a>
+         </li>
+      </ul>
+   </div>
+</div>
+
 <div class="team-member one-fourth">
    <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-betterfit.jpg" class="photo wp-post-image" alt="BetterFit" title="BetterFit" />
    <div class="content">
@@ -749,7 +772,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth">
+<div class="team-member one-fourth last">
    <a href="http://auditfile.com" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-audit-file.jpg" class="photo wp-post-image" alt="AuditFile.com" title="AuditFile.com" />
    </a>
@@ -772,7 +795,9 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth last">
+<div class="clear"></div>
+
+<div class="team-member one-fourth ">
    <a href="http://8to18.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-8-to-18.jpg" class="photo wp-post-image" alt="8 to 18" title="8 to 18" />
    </a>
@@ -788,8 +813,6 @@ parent_url: "/"
       </ul>
    </div>
 </div>
-
-<div class="clear"></div>
 
 <div class="team-member one-fourth last">
    <a href="http://www.3scan.com/" target="_blank">
