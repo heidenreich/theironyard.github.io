@@ -59,6 +59,19 @@ footer: true
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.2nl.co/" target="_blank">Tumblr</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/second-light" target="_blank">Angel List</a>
+         </li>
+         <li class="twitter">
+            <a href="https://twitter.com/2nlco" target="_blank">Twitter</a>
+         </li>
+         <li class="facebook">
+            <a href="https://www.facebook.com/2nlco" target="_blank">Facebook</a>
+         </li>
+         <li class="email">
+            <a href="mailto:founders@2nl.co" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -100,6 +113,16 @@ footer: true
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.mydoctime.com/" target="_blank">Tumblr</a>
+         </li>
+         <li class="twitter">
+            <a href="http://www.twitter.com/mydoctime" target="_blank">Twitter</a>
+         </li>
+         <li class="facebook">
+            <a href="http://www.facebook.com/mydoctime" target="_blank">Facebook</a>
+         </li>
+         <li class="email">
+            <a href="mailto:info@mydoctime.com" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -175,11 +198,14 @@ footer: true
    <div class="content">
       <h4 class="xname">Care IT</h4>
       <ul class="social-links">
-         <li class="email">
-            <a href="mailto:support@care.it" target="_blank">Email</a>
+         <li class="tumblr">
+            <a href="http://care.it">Tumblr</a>
          </li>
          <li class="twitter">
             <a href="http://twitter.com/CareThruIT" target="_blank">Twitter</a>
+         </li>
+         <li class="email">
+            <a href="mailto:support@care.it" target="_blank">Email</a>
          </li>
       </ul>
    </div>
@@ -194,6 +220,13 @@ footer: true
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.3scan.com/" target="_blank">Tumblr</a>
+         </li>
+         <li class="twitter">
+            <a href="http://twitter.com/3ScanTweets" target="_blank">Twitter</a>
+         </li>
+         <li class="email">
+            <a href="mailto:Megan@3scan.com" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
