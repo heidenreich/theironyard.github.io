@@ -52,6 +52,8 @@ In-text links aren't bad. But as these authors and many others point out, the di
 
 On a web that seems to encourage endless amounts of distraction, entertainment addiction, and sensationalism, we want to foster healthy brains. Footnotes seem like a great place to start. 
 
+—Eric
+
 
 [^1]: We took a long break from the blog because we were busy retooling the site, doubling the size of our Academy, launching new kids classes, running the Digital Health accelerator, and more. [Read the full article about everything we were up to here](http://theironyard.com/blog/2013/09/19/we-are-back/). <br><br>Also, you might be wondering why Friday's are different than other days. We publish posts called Lazy Friday Links, which are intended to be fun, funny, and not-so-serious. In-text hyperlinks work perfectly (and are far more functional) for content that requires low cognitive processing. [Check out our latest Lazy Friday Links collection](http://theironyard.com/blog/2013/09/20/lazy-friday-links-volume-16/). 
 
