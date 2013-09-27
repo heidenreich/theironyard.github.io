@@ -82,13 +82,21 @@
     }
 
     img {
-      width: 48%;
+      width: 23%;
       max-width: 231px;
       margin-right: 2%;
       margin-bottom: 2%;
 
       &:last-child {
         margin-right: 0;
+      }
+
+      @media all and (max-width: 419px) {
+        width: 46%;
+
+        &:nth-child(2) {
+          margin-right: 0;
+        }
       }
     }
   }
@@ -129,6 +137,12 @@
       strong {
         color: #876132;
         font-weight: bold;
+      }
+    }
+
+    img {
+      @media all and (max-width: 575px) {
+        display: none;
       }
     }
 
@@ -276,7 +290,7 @@
       }
     }
 
-    @media all and (max-width: 399px) {
+    @media all and (max-width: 479px) {
       margin: 0;
       width: auto;
     }
@@ -659,7 +673,6 @@
 
   .container {
     @include box-sizing(border-box);
-    margin-left: 4%;
     padding: 15px 0 20px 25px;
     width: 89%;
   }
@@ -766,6 +779,17 @@
         line-height: 30px;
         margin-bottom: 30px;
       }
+
+      @media all and (max-width: 719px) {
+        .container {
+          padding-right: 25px;
+        }
+
+        .answer > p {
+          font-size: 18px;
+          line-height: 28px;
+        }
+      }
     }
   }
 
@@ -788,6 +812,14 @@
         font-size: 21px;
         line-height: 26px;
       }
+
+      @media all and (max-width: 719px) {
+        padding: 85px 25px 0;
+
+        p {
+          font-size: 18px;
+        }
+      }
     }
 
     .left-column {
@@ -805,6 +837,29 @@
     .right-column {
       background: url('/images/education/academy/front-end-2/noun_project_9074.svg') no-repeat 62% 5%;
       padding-right: 0;
+    }
+
+    @media all and (max-width: 549px) {
+      .column {
+        background-position: 50% 0;
+        float: none;
+        margin-bottom: 35px;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        width: auto;
+      }
+
+      .left-column {
+        padding-top: 55px;
+      }
+
+      .center-column {
+        border: none;
+      }
+
+      .right-column {
+        padding-top: 65px;
+      }
     }
   }
 
