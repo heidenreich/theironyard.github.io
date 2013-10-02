@@ -95,27 +95,94 @@ parent_url: "/education/academy"
       p We cover a huge amount of ground in 3 months. We'll cover everything below and then some. Some topics, like JavaScript and Backbone.js will take weeks to cover, and other topics like JavaScript templates will be covered over just a few lectures.
       
       .columns
+        
         ul.left-column
-          li Git and GitHub
+          li.expandable 
+            | Git and GitHub
+            ul
+              li branching, merging, committing, etc.
+              li workflows for teams in GitHub
           li HTML
-          li CSS
-          li Preprocessors
+          li.expandable 
+            | CSS
+            ul
+              li layouts
+              li typography
+              li interactions
+              li CSS3 animations
+          li.expandable 
+            | Preprocessors
+            ul
+              li Haml
+              li Slim
+              li Sass
+              li Compass
           li Responsive CSS / media queries
           li Design fundamentals
+        
         ul.center-column
-          li JavaScript
-          li jQuery
-          li Underscore.js
-          li Backbone.js
-          li JavaScript Testing
+          li.expandable 
+            | JavaScript
+            ul
+              li types
+              li functions
+              li objects
+              li scope
+              li closures
+              li constructors
+              li prototypes
+              li JSON
+          li.expandable 
+            | jQuery
+            ul
+              li DOM manipulation
+              li non-DOM methods ($.extend, $.proxy, etc)
+              li chaining
+              li callbacks
+              li AJAX
+              li jQuery plugins
+          li.expandable 
+            | Underscore.js
+            ul
+              li underscore basics
+              li functional programming principles using undersocre
+          li.expandable 
+            | Backbone.js
+            ul
+              li models, collections, views, routers
+              li handling JSON payloads
+              li data persistence with the server
+              li smart management of views
+          li.expandable 
+            | JavaScript Testing
+            ul
+              li Jasmine
+              li QUnit
           li CoffeeScript
-          li JavaScript Templating
+          li.expandable
+            | JavaScript Templating
+            ul
+              li undersocre.js templates
+              li skim templates
           li Ruby 101
+        
         ul.right-column
-          li Rails Basics
+          li.expandable 
+            | Rails Basics
+            ul
+              li creating a new Rails app
+              li Ruby-flavored MVC
+              li interfacing with external APIs like Twitter, Instagram, etc.
           li Heroku Deployment with Git
           li Parse as a Backend
-          li Front End Package Managers, Tools, Asset Loaders, and Generators
+          li.expandable 
+            | Front End Package Managers, Tools, Asset Loaders, and Generators
+            ul
+              li Yeoman
+              li Grunt
+              li Bower
+              li RequireJS
+              li Sprockets
 
       p If you made it through that list and are still excited, you've come to the right place. Keep reading!
 

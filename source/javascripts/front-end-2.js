@@ -17,6 +17,27 @@ $(document).ready(function() {
   });
 
 
+  // Curriculum overview open/close behavior
+  //------------------------------------------------------------------------------------------------//
+
+  var $courses = $('.curriculum-overview .columns>ul li');
+
+  $courses.on('click', function() {
+
+    var $this = $(this);
+    
+    $courses.each(function() {
+      $(this).removeClass('open');
+    });
+
+    if ($this.hasClass('open')) {
+      $this.removeClass('open');
+    } else {
+      $this.addClass('open');
+    }
+  });
+
+
   // Flowtype.js
   // http://simplefocus.com/flowtype
   //------------------------------------------------------------------------------------------------//

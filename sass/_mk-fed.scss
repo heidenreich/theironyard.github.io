@@ -357,10 +357,14 @@
     @include legacy-pie-clearfix;
     padding: 20px 0;
 
-    ul {
+    & > ul {
       margin: 0;
       float: left;
       width: 29%;
+
+      &:hover {
+        cursor: pointer;
+      }
 
       &.left-column {
         width: 26%;
@@ -381,22 +385,44 @@
       &.right-column {
         float: right;
       }
-    }
 
-    li {
-      @include box-sizing(border-box);
-      background: url('/images/education/academy/front-end-2/curriculum-item-arrow.png') no-repeat 0% 9px;
-      list-style-type: none;
-      color: #a96c26;
-      font-size: 22px;
-      padding-left: 20px;
+      & > li {
+        @include box-sizing(border-box);
+        background: url('/images/education/academy/front-end-2/curriculum-item-disc.png') no-repeat 0% 9px;
+        list-style-type: none;
+        color: #a96c26;
+        font-size: 22px;
+        padding-left: 20px;
+
+        &.expandable {
+          background: url('/images/education/academy/front-end-2/curriculum-item-arrow-closed.png') no-repeat 0% 9px;
+
+          ul {
+            margin-top: 0.25em;
+            display: none;
+          }
+
+          li {
+            color: #39474E;
+            margin-bottom: 2px;
+          }
+
+          &.open {
+            background: url('/images/education/academy/front-end-2/curriculum-item-arrow-open.png') no-repeat 0% 9px;
+            
+            ul {
+              display: block;
+            }
+          }
+        }
+      }
     }
 
     @media all and (max-width: 649px) {
       margin: 0 auto;
       max-width: 275px;
 
-      ul {
+      & > ul {
         @include inline-block;
         float: none;
         margin: 0 0 7px;
