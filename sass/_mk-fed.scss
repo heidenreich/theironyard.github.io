@@ -439,6 +439,52 @@
 
 .fed-2.image-slider {
   padding: 0;
+
+  ul.sequence-canvas {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+
+  .slider {
+    margin-top: 0;
+
+    @media all and (max-width: 479px) {
+      height: 250px !important;
+    }
+
+    .slide {
+      margin-top: -25px;
+      opacity: 1;
+      height: 100%;
+      width: 100%;
+
+      .bg {
+        background-position: 50% 50%;
+        height: 100%;
+      }
+
+      .description {
+        bottom: 0;
+        left: 1em;
+        font-size: 1.25em;
+        color: white;
+        margin-top: 0;
+      }
+    }
+
+    // .animate-in .slide,
+    // .animate-out .slide {
+    //   padding-left: 0;
+    // }
+
+    // .animate-out .slide {
+    //   opacity: 0;
+    // }
+  }
 }
 
 .fed-2.base.for-you {

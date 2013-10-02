@@ -44,4 +44,19 @@ $(document).ready(function() {
 
   $('.fed-2 h2').fitText(1.15, {maxFontSize: '35px'});
 
+
+  // Sequence.js slider
+  //------------------------------------------------------------------------------------------------//
+
+  var sequence = $(".slider").sequence({
+    autoPlay: true,
+    autoPlayDelay: 3000,
+    moveActiveFrameToTop: true,
+    navigationSkipThreshold: 1000,
+    fadeFrameWhenSkipped: false,
+    prevButton: $('.prev'),
+    nextButton: $('.next'),
+    animateStartingFrameIn: false
+  }).data("sequence");
+
 });
