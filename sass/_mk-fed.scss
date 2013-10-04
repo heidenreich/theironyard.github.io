@@ -468,11 +468,13 @@
       }
 
       .description {
-        bottom: 0;
+        bottom: 20px;
         left: 1em;
         font-size: 1.25em;
         color: white;
         margin-top: 0;
+        z-index: 9000;
+        position: absolute;
       }
     }
 
