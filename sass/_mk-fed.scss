@@ -20,7 +20,7 @@
   }
 
   &.base {
-    background: #eef1f6;
+    background: #fff;
   }
 
   &.first {
@@ -29,7 +29,7 @@
   }
 
   .next-class {
-    background: white;
+    background: #eeeeee;
     margin-top: 15px;
     padding: 25px 1.5em;
     text-align: center;
@@ -201,7 +201,7 @@
 
 .selling-points-callout {
   @include legacy-pie-clearfix;
-  background: #a96c26;
+  background: #CE822C;
   padding-top: 2em !important;
   padding-bottom:  5em !important;
 
