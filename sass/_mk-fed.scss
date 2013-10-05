@@ -16,7 +16,7 @@
     border-bottom: 3px solid white;
     width: 70%;
     min-width: 260px;
-    margin: 75px auto 25px;
+    margin: 50px auto 25px;
   }
 
   &.base {
@@ -74,7 +74,8 @@
   .learn-and-do {
 
     p {
-      font-size: 22px;
+      font-size: 18px;
+      // text-align: center;
 
       @media all and (max-width: 719px) {
         font-size: 18px;
@@ -85,7 +86,8 @@
       width: 23%;
       max-width: 231px;
       margin-right: 2%;
-      margin-bottom: 2%;
+      margin-bottom: 1%;
+      border-radius: 3px;
 
       &:last-child {
         margin-right: 0;
@@ -104,7 +106,7 @@
   .with-this-guy {
 
     p {
-      font-size: 21px;
+      font-size: 18px;
 
       @media all and (max-width: 719px) {
         font-size: 18px;
@@ -120,6 +122,7 @@
       float: left;
       margin-top: 10px;
       margin-right: 20px;
+      border-radius: 3px;
     }
   }
 
@@ -127,8 +130,8 @@
     padding-bottom: 40px;
 
     p {
-      font-size: 21px;
-      margin: 0 0 65px;
+      font-size: 18px;
+      margin: 0 0 50px;
 
       @media all and (max-width: 719px) {
         font-size: 18px;
@@ -277,7 +280,7 @@
     p {
       color: #eef1f6;
       font-style: italic;
-      font-size: 22px;
+      font-size: 20px;
       line-height: 27px;
       margin: 0;
       padding: 15px 25px;
@@ -340,7 +343,12 @@
 .curriculum-overview {
 
   p {
-    font-size: 22px;
+    font-size: 18px;
+  }
+
+  p.excited {
+    font-size: 21px;
+    text-align: center;
   }
 
   @media all and (max-width: 719px) {
@@ -350,6 +358,7 @@
 
     p {
       font-size: 18px;
+      text-align: center;
     }
   }
 
@@ -504,7 +513,7 @@
 
     p {
       width: 48%;
-      font-size: 21px;
+      font-size: 18px;
       line-height: 30px;
     }
 
