@@ -717,7 +717,8 @@
 .sponsor-logo-large {
   @include inline-block;
   margin-bottom: 1%;
-  width: 49.5%;
+  width: 48.5%;
+  border-radius: 3px;
 
   &:first-child {
     margin-right: 1%;
@@ -727,10 +728,11 @@
 .sponsor-logo-small {
   @include inline-block;
   margin-right: 1%;
-  width: 32.6%;
+  width: 32%;
+  border-radius: 3px;
 
   &:last-child {
-    margin-right: 0;
+    margin-right: 1%;
   }
 }
 
@@ -801,6 +803,10 @@
       p {
         color: white;
       }
+
+      ul {
+        color: white;
+      }
     }
 
     h3 {
@@ -836,14 +842,14 @@
             img {
               display: block;
               float: right;
-              width: 40%;
+              width: 35%;
             }
           }
         }
       }
 
       p {
-        font-size: 22px;
+        font-size: 18px;
         float: left;
         line-height: 35px;
         padding-top: 25px;
