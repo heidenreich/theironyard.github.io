@@ -4,15 +4,10 @@ $(document).ready(function() {
   // FAQ open/close behavior
   //------------------------------------------------------------------------------------------------//
   
-  $('li.question.open').removeClass('open');
-
   var $questions = $('.faq-questions li.question');
   
   $questions.on('click', 'h3', function(){
-    $questions.each(function() {
-      $(this).removeClass('open');
-    });
-
+    $questions.removeClass('open');
     $(this).parents('.question').addClass('open');
   });
 
@@ -23,18 +18,8 @@ $(document).ready(function() {
   var $courses = $('.curriculum-overview .columns>ul li');
 
   $courses.on('click', function() {
-
-    var $this = $(this);
-    
-    $courses.each(function() {
-      $(this).removeClass('open');
-    });
-
-    if ($this.hasClass('open')) {
-      $this.removeClass('open');
-    } else {
-      $this.addClass('open');
-    }
+    $courses.removeClass('open');
+    $(this).toggleClass('open');
   });
 
 
@@ -43,20 +28,5 @@ $(document).ready(function() {
   //------------------------------------------------------------------------------------------------//
 
   $('.fed-2 h2').fitText(1.15, {maxFontSize: '35px'});
-
-
-  // Sequence.js slider
-  //------------------------------------------------------------------------------------------------//
-
-  var sequence = $(".slider").sequence({
-    autoPlay: true,
-    autoPlayDelay: 3000,
-    moveActiveFrameToTop: true,
-    navigationSkipThreshold: 1000,
-    fadeFrameWhenSkipped: false,
-    prevButton: $('.prev'),
-    nextButton: $('.next'),
-    animateStartingFrameIn: false
-  }).data("sequence");
 
 });
