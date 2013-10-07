@@ -7,8 +7,8 @@ $(document).ready(function() {
   var $questions = $('.faq-questions li.question');
   
   $questions.on('click', 'h3', function(){
-    $questions.removeClass('open');
-    $(this).parents('.question').addClass('open');
+    $(this).parents('.question').toggleClass('open');
+    $questions.not($(this).parents('.question')).removeClass('open');
   });
 
 
@@ -18,8 +18,8 @@ $(document).ready(function() {
   var $courses = $('.curriculum-overview .columns>ul li');
 
   $courses.on('click', function() {
-    $courses.removeClass('open');
     $(this).toggleClass('open');
+    $courses.not($(this)).removeClass('open');
   });
 
 
