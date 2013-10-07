@@ -21,7 +21,7 @@ We live, work, and play in the wonderful [Upstate of South Carolina.](/upstate)
 
 <img src="/images/about/eric-dodds.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-### Eric Dodds
+### Eric Dodds - Managing Director
 
 Eric was born and raised in the Upstate (that’s SC for all you Yanks out there), where he spent his early years hiking, mountain biking and dirt bike riding with his Dad. Somehow or other he ended up at Clemson University, and the result was a degree in marketing, some tutoring in calculus, a lot of wakeboarding and a proudly matriculated summa cum laude.
 
@@ -37,7 +37,7 @@ When he's not knee-deep in startup world, you can probably find him hiking or bi
 
 <img src="/images/about/mason-stewart.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-### Mason Stewart
+### Mason Stewart - Technical Director
 
 Mason was born and raised in Jackson, Mississippi, better known as the Dirty South. He grew up in the woods and likes animals, trees, and beer. Upon moving back to the USA after 4 years in Japan, at age 24 he ended a multi-year fast from programming and hit the ground running. Like any good college graduate with a degree in philosophy, Mason is a front-end engineer and a JavaScript guy, but "after hours" he loves programming in Lisp.
 
@@ -51,7 +51,7 @@ A decent mixologist, and no mean hand at Japanese cooking, his preferred past-ti
 
 <img src="/images/about/peter-barth.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-### Peter Barth
+### Peter Barth - Executive Director
 
 Peter went to Vanderbilt University, where he studied computer engineering. After school he did what all engineers do: moved to Manhattan to become an options and securities principal at Duke & Company (and later Morgan Stanley). Minting deals and moving stock was fun, but a few years on Wall Street reminded Pete he was a hacker at heart.
 
@@ -65,7 +65,7 @@ Peter married his college sweetheart and has 5 incredible kids. In the rare time
 
 <img src="/images/about/kate-mccarthy.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-### Kate McCarthy
+### Kate McCarthy - Program Manager
 
 Kate was born and raised in Pasadena, CA but traded sunglasses for snowshoes at McGill University in Montreal. It only took her three years to get two degrees (Cultural Studies and Art History), and she even had time to build a small cupcake business. 
 
