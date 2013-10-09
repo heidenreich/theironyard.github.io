@@ -69,7 +69,7 @@ Volunteers are always welcome. Come join the fun!
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 7 weeks  
 **Ages**: 13 - 18  
-**Cost**: $35/class (+$85 kit cost)
+**Cost**: $210 (+$85 kit cost)
 
 ---
 

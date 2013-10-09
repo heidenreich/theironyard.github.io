@@ -74,7 +74,7 @@ Volunteers are always welcome. Come join the fun!
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
 **Ages**: 13 - 18 *(or CoderDojo graduate)*  
-**Cost**: $35/class
+**Cost**: $210
 
 ---
 
