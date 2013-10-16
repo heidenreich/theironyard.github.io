@@ -4,6 +4,8 @@ title: "Lazy Friday Links, Vol. 17"
 date: 2013-09-27 14:28
 comments: true
 categories: 
+- Lazy Friday Links
+author: "Eric Dodds"
 ---
 
 ---
