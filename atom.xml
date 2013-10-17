@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.com/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-10-17T16:09:22-04:00</updated>
+  <updated>2013-10-17T16:16:55-04:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -35,11 +35,11 @@
 
 <p>Much of this pain is unnecessary. Sure, not everyone is cut out to work for themselves, but for most people even a little bit of guidance can significantly flatten the learning curve and build the foundation for a great career.</p>
 
-<p>Several current students (and graduates) in our Front End Engineering are pursuing freelance, so over the past week I&rsquo;ve been developing curriculum that will help them learn the ropes and not repeat the many mistakes I made early on.</p>
+<p>Several current students (and graduates) in our Front End Engineering course are pursuing freelance, so over the past week I&rsquo;ve been developing curriculum that will help them learn the ropes and not repeat the many mistakes I made early on.</p>
 
-<p>Copy for a few lectures turned into sizable guide, and we decided to open source the whole thing. It&rsquo;s called <strong>The Little Freelancer</strong>.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<p>The notes for a few lectures turned into sizable guide, and we decided to <a href="https://github.com/ericdodds/the-little-freelancer">open source the whole thing</a>. It&rsquo;s called <strong>The Little Freelancer</strong>.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
-<p>We hope it will make lots freelancer and their clients happy. We also hope people smarter than us will contribute to it.</p>
+<p>We hope it will make lots of freelancers and their clients happy. We also hope people smarter than us will contribute to it.</p>
 
 <p>Here&rsquo;s a snippet from the first section:</p>
 
@@ -56,7 +56,7 @@
 <hr/>
 <ol>
 <li id="fn:1">
-<p><a href="https://github.com/ericdodds/the-little-freelancer">Check out The Little Freelancer on GitHub</a>. The name is a nod to Daniel Friedman&rsquo;s amazing book, <a href="http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992">The Little Schemer</a>.<br><br>The guide was originally written for students in The Iron Yard&rsquo;s intensive <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering program</a>.  <a href="www.ericdodds.com">Eric Dodds</a> wrote the first draft, which <a href="https://github.com/masondesu">Mason Stewart</a> edited and proofed with hawk-like eyes. Special thanks to <a href="http://danieljeffords.com">Daniel Jeffords</a>, <a href="www.andrewramos.com">Andrew Ramos</a>, and <a href="http://www.behance.net/andrewmcintee">Andrew McIntee</a> for feedback. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<p><a href="https://github.com/ericdodds/the-little-freelancer">Check out The Little Freelancer on GitHub</a>. The name is a nod to Daniel Friedman&rsquo;s amazing book, <a href="http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992">The Little Schemer</a>.<br><br>The guide was originally written for students in The Iron Yard&rsquo;s intensive <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering program</a>.  <a href="http://www.ericdodds.com">Eric Dodds</a> wrote the first draft, which <a href="https://github.com/masondesu">Mason Stewart</a> edited and proofed with hawk-like eyes. Special thanks to <a href="http://danieljeffords.com">Daniel Jeffords</a>, <a href="http://www.andrewramos.com">Andrew Ramos</a>, and <a href="http://www.behance.net/andrewmcintee">Andrew McIntee</a> for feedback. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
