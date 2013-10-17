@@ -24,11 +24,11 @@ Discovering the hard parts of freelancing is an extremely discouraging experienc
 
 Much of this pain is unnecessary. Sure, not everyone is cut out to work for themselves, but for most people even a little bit of guidance can significantly flatten the learning curve and build the foundation for a great career. 
 
-Several current students (and graduates) in our Front End Engineering are pursuing freelance, so over the past week I've been developing curriculum that will help them learn the ropes and not repeat the many mistakes I made early on. 
+Several current students (and graduates) in our Front End Engineering course are pursuing freelance, so over the past week I've been developing curriculum that will help them learn the ropes and not repeat the many mistakes I made early on. 
 
-Copy for a few lectures turned into sizable guide, and we decided to open source the whole thing. It's called **The Little Freelancer**.[^1]
+The notes for a few lectures turned into sizable guide, and we decided to [open source the whole thing](https://github.com/ericdodds/the-little-freelancer). It's called **The Little Freelancer**.[^1]
 
-We hope it will make lots freelancer and their clients happy. We also hope people smarter than us will contribute to it. 
+We hope it will make lots of freelancers and their clients happy. We also hope people smarter than us will contribute to it. 
 
 Here's a snippet from the first section: 
 
@@ -42,4 +42,4 @@ Here's a snippet from the first section:
 
 > No matter what career you're going to pursue, writing good code is only the cost of entry. Your goal is to produce top-notch work *and* be someone that others want to work with. 
 
-[^1]: [Check out The Little Freelancer on GitHub](https://github.com/ericdodds/the-little-freelancer). The name is a nod to Daniel Friedman's amazing book, [The Little Schemer](http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992).<br><br>The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](https://github.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
+[^1]: [Check out The Little Freelancer on GitHub](https://github.com/ericdodds/the-little-freelancer). The name is a nod to Daniel Friedman's amazing book, [The Little Schemer](http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992).<br><br>The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](http://www.ericdodds.com) wrote the first draft, which [Mason Stewart](https://github.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](http://www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
