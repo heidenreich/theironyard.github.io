@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.com/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-10-16T15:59:21-04:00</updated>
+  <updated>2013-10-17T16:09:22-04:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Little Freelancer]]></title>
+    <link href="http://theironyard.com/blog/2013/10/17/the-little-freelancer/"/>
+    <updated>2013-10-17T15:57:00-04:00</updated>
+    <id>http://theironyard.com/blog/2013/10/17/the-little-freelancer</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>Have you ever done freelance or contract work? If so, do you remember the excitement and fear at the beginning of your journey? How about your first client? Your first big check?</p>
+
+<p>Realizing you are your own boss is great—you get to set your own schedule, choose the tools you use, and (hopefully) make way more money than you did in your junior-level 9-5 gig.</p>
+
+<p>But, as may have discovered, it&rsquo;s not that simple.</p>
+
+<!-- more -->
+
+
+<p>Do you remember the feeling in your gut the first time you got an email from an upset client? Or way underquoted a project and realized you brought home a whopping $4/hr?</p>
+
+<p>Discovering the hard parts of freelancing is an extremely discouraging experience and has made for lots of unhappy workers and clients.</p>
+
+<p>Much of this pain is unnecessary. Sure, not everyone is cut out to work for themselves, but for most people even a little bit of guidance can significantly flatten the learning curve and build the foundation for a great career.</p>
+
+<p>Several current students (and graduates) in our Front End Engineering are pursuing freelance, so over the past week I&rsquo;ve been developing curriculum that will help them learn the ropes and not repeat the many mistakes I made early on.</p>
+
+<p>Copy for a few lectures turned into sizable guide, and we decided to open source the whole thing. It&rsquo;s called <strong>The Little Freelancer</strong>.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>We hope it will make lots freelancer and their clients happy. We also hope people smarter than us will contribute to it.</p>
+
+<p>Here&rsquo;s a snippet from the first section:</p>
+
+<blockquote><h4>Welcome to customer service</h4>
+
+<p>This guide covers practical advice ranging from your first client meeting to self employment taxes. Before we get there, though, we want to remind you of something <strong>really</strong> important:</p>
+
+<p><strong><em>The way you treat people will always be more important than the work you do.</em></strong></p>
+
+<p>There are incredibly talented programmers out there who are jerks and struggle to find work because people don&rsquo;t like being around them. There are also bad programmers who always have jobs because people like to work with them.</p>
+
+<p>No matter what career you&rsquo;re going to pursue, writing good code is only the cost of entry. Your goal is to produce top-notch work <em>and</em> be someone that others want to work with.</p></blockquote>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="https://github.com/ericdodds/the-little-freelancer">Check out The Little Freelancer on GitHub</a>. The name is a nod to Daniel Friedman&rsquo;s amazing book, <a href="http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992">The Little Schemer</a>.<br><br>The guide was originally written for students in The Iron Yard&rsquo;s intensive <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering program</a>.  <a href="www.ericdodds.com">Eric Dodds</a> wrote the first draft, which <a href="https://github.com/masondesu">Mason Stewart</a> edited and proofed with hawk-like eyes. Special thanks to <a href="http://danieljeffords.com">Daniel Jeffords</a>, <a href="www.andrewramos.com">Andrew Ramos</a>, and <a href="http://www.behance.net/andrewmcintee">Andrew McIntee</a> for feedback. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 17]]></title>
@@ -759,32 +809,6 @@ Nashville, TN. 37203</em>
 
 
 <p>We hope that you never tire of us Photoshopping your face on stuff.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lazy Friday Links, Vol. 11]]></title>
-    <link href="http://theironyard.com/blog/2013/02/15/lazy-friday-links-vol-11/"/>
-    <updated>2013-02-15T16:19:16-05:00</updated>
-    <id>http://theironyard.com/blog/2013/02/15/lazy-friday-links-vol-11</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/20101116025029271.jpg" style="border-radius: 3px;"></p>
-
-<p><strong>1) Obama practically endorses CoderDojo! </strong> In an Inc. article, <a href="http://dashes.com/anil/2012/12/the-web-we-lost.html">Obama: Computer Programming Education for Kids &lsquo;Makes Sense&rsquo;</a>, Julie Strickland writes about how the possibility for learning vocational skills, like computer programming, can change the future of young kids. We agree! That&rsquo;s what CoderDojo is for. Here&rsquo;s a snippet:</p>
-
-<!-- more -->
-
-
-<blockquote><p>The president went on to reference a dinner with Mark Zuckerberg, during which the Facebook founder said he taught himself programming primarily because he was interested in games. Giving high school students the opportunity to delve into such interests, President Obama said, but showing that it requires a knowledge of math and science, and making that training available in high school, “not only prepares young people who may choose not to go to a four-year college to be job-ready, but it also engages kids.</p></blockquote>
-
-<p>2) <a href="http://bit.ly/Uo594e">So your cruise ship is being pulled to safety by a tug boat? why not cut out the middle man</a>.</p>
-
-<p>3) <a href="http://www.guardian.co.uk/world/video/2013/feb/15/meteor-shards-russia-explosion-video">Scary video, poor Russia</a>.</p>
-
-<p>4) <a href="http://techcrunch.com/2013/02/14/graph-search-safety/">Sorry Pedo&rsquo;s, your anticipation just got crushed</a>.</p>
-
-<p><em><a href="http://lovemeow.com/wp-content/uploads/2012/04/3DqoH.jpg">*Obligatory cat-related-something, <strong>&ldquo;Meow Mix&rdquo;</strong> edition</a>.</em></p>
-
-<p>Happy Friday y&#8217;all.</p>
 ]]></content>
   </entry>
   
