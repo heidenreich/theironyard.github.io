@@ -57,7 +57,7 @@ You bet we do. <a href="mailto:academy@theironyard.com?subject=I want to take th
 
 <img src="/images/education/academy/ios/rob-wright-instructor.jpg" style="border-radius: 3px;">
 
-#### Andrew Ramos
+#### Rob Wright
 
 **iOS Instructor**   
 [@f1fe](http://twitter.com/f1fe)
