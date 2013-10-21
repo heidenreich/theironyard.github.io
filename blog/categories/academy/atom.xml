@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Academy | The Iron Yard]]></title>
   <link href="http://theironyard.com/blog/categories/academy/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-10-19T18:49:53-04:00</updated>
+  <updated>2013-10-21T17:22:20-04:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing Scholarships for Women in Tech]]></title>
+    <link href="http://theironyard.com/blog/2013/10/21/announcing-scholarships-for-women-in-tech/"/>
+    <updated>2013-10-21T15:39:00-04:00</updated>
+    <id>http://theironyard.com/blog/2013/10/21/announcing-scholarships-for-women-in-tech</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>We&rsquo;ve been teaching programming and hardware hacking to kids for almost a year now at The Iron Yard, and the students have been a wonderful mix of girls and boys, from a wide range of economic, cultural, and ethnic backgrounds. Through flat-out-free classes and full scholarships for our paid classes, we&rsquo;ve tried to make sure that any child with even a modicum of curiosity has a chance to learn programming.</p>
+
+<p>On many occasions, the mothers, older sisters, and aunts of our students have expressed that they wish programs like ours had existed years ago. Many women we&rsquo;ve spoken to were directly discouraged from STEM when they were younger, being told, &ldquo;engineering is for men.&rdquo;</p>
+
+<!-- more -->
+
+
+<p>Making tech a more welcoming environment for <em>everyone</em> is a cause we support wholeheartedly, and we&rsquo;re going to take steps towards that end.</p>
+
+<p>As our first effort, I&rsquo;m thrilled to announce that next semester we&rsquo;re offering two women a $1500 scholarship towards our <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering</a> class in January.</p>
+
+<p>In addition to the normal student application, those seeking scholarships will be asked to write a brief essay (600 words) on how they plan to help promote women in tech. (If you&rsquo;re interested, <a href="http://theironyard.com/education/academy/front-end-engineering/women-in-tech-scholarship/">you can apply here</a>.)</p>
+
+<p>We&rsquo;re incredibly proud of all of our students and graduates and the contributions they&rsquo;ve already made to make tech more welcoming and accessible in our community.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Progress Report: The Iron Yard Academy's First Class]]></title>
@@ -157,32 +181,6 @@
 <p><strong>CAN I APPLY RIGHT NOW??</strong></p>
 
 <p>Absolutely. <a href="http://www.theironyard.com/academy/the-iron-yard-academy">Head over to our website</a>, read about the course, and <a href="http://www.theironyard.com/academy/apply">sign on up</a>. We&rsquo;ve had lots of strong applicants already, so get it while it&rsquo;s hot.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CoderDojo Greenville Live! ]]></title>
-    <link href="http://theironyard.com/blog/2013/02/05/coderdojo-greenville-live/"/>
-    <updated>2013-02-05T11:18:16-05:00</updated>
-    <id>http://theironyard.com/blog/2013/02/05/coderdojo-greenville-live</id>
-    <content type="html"><![CDATA[<p>We&rsquo;ve talked a lot about our <a href="http://www.theironyard.com/academy/kids">CoderDojo program</a> for kids, and we&rsquo;ve even shared <a href="/images/blog/2013/01/getting-to-their-level-teaching-kids-to-code/">great stories</a> we&rsquo;ve experienced along the way.</p>
-
-<p>We recently had <a href="http://chrisbrankfilms.com/">Chris Brank</a> and his team fire up the video cameras so you could see what it looks like live.</p>
-
-<!-- more -->
-
-
-
-
-<iframe src="http://player.vimeo.com/video/58981618" width="500" height="281" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-
-
-
-<iframe src="http://player.vimeo.com/video/58981617" width="500" height="281" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-
-
 ]]></content>
   </entry>
   
