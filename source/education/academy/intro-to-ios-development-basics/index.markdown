@@ -35,7 +35,7 @@ Yes, it is. We woudln't joke about something like that.
 
 #### You're offering a full version of this class? 
 
-You bet, and it's going to be awesome. You'll actually design your own app. [Check it out!](/education/academy/mobile-app-design)
+You bet, and it's going to be awesome. You'll actually design your own app. [Check it out!](/education/academy/ios-development-basics/)
 
 #### I'm coming in from out of town to take this course and need a place to stay. Got anything? 
 
