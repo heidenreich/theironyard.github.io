@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Academy | The Iron Yard]]></title>
   <link href="http://theironyard.com/blog/categories/academy/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-10-22T07:21:47-04:00</updated>
+  <updated>2013-10-22T07:27:38-04:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<hr />
 
 <p><img src="http://theironyard.com/images/blog/2013/10/10.22.13/women-in-tech-scholarships.jpg" style="border-radius: 3px;">
-<em>Jen Ngetich, Class of April &lsquo;13&rsquo;</em></p>
+<em>Jen Ngetich, Class of April &lsquo;13</em></p>
 
 <p>We&rsquo;ve been teaching programming and hardware hacking to kids for almost a year now at The Iron Yard, and the students have been a wonderful mix of girls and boys, from a wide range of economic, cultural, and ethnic backgrounds. Through flat-out-free classes and full scholarships for paid classes, we&rsquo;ve tried to make sure that any child with even a modicum of curiosity has a chance to learn programming.</p>
 
@@ -32,15 +32,23 @@
 
 <p>Making tech a more welcoming environment for <em>everyone</em> is a cause we support wholeheartedly, and we&rsquo;re working to make that vision reality.</p>
 
-<p><strong>As our first effort, I&rsquo;m thrilled to announce that next semester we&rsquo;re offering two women a $1500 scholarship towards our <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering</a> class in January</strong>.</p>
+<p><strong>As our first effort, I&rsquo;m thrilled to announce that next semester we&rsquo;re offering two women a $1500 scholarship towards our Front End Engineering class in January</strong>.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
-<p>In addition to the normal student application, those seeking scholarships will be asked to write a brief essay (600 words) on how they plan to help promote women in tech. (If you&rsquo;re interested, <a href="http://theironyard.com/education/academy/front-end-engineering/women-in-tech-scholarship/">you can apply here</a>.)</p>
+<p>In addition to the normal student application, those seeking scholarships will be asked to write a brief essay (600 words) on how they plan to help promote women in tech (the application link is at the end of the post). <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
 
 <p>We&rsquo;re incredibly proud of all of our students and graduates and the contributions they&rsquo;ve already made to make tech more welcoming and accessible in our community.</p>
 
 <p>We can&rsquo;t wait to continue the tradition next semester with a focus on women in tech.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Check out our intensive, 3-month <a href="http://theironyard.com/education/academy/front-end-engineering/">Front End Engineering course</a>. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Visit the <a href="http://theironyard.com/education/academy/front-end-engineering/women-in-tech-scholarship/">Women in Tech Scholarship Application</a>.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
 
-<hr />
 ]]></content>
   </entry>
   
