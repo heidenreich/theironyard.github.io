@@ -4,7 +4,7 @@ title: "Announcing Scholarships for Women in Tech"
 date: 2013-10-21 15:39
 comments: true
 categories: 
-- Academy
+- Education
 author: "Mason Stewart"
 ---
 
