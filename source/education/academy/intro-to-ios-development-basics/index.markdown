@@ -31,7 +31,7 @@ Have a software development background and want to develop an app for the iPhone
 
 #### Is this class really free? 
 
-Yes, it is. We woudln't joke about something like that. 
+Yes, it is. We wouldn't joke about something like that. 
 
 #### You're offering a full version of this class? 
 

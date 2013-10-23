@@ -37,7 +37,7 @@ We want to help designers navigate this exploding landscape by teaching the fund
 
 #### Is this class really free? 
 
-Yes, it is. We woudln't joke about something like that. 
+Yes, it is. We wouldn't joke about something like that. 
 
 #### You're offering a full version of this class? 
 
