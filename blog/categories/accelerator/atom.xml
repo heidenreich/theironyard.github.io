@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Accelerator | The Iron Yard]]></title>
   <link href="http://theironyard.com/blog/categories/accelerator/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-10-23T08:48:55-04:00</updated>
+  <updated>2013-10-23T11:39:25-04:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Accepting You're Wrong Will Help You Get it Right (Why Design Must Be Measured)]]></title>
+    <link href="http://theironyard.com/blog/2013/10/23/guest-post-accepting-youre-wrong-will-help-you-get-it-right/"/>
+    <updated>2013-10-23T11:00:00-04:00</updated>
+    <id>http://theironyard.com/blog/2013/10/23/guest-post-accepting-youre-wrong-will-help-you-get-it-right</id>
+    <content type="html"><![CDATA[<hr />
+
+<p><img src="http://theironyard.com/images/blog/2013/10/10.23.13/chartspan-ux-post.jpg" style="border-radius: 3px; border: 1px solid grey;"></p>
+
+<p><em>The following article is a guest post from Jon-Michial Carter, CEO/co-founder of Chartspan, one of our Digital Health Accelerator teams.</em></p>
+
+<h4>Form vs. Function</h4>
+
+<p>Jony Ives and Steve Jobs single handedly introduced a generation of technologists to “design.” Abused adjectives such as “elegant” and “gorgeous” are applied to the vernacular of product launches ranging from vacuums to software. <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>Let’s dissect “design” for a moment. What does “design” mean to you? In anticipation of writing this piece I quickly asked four people what the word “design” meant to them. All four used words like “aesthetics,” “the way something looks,” and “appearance.” All are accurate, but incomplete.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>Design requires form and function. We obsess over form. Whether it’s a style of jeans or the colors that compliment our living room furniture, the vanity of form is a steady stream of conscious thought for most.</p>
+
+<p>The “function” of design is “form’s” red headed stepsister. Nowhere is that more true than in the technology world. We produce software at a staggering frequency with little to no validation that the intended function satisfies the end user.</p>
+
+<p>My frame of reference is the technology start-up world. As I lead the launch of a startup called ChartSpan (patient healthcare technology) I am curiously frightened at the amount of time and money spent on launching start-up companies that have never tested the hypothesis of their solution with end-users prior to releasing their product.</p>
+
+<p>Most start-ups are based on an innovative concept that is trying to solve some real world problem. The founders of those companies dance the Silicon Valley jig until someone agrees to fund their idea. Developers and marketers are hired, office space is rented and millions of dollars are invested to get the product out to the public.</p>
+
+<p>90% of all start-ups fail. Why? Nobody wanted their product. Did millions of dollars need to be spent in order to find this out? No, not if intelligent design practices were followed.  They usually aren’t.</p>
+
+<h4>We’re Wrong</h4>
+
+<p>ChartSpan was accepted into the Iron Yard Digital Healthcare Accelerator this summer. We showed up to the Accelerator on day one with our product and marketing strategy complete. We spent 15 months building our product. We looked forward to refinement, but the hard work was done. We were ready to launch. <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>A smart man named Peter Barth runs The Iron Yard. Unlike most who have had financial success in the entrepreneurial world, Peter is modest. He is astutely observant and connected. He lets you make mistakes and helps you get back up when you stumble.</p>
+
+<p>Peter recognized my headstrong manner had led to the creation of a company and product that had never seen a moment of functional design validation. We obsessed over the user experience, but our design was based on logic derived from our own common sense assessments. Never did we test or validate with our intended audience.</p>
+
+<p>To this day I view what happened next as the most important day in our company’s young life. Peter organized a private meeting with four User Interface and User Experience design experts. He went out of his way to organize the meeting, ensuring it was catered with food and attended by all.</p>
+
+<p>The meeting was humbling. The four design experts trashed our experience and interface. They were kind, but forthright. It became clear that everything surrounding our design needed to be rethought. They also challenged us to stop assuming we knew what our users wanted. They pushed us to validate our assumptions.</p>
+
+<p>We felt lost. I’ve overseen development projects for at least 25 of the Fortune 500. I thought I understood design. What I learned was that UX (user experience) must be separated from UI (user interface). UX should not be left in the hands of graphic artists and developers, or worse, the company founders. The software’s navigation, function and experience must be separated and elevated in importance.</p>
+
+<p>Next, I searched for an experienced UX design professional. I found Mary Treat-Massey, a graduate of Clemson’s Human Factor design program. My co-founder David and I fondly refer to our experience with Mary as our “come to Jesus moment.” <sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
+
+<p>Mary taught us the basics of UX design. She taught us how to create scenario tests. She taught us how to measure and evaluate user experience. She helped us redesign our entire product, based on what users told us they wanted and validated, not what we thought they wanted.</p>
+
+<p>It turns out everything we thought our users wanted was completely wrong. Our redesign looks nothing like our original product. It has become remarkably simple. Menus have been simplified. Features have been added and stripped. The UX and UI are now “elegant” and “gorgeous” by virtue of being well thought out and functional rather than trying to force design on top of a bad interface. The whole experience has been made simpler and more intuitive by listening to how our end-users expect the process to work. The key word is “listening”; you have to be open and willing to accept the fact your assumptions are wrong. We were humbled, but in the end we came out the other side with a much more polished and well thought-out product.</p>
+
+<p>On the eve of our launch, as I stand back and look at what we’ve created, I am proud. <strong>It’s no longer my product</strong>. It’s a product that has been 100% designed by a group of non-technical mothers (our intended end-user.) The process has actually removed the uncertainty of wondering how the public will react when we release. <em>We already know how they will react</em>.</p>
+
+<hr />
+
+<p><strong>About the Author</strong><br/>
+<em>Jon-Michial Carter is the co-founder and CEO of <a href="http://chartspan.com">ChartSpan Medical Technologies</a>. ChartSpan is a healthcare data company providing patients technology to manage their healthcare records and information.</em></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>John Ives is the SVP of Design at Apple, and you can <a href="http://www.apple.com/pr/bios/jonathan-ive.html">read more about him on Apple&rsquo;s PR site</a>. If you don&rsquo;t know who Steve Jobs is, well, you&rsquo;re in for a treat. Read about the man who changed computing in <a href="http://en.wikipedia.org/wiki/Steve_Jobs">the Steve Jobs Wikipedia article</a>.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>We run an accelerator program specifically for companies disrupting the Digital Health space. At the time of this writing, our teams just got off of the road from fundraising events in Silicon Valley and the Southeast. <a href="http://theironyard.com/accelerator/digital-health-program/">Learn more about the Digital Health program and our teams on The Iron Yard Website</a>. <a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Here&rsquo;s a description of Clemson University&rsquo;s Human Factors program: <em>Human Factors Psychology, also known as Engineering Psychology, is the study of human interaction with technological systems, ranging from simple hand tools to complex technology such as nuclear power plants, transportation systems, and consumer technology such as smartphones. This discipline applies basic research to existing technological problems.</em> <br><br>You can read more about the program on the Clemson Psychology Department&rsquo;s website](http://www.clemson.edu/psych/grad/phd-hf/). <a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Iron Yard Demo Days - Spring 2013]]></title>
@@ -177,48 +250,6 @@ Nashville, TN. 37203</em>
 <p><a href="https://www.relify.com/docs/api/1/use_cases">Check out a few use cases</a> from the documentation, and be sure to check out the <a href="https://developers.relify.com/index">product</a> and <a href="https://developers.relify.com/pricing">pricing</a>.</p>
 
 <p>Congrats, Spent, and hello Relify!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello MoonClerk! Iron Yard Alumni Announces Public Product Launch]]></title>
-    <link href="http://theironyard.com/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch/"/>
-    <updated>2013-02-06T17:35:06-05:00</updated>
-    <id>http://theironyard.com/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/moonclerk-launch.jpg" style="border-radius: 3px;"></p>
-
-<p>Ask any small business and they&rsquo;ll tell you that accepting recurring payments is either a huge hassle, overly expensive, or probably both. Sure, there are awesome point of sale tools for almost any type of vendor (Square, etc.), but if your business runs any type of subscription based product or service, you&rsquo;re probably in for a headache.</p>
-
-<p>Enter <a href="http://www.moonclerk.com/">MoonClerk</a>, Iron Yard 2012 alumni.</p>
-
-<!-- more -->
-
-
-<p>Dodd Caldwell, the founder, was really fed up with having to either develop fully custom payment solutions for each new project, or use  existing providers that were painful to work with (ahem, PayPal, ahem). So he decided to solve the problem from the ground up.</p>
-
-<p>In a sentence, here&rsquo;s what it does:</p>
-
-<blockquote><p>MoonClerk is a web-based service designed to help small businesses easily accept recurring and one-time online payments.</p></blockquote>
-
-<p>&ldquo;But they can already do that!&rdquo; you say. True, but not without a lot of difficulty or a lot of money. In fact, you don&rsquo;t have to have any technical capability to use MoonClerk. It differentiates itself from e-commerce solutions and point-of-sale systems such as Square by allowing businesses to gather credit card information from their customer or donors and then charging that credit card on a recurring or subscription basis.</p>
-
-<p>And, it&rsquo;s amazingly easy to set up and use:</p>
-
-<blockquote><p>Businesses can set up MoonClerk without any technical or programming skills. The entire setup process generally takes around 5 minutes to begin accepting payments because there are no merchant accounts, payment gateways, or other systems to apply for and implement. MoonClerk provides bank-level security so businesses don&rsquo;t need to deal with SSL certificates or PCI compliance. Checkout works on all devices &ndash; desktop and mobile.</p></blockquote>
-
-<p>Not only that, but it automates some of the annoying administrative tasks associtated with running a small business:</p>
-
-<blockquote><p>So, for instance, a lawn care service can set a customer up on-site with a subscription payment and then forget about having to send and collect on invoices. We also help them with some of the back-office issues, like sending out automatic receipts.</p></blockquote>
-
-<p>Here&rsquo;s what Dodd had to say about building the product:</p>
-
-<blockquote><p>When my co-founder, Ryan Wood, and I decided to build MoonClerk, we really wanted to help businesses convert customers. When someone decides to pay you or donate to you, you want them to complete the process. By giving our customers control of the design of the checkout experience and other great tools, we&rsquo;re able to help them accomplish that goal. PayPal was one of the only recurring systems out there for small businesses and it didn&rsquo;t really allow non-technical users to do that.</p></blockquote>
-
-<p>How much does it cost? MoonClerk piggybacks on payment processor Stripe. Businesses can set up a Stripe account while activating their MoonClerk accounts. Funds are automatically transferred into the business&rsquo;s bank account, and pricing starts at $9/month. Stripe charges 2.9% + $.30 per successful transaction.</p>
-
-<p>Three cheers for an amazing product, Dodd and Ryan.</p>
-
-<p><em>Want more? Visit <a href="http://www.moonclerk.com/">www.moonclerk.com</a> or contact Dodd Caldwell at dodd(at)moonclerk(dot)com</em></p>
 ]]></content>
   </entry>
   
