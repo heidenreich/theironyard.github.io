@@ -21,8 +21,6 @@ In our after school website class, students learn internet fundamentals, how the
 
 Registration is open for the following sessions: 
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
-
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
 
 ### 2014 Schedule
