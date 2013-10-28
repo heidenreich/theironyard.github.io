@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Build a Website"
+title: "Build a website"
 date: 2013-07-31 15:39
 color: "#CE822C"
 comments: true
