@@ -10,7 +10,7 @@ footer: true
 parent_url: "/education/labs"
 ---
 
-<img src="/images/education/labs/make-your-website-mobile-friendly.jpg" style="border-radius: 3px;">
+<img src="/images/education/labs/labs-intro-to-javascript.jpg" style="border-radius: 3px;">
 
 ### Learn the foundations of programming with JavaScript
 
@@ -21,7 +21,7 @@ In this class we'll start by covering the fundamentals of programming, de-mystif
 
 ### 2014 Schedule
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-mobile-website-january-2014" class="button"> Jan 5 - Feb 11 / 6pm</a>
+<a href="https://tito.io/the-iron-yard/greenville-labs-intro-to-javascript-march-2014" class="button"> Mar 3 - Apr 14 / 6pm</a>
 
 ---
 <a id="faq"></a>
