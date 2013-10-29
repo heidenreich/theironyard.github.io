@@ -22,15 +22,13 @@ In this class you'll learn internet fundamentals, how the browser works, and the
 
 Registration is open for the following sessions: 
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
+<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013-430pm" class="button"> Nov 5 - Dec 10 / 4:30pm</a>
+
+<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013-6pm" class="button"> Nov 5 - Dec 10 / 6pm</a>
 
 ### 2014 Schedule
 
-We've already scheduled sessions for the spring semester, but haven't opened registration yet. Sign up for the waitlist, and you'll be the first to know when signups go live. 
-
-* <a href="http://eepurl.com/EwCkb"> Join the Jan. 1 - Feb. 11 waitlist</a>
-* <a href="http://eepurl.com/EwDZ5"> Join the Mar. 4 - Apr. 8 waitlist</a>
-* <a href="http://eepurl.com/EwD0r"> Join the Apr. 22 - May 27 waitlist</a>
+<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-january-2014-430pm" class="button"> Jan 5 - Feb 11 / 4:30pm</a>
 
 ---
 <a id="faq"></a>
@@ -68,12 +66,11 @@ Volunteers are always welcome. Come join the fun!
 #### Greenville class details
 
 **Day**: Tuesdays  
-**Time**: 4:00-5:00pm  
-**Location**: Greenville, SC
+**Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
-**Ages**: 13 - 18 *(or CoderDojo graduate)*  
-**Cost**: $210
+**Ages**: 8 and older  
+**Cost**: $110  
 
 ---
 
