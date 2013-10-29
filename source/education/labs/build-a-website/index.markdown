@@ -3,6 +3,7 @@ layout: page
 title: "Build a website"
 date: 2013-07-31 15:39
 color: "#CE822C"
+description: "Learn to build your very own website using HTML and CSS."
 comments: true
 sharing: true
 footer: true
@@ -11,9 +12,9 @@ parent_url: "/education/labs"
 
 <img src="/images/education/labs/build-a-website.jpg" style="border-radius: 3px;">
 
-### Website Basics: HTML and CSS
+### Website Basics: HTML and CSS  
 
-In our after school website class, students learn internet fundamentals, how the browser works, and the basics of building things for the web. While gaining a working knowledge of both markup and CSS, kids will craft their very own website. (You'll have to print it out to put it on the fridge, mom and dad.)
+In this class you'll learn internet fundamentals, how the browser works, and the basics of building things for the web. While gaining a working knowledge of both markup and CSS, you'll will craft and launchyour very own website. 
 
 ---
 <a id="schedule"></a>
@@ -35,17 +36,17 @@ We've already scheduled sessions for the spring semester, but haven't opened reg
 <a id="faq"></a>
 ## FAQ
 
-#### My child is younger than 13. Is there any way he/she can take the class?
+#### Is there an age limit?
 
-If your child has completed CoderDojo Scratch, CoderDojo Electronics, or both, they may take this course. We don't accept students younger than 8 years old.
+On the young end, students have to be at least 8 years old to take the class. There's no maximum age, but you do have to know how to type. 
 
-#### I registered interest in a full class. How will I know if my child gets in?
+#### I registered interest in a full class. How will I know if I get in? 
 
 If a student in a full class drops out before the course starts, we will give their spot to those who registered interest on a first-come-first serve basis. 
 
-#### Do I need to sign any legal paperwork in order for my child to take the class? 
+#### Is there any paperwork necessary for kids taking the class? 
 
-We require every student to have a waiver/release form signed by a parent or guardian. You will recieve a link to this form when you sign up for a ticket. 
+We require every student under 18 to have a waiver/release form signed by a parent or guardian. You will recieve a link to this form when you sign up for a ticket. 
 
 {% sidebar %}
 
@@ -82,7 +83,7 @@ Volunteers are always welcome. Come join the fun!
 
 **Labs Instructor**
 
-Daniel is an Iron Yard Academy graduate and a gifted teacher. He has a passion for helping kids learn to program. 
+Daniel is an Iron Yard Academy graduate and a gifted teacher. He has a passion for teaching people to program. 
 
 ---
 
