@@ -63,7 +63,7 @@ Volunteers are always welcome. Come join the fun!
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 12 weeks  
 **Ages**: 8 and older  
-**Cost**: $110  
+**Cost**: $210  
 
 ---
 
