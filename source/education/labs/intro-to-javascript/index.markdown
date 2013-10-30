@@ -61,7 +61,7 @@ Volunteers are always welcome. Come join the fun!
 **Day**: Tuesdays  
 **Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
+**Duration**: 8 weeks  
 **Ages**: 8 and older  
 **Cost**: $110  
 
