@@ -1,0 +1,199 @@
+---
+layout: home
+title: "Greenville Grok"
+date: 2013-08-09 10:49
+description: "No heroes, just people hungry for tectonic shifts in thinking and doing."
+color: "#B8584B"
+comments: true
+sharing: true
+footer: true
+parent_url: "/events"
+sub_nav:
+  - name: "Tickets are on sale!"
+    slug: "https://tito.io/the-iron-yard/Grok-2014"
+---
+
+.main style="width:100%;"
+  .intro
+    .slider
+      ul
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-friends.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev See you soon
+                span.next Think and talk
+                .description
+                  span.no-link
+                    | Good people means good Grok.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-10-20s.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Good people
+                span.next Have some fun
+                .description
+                  span.no-link
+                    | Bigger isn't always better. 
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-fun.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Think and talk
+                span.next Amazing spaces
+                .description
+                  span.no-link
+                    | Grok is big on fun. 
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-venue.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Have some fun
+                span.next Good eats
+                .description
+                  span.no-link
+                    | Wait 'till you see your 2014 venues.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-beer.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Amazing spaces
+                span.next See you soon
+                .description
+                  span.no-link
+                    | Amazing Southern food and drink.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/events/grok/slider/grok-baseball.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Good eats
+                span.next Good people
+                .description
+                  span.no-link
+                    | See you soon!
+
+  .intro style="background-color:{{page.color}};"
+    | {% if page.image %}
+    .short-slide style="background-image: url({{page.image}});"
+    | {% endif %}
+
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid {{page.color}};"
+          h1
+            | {% if page.parent_url %}
+            a.ss-left.back href="{{page.parent_url}}"
+            | {% endif %}
+
+            | {{page.title}}
+
+          | {% if page.description %}
+          .description 
+            | {{page.description}}
+          | {% endif %}
+
+          .secondary
+            | {% if page.sub_nav %}
+            ul.sub-nav 
+              |{% for link in page.sub_nav %}
+              li
+                a href="{{link.slug}}" {{ link.name }} 
+              | {% endfor %}
+            | {% endif %}
+  .container
+    .content
+      .article.row
+        .span8
+          .article-content
+            h4 What the fock is Grok?
+            p It's a three day event sans the how-to sessions from industry leaders. We think a 10 minute session of hard questions from a new face is as good as a lock-tight answer from an old pro. We started Grok because we wanted to learn big, and go big. Here's a peek at last year: 
+            p <iframe src="http://player.vimeo.com/video/69313375" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            p This upcoming year we've secured the best venues in Greenville, short talks from unique people outside the web and design industry, and some activities that will blow last year out of the water. 
+            p Stay tuned for more information and a schedule soon. 
+            h4 Thanks for making Grok 2013 incredible
+            p Grok is amazing because of the people who attend and the honest conversations they have. We're thankful for old friends and new who continue to challenge the way we think about our work, year after year. We're also thankful for good southern food, kickball, laser tag, and beer.
+            p <em>—The Grok Team</em>
+            h4 Take a walk down memory lane
+            p <img src="http://i.imgur.com/bxNnp9L.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/UBsFtyT.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/OZfZNIM.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/HS1zd8g.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/HEP1khJ.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/PAewI0f.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/E9WzFja.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/IlNFk4C.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/7wc6Nqx.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/pwVHPqW.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/h5lsz2i.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/xfuh5OZ.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/2W0ohNT.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/GkVkfSp.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/Gh5BHie.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/DFZgcLP.jpg" style="border-radius: 3px;">
+            p <img src="http://i.imgur.com/7cbjJ89.jpg" style="border-radius: 3px;">
+
+        .article-sidebar.span4
+          .headersignup
+            h3 April 3-5, 2014
+            p
+              a.button href="https://tito.io/the-iron-yard/Grok-2014"
+                | Get your ticket
+            hr
+            h3 Grok is about Greenville
+            p
+              | We throw Grok here because we are totally nuts for <a href="http://lifeingreenville.com">this place</a>. Beer flows in the streets and the buildings are made from Belgian chocolate. Ok, maybe not, but it might as well be true because that's how we feel about it. Once you see Greenville for yourself, we think you'll have second thoughts about leaving.
+            hr
+            p <a href="http://twitter.com/greenvillegrok">@GreenvilleGrok</a>
+            p <a href="mailto:grok@theironyard.com">grok@theironyard.com</a>
+            p Want to sponsor in 2014? <a href="mailto:grok@theironyard.com">Give us a shout</a>. 
+            hr
+            h3 2013 Sponsors
+            p 
+              a href="ttp://mailchimp.com" 
+                <img src="/images/events/grok/sponsors/mailchimp.png" style="border-radius: 3px;">
+            p 
+              a href="ttp://typekit.com" 
+                <img src="/images/events/grok/sponsors/typekit.png" style="border-radius: 3px;">
+            p 
+              a href="ttp://behance.com" 
+                <img src="/images/events/grok/sponsors/behance.png" style="border-radius: 3px;">
+            p 
+              a href="ttp://twitter.com" 
+                <img src="/images/events/grok/sponsors/twitter.png" style="border-radius: 3px;">
+            p 
+              a href="ttp://worthwhile.com" 
+                <img src="/images/events/grok/sponsors/worthwhile.png" style="border-radius: 3px;">
+
+
+javascript:
+  $('document').ready(function(){
+    sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence")
+  });
+
