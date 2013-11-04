@@ -65,7 +65,7 @@ Peter married his college sweetheart and has 5 incredible kids. In the rare time
 
 <img src="/images/about/kate-mccarthy.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-#### Kate McCarthy<br><em>Program Manager</em>
+#### Kate McCarthy<br><em>Digital Health Director</em>
 
 Kate was born and raised in Pasadena, CA but traded sunglasses for snowshoes at McGill University in Montreal. It only took her three years to get two degrees (Cultural Studies and Art History), and she even had time to build a small cupcake business. 
 
