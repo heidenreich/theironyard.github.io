@@ -935,6 +935,164 @@ $small_slide_height:  400px;
   }
 }
 
+////////////////////
+// ACADEMY GRADS!//
+//////////////////
+
+// ACADEMY GRADS CONTAINERS //
+
+.student-profile {
+  width: 960px;
+  // height: 400px;
+  background: #EAEAEA;
+  margin: 50px auto;
+  box-shadow: 0px 0px 3px 1px #D3D3D3;
+  
+  @media (max-width:971px){
+    width: 97%
+  }
+
+  @media (max-width:419px){
+    width: 330px;
+    height: 932px;
+    margin: 0 auto;
+  }
+}
+
+.left {
+  margin: 30px 30px 15px;
+  display: inline-block;
+
+  .student {
+    max-width: none;
+    width: 259px;
+    height: 258px;
+    border: 6px solid white;
+    box-shadow: 0px 0px 3px 1px #D3D3D3;
+  }
+
+    @media (max-width: 720px){
+      // margin: 30px 30% 15px;
+    }
+
+    @media (max-width:419px){
+      margin: 8% 10% -9%;
+
+      .available-button {
+        display: none;
+      }
+    }
+}
+
+.links {
+  text-align: left; 
+}
+
+.graduates-right {
+  width: 560px; 
+  display: inline-block;
+  vertical-align: top;
+
+    h1 {
+      // font-family: Tisa-Medium;
+      margin-top: 39px;
+      margin-bottom: -5px;
+      font-size: 29px;
+    }
+
+    p {
+      font-size: 18px;
+      // font-weight: 900;
+      line-height: 26px;
+      text-align: left;
+    }
+
+    ul {
+      padding: 0;
+      font-size: 18px;
+      font-weight: 500;
+      margin: 0px; 
+
+      li {
+        display: inline-block;
+      }
+        
+      a {
+        color: #20a3d9;
+        text-decoration: none;
+        // font-family: Tisa;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+  }
+
+  .available-button {
+    display: none;
+  }
+
+    @media (max-width:971px){
+      width: 50%
+    }
+
+    @media (max-width: 720px){
+      width: 75%;
+      // margin: 0 17%;
+    }
+
+    @media (max-width: 419px){
+      width: 270px;
+      margin: 0 30px;
+
+    .available-button {
+      display: block;
+
+      p {
+        display: inline-block;
+        margin: 0px auto;
+        font-size: 21px;
+      }
+
+      img {
+        margin-right: 5px;
+      }
+    }
+  }
+}
+
+// ACADEMY GRADS AVAILABLE BUTTON //
+
+ .available-button {
+  padding: 12px 18px 13px 18px;
+  font-size: 22px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #20a3d9;
+  text-decoration: none;
+  display: block;
+  margin-top: 15px;
+  border-radius: 2px;
+  text-align: -webkit-center;
+  font-weight: 100;
+  
+    img {
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    p {
+      display: inline-block;
+      margin: 0px;
+    }
+  }
+
+  .available-button:hover {
+    background: #1b93c4;
+    text-decoration: none;
+  }
+
+
 
 //  SOCIAL LINKS
 
@@ -1885,7 +2043,6 @@ li {
       }
     }
   }
-
 
 // typography
 @charset "UTF-8";
