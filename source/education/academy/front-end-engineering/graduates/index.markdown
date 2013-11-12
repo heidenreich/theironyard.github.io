@@ -12,8 +12,45 @@ parent_url: "/education/academy/front-end-engineering"
 
 <div class="student-profile">
   <div class="left">
-    <img class="student" src="/images/education/academy/front-end-2/graduates/joe-vanleeuwen.jpg">
+    <img class="student" src="/images/education/academy/front-end-2/graduates/alison-miller.jpg">
+      <a class="available-button" href="mailto:alisonmllr20@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
+        <img src="/images/email.png">
+        <p>Available For Hire</p>
+      </a>
+  </div>
+    <div class="graduates-right">
+      <h1 class="name">Alison Miller</h1>
+      <p class="bio">I recently graduated from the Iron Yard's grueling, three-month front-end engineering program. I've learned a ton about programming and it's been an awesome experience. For all the local foodies out there, I created an app call <a href="http://alisonelizabeth.github.io/goLocal/">goLocal</a> for my final project at the Iron Yard. It allows users to share places where they've found local food, such as farms and produce stands. When I'm not coding, you can usually find me catching up on the latest news (I have a background in journalism), playing with my golden retriever, Hanna, riding horses or socializing with friends. </p>
+      <ul class="links">
+        <li>&bull;
+          <a href="alisonelizabeth.github.io">Portfolio
+          </a>
+        </li>
+        <li>&bull;
+          <a href="github.com/alisonelizabeth">GitHub
+          </a>
+        </li>
+        <li>&bull;
+          <a href="alisonelizabeth.github.io/resume.html">Resume
+          </a>
+        </li>
+        <li>&bull;
+          <a href="http://www.linkedin.com/pub/alison-miller/19/b32/138">LinkedIn
+          </a>
+        </li>
+      </ul>
+      
       <a class="available-button" href="mailto:jvnlwn@gmail.com">
+        <img src="/images/email.png">
+        <p>Available For Hire</p>
+      </a> 
+    </div>
+</div>
+
+<div class="student-profile">
+  <div class="left">
+    <img class="student" src="/images/education/academy/front-end-2/graduates/joe-vanleeuwen.jpg">
+      <a class="available-button" href="mailto:jvnlwn@gmail.comsubject=I found you through The Iron Yard and I'd love to chat">
         <img src="/images/email.png">
         <p>Available For Hire</p>
       </a>
@@ -42,3 +79,4 @@ parent_url: "/education/academy/front-end-engineering"
       </a> 
     </div>
 </div>
+
