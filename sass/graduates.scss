@@ -1,9 +1,8 @@
-//  Containers //
-body {
-  margin: 0px;
-  padding: 0px;
-  font-family: Tisa;
-}
+////////////////////
+// ACADEMY GRADS!//
+//////////////////
+
+// ACADEMY GRADS CONTAINERS //
 
 .student-profile {
   width: 960px;
@@ -12,14 +11,14 @@ body {
   margin: 50px auto;
   box-shadow: 0px 0px 3px 1px #D3D3D3;
   
-  @media (max-width:971){
+  @media (max-width:971px){
     width: 97%
   }
 
-  @media (max-width:419){
+  @media (max-width:419px){
     width: 330px;
-    height: 932px;
-    margin: 0 auto;
+    margin: 50px auto;
+    // height: 0;
   }
 }
 
@@ -28,47 +27,54 @@ body {
   display: inline-block;
 
   .student {
+    max-width: none;
     width: 259px;
     height: 258px;
     border: 6px solid white;
     box-shadow: 0px 0px 3px 1px #D3D3D3;
   }
 
-  @media (max-width: 720){
-    margin: 30px 30% 15px;
+  @media (max-width: 720px){
+    // margin: 30px 30% 15px;
   }
 
-  @media (max-width:419){
+  @media (max-width:419px){
     margin: 8% 10% -9%;
 
-    .button {
+    .available-button {
       display: none;
     }
   }
 }
 
-.right {
-  width: 560px;
+.links {
+  text-align: left; 
+}
+
+.graduates-right {
+  width: 560px; 
   display: inline-block;
   vertical-align: top;
 
   h1 {
-    font-family: Tisa-Medium;
+    // font-family: Tisa-Medium;
     margin-top: 39px;
     margin-bottom: -5px;
     font-size: 29px;
   }
 
   p {
-    font-size: 17px;
-    font-weight: 900;
+    font-size: 18px;
+    // font-weight: 900;
     line-height: 26px;
+    text-align: left;
   }
 
   ul {
     padding: 0;
     font-size: 18px;
     font-weight: 500;
+    margin: 0px; 
 
     li {
       display: inline-block;
@@ -85,25 +91,26 @@ body {
     }
   }
 
-  .button {
+  .available-button {
     display: none;
   }
 
-  @media (max-width:971){
+  @media (max-width:971px){
     width: 50%
   }
 
-  @media (max-width: 720){
+  @media (max-width: 720px){
     width: 75%;
-    margin: 0 17%;
+    // margin: 0 17%;
   }
 
-  @media (max-width: 419){
+  @media (max-width: 419px){
     width: 270px;
     margin: 0 30px;
 
-    .button {
+    .available-button {
       display: block;
+      margin-bottom: 15px;
 
       p {
         display: inline-block;
@@ -118,9 +125,9 @@ body {
   }
 }
 
-// BUTTON //
+// ACADEMY GRADS AVAILABLE BUTTON //
 
-.button {
+.available-button {
   padding: 12px 18px 13px 18px;
   font-size: 22px;
   line-height: 30px;
@@ -130,7 +137,7 @@ body {
   display: block;
   margin-top: 15px;
   border-radius: 2px;
-  text-align: -webkit-center;
+  text-align: center;
   font-weight: 100;
   
   img {
@@ -144,6 +151,8 @@ body {
   }
 }
 
-.button:hover {
+.available-button:hover {
   background: #1b93c4;
+  text-decoration: none;
 }
+
