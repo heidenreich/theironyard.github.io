@@ -12,7 +12,7 @@ parent_url: "/education/academy/front-end-engineering"
 ### Available for hire full time
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/alison-miller.jpg">
     <a class="available-button" href="mailto:alisonmllr20@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -52,7 +52,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/brandon-miller.jpg">
     <a class="available-button" href="mailto:brandonevanmiller@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -92,7 +92,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/joe-vanleeuwen.jpg">
     <a class="available-button" href="mailto:jvnlwn@gmail.comsubject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -128,7 +128,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/ryan-ponce.jpg">
     <a class="available-button" href="mailto:ryan@ponce.io?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -168,7 +168,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/andy-flack.jpg">
     <a class="available-button" href="mailto:flackap@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -200,7 +200,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/joe-tamburro.jpg">
     <a class="available-button" href="mailto:joetamburro38@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -236,7 +236,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/tyler-phillips.jpg">
     <a class="available-button" href="mailto:tylerfphillips@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -269,7 +269,7 @@ parent_url: "/education/academy/front-end-engineering"
 ### Available for freelance work
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/keeron-thandroyen.jpg">
     <a class="available-button" href="mailto:keeronmarc@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -297,7 +297,7 @@ parent_url: "/education/academy/front-end-engineering"
 </div>
 
 <div class="student-profile">
-  <div class="left">
+  <div class="graduates-left">
     <img class="student" src="/images/education/academy/front-end-2/graduates/jake-hendley.jpg">
     <a class="available-button" href="mailto:jhendley25@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
       <img src="/images/email.png">
@@ -330,7 +330,7 @@ parent_url: "/education/academy/front-end-engineering"
 
 <!-- 
   <div class="student-profile">
-    <div class="left">
+    <div class="graduates-left">
       <img class="student" src="/images/education/academy/front-end-2/graduates/student.jpg">
         <a class="available-button" href="mailto:mobileupstate@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
           <img src="/images/email.png">
