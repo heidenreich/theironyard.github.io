@@ -137,7 +137,7 @@ parent_url: "/education/academy/front-end-engineering"
   </div>
   <div class="graduates-right">
     <h1 class="name">Ryan Ponce</h1>
-    <p class="bio"> After five years working at Apple Stores, my brother and I created a small startup called Surprise Co. At the same time, I created my own copmany called App Shirt Co. I am still working on both. In August 2013, I moved to Greenville, SC to take a 12-week intensive front-end engineering class. There, I learned the skills necessary to become a true developer. I am currently looking for a web developement position with a progressive, growth-oriented company that offers challenging opportunities and responsibilities with the potential for career advancement. I am willing to relocate for the perfect position.</p>
+    <p class="bio"> After five years working at Apple Stores, my brother and I created a small startup called Surprise Co. At the same time, I created my own company called App Shirt Co. I am still working on both. In August 2013, I moved to Greenville, SC to take a 12-week intensive front-end engineering class. There, I learned the skills necessary to become a true developer. I am currently looking for a web developement position with a progressive, growth-oriented company that offers challenging opportunities and responsibilities with the potential for career advancement. I am willing to relocate for the perfect position.</p>
     <ul class="links">
       <li>&bull;
         <a href="http://ponce.io/resume/">Resume
@@ -266,6 +266,7 @@ parent_url: "/education/academy/front-end-engineering"
     </a>
   </div>
 </div>
+
 ### Available for freelance work
 
 <div class="student-profile">
@@ -306,7 +307,7 @@ parent_url: "/education/academy/front-end-engineering"
   </div>
   <div class="graduates-right">
     <h1 class="name">Jake Hendley</h1>
-    <p class="bio"> I'm an avid rock climber, a stickler for the details, and a generally goofy fella. After a climbing injury in fall '12, I moved back to South Carolina where I met the guys at the Iron Yard Academy. They convinced me JavaScript was going to be awesome. hey were right, and I've been wrangling code ever since. </p>
+    <p class="bio"> I'm an avid rock climber, a stickler for the details, and a generally goofy fella. After a climbing injury in fall '12, I moved back to South Carolina where I met the guys at the Iron Yard Academy. They convinced me JavaScript was going to be awesome. They were right, and I've been wrangling code ever since. </p>
     <ul class="links">
       <li>&bull;
         <a href="http://jhendley25.github.io/">Portfolio
