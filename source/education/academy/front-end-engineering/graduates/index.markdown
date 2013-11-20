@@ -4,7 +4,8 @@ title: "Graduates"
 description: "These engineers are ready to rock."
 date: 2013-11-20 06:21
 color: "#CE822C"
-footer: "true"
+footer: true
+parent_url: "/education/academy/front-end-engineering"
 ---
 
 ### Available for hire full time
