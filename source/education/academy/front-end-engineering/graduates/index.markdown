@@ -328,37 +328,35 @@ parent_url: "/education/academy/front-end-engineering"
   </div>
 </div>
 
-<!-- 
-  <div class="student-profile">
-    <div class="graduates-left">
-      <img class="student" src="/images/education/academy/front-end-2/graduates/student.jpg">
-        <a class="available-button" href="mailto:mobileupstate@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
-          <img src="/images/email.png">
-          <p>Free for Freelance</p>
-        </a>
+<div class="student-profile">
+  <div class="graduates-left">
+    <img class="student" src="/images/education/academy/front-end-2/graduates/ryan-poplin.jpg">
+      <a class="available-button" href="mailto:mobileupstate@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
+        <img src="/images/email.png">
+        <p>Free for Freelance</p>
+      </a>
+  </div>
+    <div class="graduates-right">
+      <h1 class="name">Ryan Poplin</h1>
+      <p class="bio"> So, you want more information about me? Awesome! I recently graduated from The Iron Yard Academy. There I learned the ins and outs of front end web engineering. In my free time, I'm learning how to control the MongoDB/Mongoose, Express.js, Backbone.js, and Node.js development stack.</p>
+      <ul class="links">
+        <li>&bull;
+          <a href="http://ryanpoplin.github.io/">Portfolio
+          </a>
+        </li>
+        <li>&bull;
+          <a href="https://github.com/ryanpoplin">GitHub
+          </a>
+        </li>
+        <li>&bull;
+          <a href="http://osrc.dfm.io/ryanpoplin">Open Source Report Card
+          </a>
+        </li>
+      </ul>
+      
+      <a class="available-button" href="mobileupstate@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
+        <img src="/images/email.png">
+        <p>Free for Freelance</p>
+      </a> 
     </div>
-      <div class="graduates-right">
-        <h1 class="name">Ryan Poplin</h1>
-        <p class="bio"> So, you want more information about me? Awesome! I recently graduated from The Iron Yard Academy. There I learned the ins and outs of front end web engineering. In my free time, I'm learning how to control the MongoDB/Mongoose, Express.js, Backbone.js, and Node.js development stack.</p>
-        <ul class="links">
-          <li>&bull;
-            <a href="http://ryanpoplin.github.io/">Portfolio
-            </a>
-          </li>
-          <li>&bull;
-            <a href="https://github.com/ryanpoplin">GitHub
-            </a>
-          </li>
-          <li>&bull;
-            <a href="http://osrc.dfm.io/ryanpoplin">Open Source Report Card
-            </a>
-          </li>
-        </ul>
-        
-        <a class="available-button" href="mobileupstate@gmail.com?subject=I found you through The Iron Yard and I'd love to chat">
-          <img src="/images/email.png">
-          <p>Free for Freelance</p>
-        </a> 
-      </div>
-  </div> 
-  -->
+</div> 
