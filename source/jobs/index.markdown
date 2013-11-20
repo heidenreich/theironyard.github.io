@@ -28,9 +28,9 @@ We're hiring programming instructors and community managers to launch code schoo
 
 We're looking for: 
 
-- An iOS instructor
-- A Ruby on Rails instructor
-- A front end (JavaScript) instructor
+- iOS instructors
+- Ruby on Rails instructors
+- Front end engineering (JavaScript) instructors
 
 If you live and breathe code as your craft, find joy in helping other people learn it too, and want a huge amount of time to pursue freelance, personal projects, or open source work, then this job was custom-made for you. 
 
