@@ -13,22 +13,26 @@ sub_nav:
     slug: "#mission"
   - name: "Our culture"
     slug: "#culture"
-  - name: "Programming instructor"
-    slug: "#instructor"
-  - name: "Community manager"
-    slug: "#community-manager"
+  - name: "Programming instructors"
+    slug: "#instructors"
+  - name: "Community managers"
+    slug: "#community-managers"
 ---
 
 #### The short story
 
 We're hiring programming instructors and community managers to launch code schools in cities across the Southeast. Check out the open positions below, and be sure to read about our [mission](#mission) and [culture](#culture). 
 
-<a name="instructor"></a>
-#### Programming instructor
+<a name="instructors"></a>
+#### Programming instructors
+
+We're looking for: 
+
+- An iOS instructor
+- A Ruby on Rails instructor
+- A front end (JavaScript) instructor
 
 If you live and breathe code as your craft, find joy in helping other people learn it too, and want a huge amount of time to pursue freelance, personal projects, or open source work, then this job was custom-made for you. 
-
-We're looking for people to teach mobile (iOS or Android), Ruby on Rails, and front end engineering (JavaScript). 
 
 **Educational values**
 
@@ -43,9 +47,9 @@ First and most importantly, here are a few of our values when it comes to teachi
 
 Our instructors serve as lecturers and mentors to our students, helping them learn to think like engineers and hone their skills in a programming disclipline. You'll also help define and refine the curriculum to stay current with cool new stuff. 
 
-You'll teach three, three-month semesters each year. The remaining three months are yours to keep: freelance, work on personal projects, open source projects, or products that we're buildling and launching as The Iron Yard. 
+You'll teach three, three-month semesters each year. The remaining three months are yours to keep: freelance, work on personal projects, open source projects, or products that we're buildling and launching as The Iron Yard. And, of course, you'll want to take some well-deserved vacation.
 
-Each class will be ~15 students (no more), and you will have an admin/community manager to take care of all the non-teaching-critical parts of running a program. 
+Each class will be 15 students (no more), and you will have an admin/community manager to take care of all the non-teaching-critical parts of running a program. 
 
 Outside of teaching responsibilities, you'll be an active part of the development community in your city (hopefully you already are). 
 
@@ -70,9 +74,15 @@ Outside of teaching responsibilities, you'll be an active part of the developmen
 
 **Sound like a dream come true?**
 
-[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Programming Instructor position) explaining why you're an incredible fit for our company and this job. Be sure to include a link to your GitHub profile, portfolio or examples of work, and your favorite gif. 
+[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Programming Instructor position) explaining why you're an incredible fit for our company and this job. Be sure to include: 
 
-<a name="community-manager"></a>
+- What you'll teach (iOS, RoR, or JS)
+- Where you live and whether you are willing to relocate
+- A link to your GitHub profile
+- Portfolio or examples of work and 
+- Your favorite gif
+
+<a name="community-managers"></a>
 #### Community manager
 
 If you are passionate about education, people, being creative and keeping things organized, you've found your home. 
@@ -81,7 +91,7 @@ We're looking for people to be the voices, faces and hands of our code schools i
 
 **What the role and responsibilities look like**
 
-Our people in this role build community, both internally and externally, work with the instructors to manage applications and admissions, and make sure our spaces are awesome places to learn and work (that means awesome furniture and decor, finding the best locally roasted coffee available, and keeping office supplies in stock).
+Our people in this role build community, both internally and externally, work with the instructors to manage applications and admissions, and make sure our spaces are awesome places to learn and work (that means stylish furniture and decor, finding the best locally roasted coffee available, and keeping office supplies in stock).
 
 You'll be networking with potential students and employers, getting out into the community to represent The Iron Yard, hosting rockin' events for our students and others, and more. 
 
@@ -99,9 +109,19 @@ The best part of the job is getting to know students and playing a role in helpi
 - *Bonus: enjoy and are good at creating content and writing*
 - *Bonus, but not at all required: you've got some hacking skills*
 
+**Compensation and benefits**
+
+- Competitive salary
+- Profit sharing
+- 100% paid benefits
+
 **Sound like a dream come true?**
 
-[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Community Manager position) explaining why you're an incredible fit for our company and this job. Be sure to include a link to your portfolio or examples of work, and your favorite thing you've seen on the internet in the last week. 
+[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Community Manager position) explaining why you're an incredible fit for our company and this job. Be sure to include:
+
+- Where you live and whether you are willing to relocate
+- Examples of work / experience
+- Your favorite thing you've seen on the internet in the last week
 
 <a name="mission"></a>
 #### Our mission 
