@@ -68,7 +68,7 @@ Outside of teaching responsibilities, you'll be an active part of the developmen
 
 **Compensation and benefits**
 
-- Competitive salary
+- Competitive, full-time developer salary
 - Profit sharing
 - 25% time off when you're not teaching (paid)
 - 100% paid benefits
@@ -113,7 +113,7 @@ The best part of the job is getting to know students and playing a role in helpi
 
 **Compensation and benefits**
 
-- Competitive salary
+- Competitive full-time salary
 - Profit sharing
 - 100% paid benefits
 
