@@ -2,13 +2,11 @@
 layout: page
 title: "Graduates"
 description: "These engineers are ready to rock."
-date: 2013-11-07 10:09
+date: 2013-11-20 06:21
 color: "#CE822C"
-comments: true
-sharing: true
-footer: true
-parent_url: "/education/academy/front-end-engineering"
+footer: "true"
 ---
+
 ### Available for hire full time
 
 <div class="student-profile">
