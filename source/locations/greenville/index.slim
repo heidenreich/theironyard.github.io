@@ -1,0 +1,169 @@
+---
+layout: home
+title: "Upstate South Carolina"
+date: 2013-08-07 19:54
+description: "Technically, every state has an upstate.We just think ours is best."
+comments: true
+sharing: true
+footer: true
+color: "#31b395"
+parent_url: "/"
+sub_nav:
+  - name: "Greenville"
+    slug: "/upstate/greenville"
+  - name: "Spartanburg"
+    slug: "/upstate/spartanburg"
+---
+
+.main style="width:100%;"
+  .intro
+    .slider
+      ul
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-falls-park.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Recreation
+                span.next Events and Festivals
+                .description
+                  span.no-link
+                    | Welcome to the Upstate.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-events.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Welcome
+                span.next Great Outdoors
+                .description
+                  span.no-link
+                    | Nationally acclaimed events.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-mountains.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Events and Festivals
+                span.next Economy
+                .description
+                  span.no-link
+                    | Plenty of elbow room.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-economy.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Great Outdoors
+                span.next Arts and Culture
+                .description
+                  span.no-link
+                    | Real momentum for businesses.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-music.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Economy
+                span.next Recreation
+                .description
+                  span.no-link
+                    | Thriving creative culture.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/upstate/slider/upstate-slider-baseball.jpg);"
+
+            .container
+              .slide-margin.span11
+                span.prev Welcome
+                span.next Arts and Culture
+                .description
+                  span.no-link
+                    | Fun for the whole family. 
+
+  .intro style="background-color:{{page.color}};"
+    | {% if page.image %}
+    .short-slide style="background-image: url({{page.image}});"
+    | {% endif %}
+
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid {{page.color}};"
+          h1
+            | {% if page.parent_url %}
+            a.ss-left.back href="{{page.parent_url}}"
+            | {% endif %}
+
+            | {{page.title}}
+
+          | {% if page.description %}
+          .description 
+            | {{page.description}}
+          | {% endif %}
+
+          .secondary
+            | {% if page.sub_nav %}
+            ul.sub-nav 
+              |{% for link in page.sub_nav %}
+              li
+                a href="{{link.slug}}" {{ link.name }} 
+              | {% endfor %}
+            | {% endif %}
+  .container
+    .content
+      .article.row
+        .span8
+          .article-content
+            h4 We believe that there’s something special about our place in South Carolina.
+            p The funny thing is, it took people like you visiting – and moving here – to help us realize just how special it is. You see, we’ve always loved it here. Being an hour from the most beautiful mountains in the east, and a morning’s drive from the coast, has been a luxury we’ve always enjoyed. We walk through gorgeous, growing, historic towns, but they still feel a little small, just like they always have. To be completely honest, we’re probably guilty of taking it for granted.
+            h4 More than Up and Coming
+            p Over the last few years we started to notice a few things. Even though our towns still felt small, big things were happening. When we stood in line for coffee, there was a good chance we’d be standing behind an executive from BMW or Michelin. We learned that the young guys next to us at the ball game were pitching a tech startup to influential investors from out of town, and people began skipping newsworthy conferences like SXSW to come to events like Grok.
+            h4 All Grown Up
+            p Our rich agricultural and textile history had transformed into an economy driven by national corporations, dynamic research centers, and a flourishing technology community – a gorgeous landscape with world-class dining, championship golf, and Broadway productions. Our little place had grown up.
+            h4 Come Experience The Upstate for Yourself
+            p
+              | Talking only goes so far. We'd love for you to come enjoy The Upstate for yourself. Learn more about our cities <a href="/greenville">Greenville</a> and <a href="http://www.visitspartanburg.com/">Spartanburg</a>, or feel free to snag a ticket to our no-hassle <a href="http://www.gspairport.com/">international airport</a>. (Yes, we just said international.)
+
+        .article-sidebar.span4
+          .headersignup
+            h3 Our Cities
+            hr
+              p
+                a.button href="/upstate/greenville"
+                  | Explore Greenville
+              p
+                img alt="Greenville, SC Falls Park and Liberty Bridge Aerial picture" src="/images/upstate/upstate-greenville.jpg" style="border-radius: 3px;"
+              hr
+                p
+                  a.button href="/upstate/spartanburg"
+                    | Explore Spartanburg
+                p
+                  img alt="Downtown Spartanburg, SC square, tower, and statue" src="/images/upstate/upstate-spartanburg.jpg" style="border-radius: 3px;"
+                hr/
+
+
+javascript:
+  $('document').ready(function(){
+    sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence")
+  });
+
