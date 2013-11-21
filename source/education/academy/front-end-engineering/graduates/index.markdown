@@ -266,6 +266,42 @@ parent_url: "/education/academy/front-end-engineering"
   </div>
 </div>
 
+<div class="student-profile">
+  <div class="graduates-left">
+    <img class="student" src="/images/education/academy/front-end-2/graduates/ari-picker.jpg">
+    <a class="available-button" href="mailto:picker10024@yahoo.com?subject=I found you through The Iron Yard and I'd love to chat">
+      <img src="/images/email.png">
+      <p>Available For Hire</p>
+    </a>
+  </div>
+  <div class="graduates-right">
+    <h1 class="name">Ari Picker</h1>
+    <p class="bio"> I am many things: father of two, programmer/web developer, vocalist, instrument faker, artsy-fartsy, dragon aficionado, cook, and avid cartoon watcher. I find it appealing that there is no level cap in the world of development. Before coming to ​The Iron Yard​, I was constantly coming up with app ideas but unable to act upon them. Now, I create my ideas with my own two hands. The ever-expanding nature of web development means that I'll always have the opportunity to learn. I'm excited to find a job where I can continue to grow as a developer.</p>
+    <ul class="links">
+      <li>&bull;
+        <a href="http://pickra.github.io/AriPicker.github.io/">Portfolio
+        </a>
+      </li>
+      <li>&bull;
+        <a href="https://github.com/Pickra">GitHub
+        </a>
+      </li>
+      <li>&bull;
+        <a href="http://pickra.github.io/resume/">Resume
+        </a>
+      </li>
+      <li>&bull;
+        <a href="http://osrc.dfm.io/pickra">Open Source Report Card
+        </a>
+      </li>
+    </ul>
+    <a class="available-button" href="mailto:picker10024@yahoo.com?subject=I found you through The Iron Yard and I'd love to chat">
+      <img src="/images/email.png">
+      <p>Available For Hire</p>
+    </a>
+  </div>
+</div>
+
 ### Available for freelance work
 
 <div class="student-profile">
