@@ -493,18 +493,55 @@ hr {
       margin: 25px 18px 25px 18px;
     }
       
-      blockquote > :first-child {
+    blockquote > :first-child {
       margin-top: 0; 
     }
       
-      blockquote > :last-child {
+    blockquote > :last-child {
       margin-bottom: 0; 
     }
 
     // @media (max-width: 767px) {
     //   padding: 20px;
     // }
-}
+
+    .programs-image {
+      img {
+        border-radius: 3px;
+        float: left;
+        margin: 0px 20px 20px 0px;
+      }
+
+      @media (max-width:419px){
+        img {
+          display: none;
+        }
+      }
+
+      @media (max-width:720px){
+        img {
+          display: none;
+        }
+      }
+    }
+
+    .right-of-img {
+      margin-left: 125px;
+      margin-bottom: 60px;
+
+      ul {
+        margin-left: 60px;
+      }
+
+      @media (max-width:419px){
+        margin: 0px 0px 40px 0px;
+      }
+
+      @media (max-width:720px){
+        margin: 0px 0px 40px 0px;
+      }
+    }
+  }
 
   .article-sidebar-content {
     font-size: 16px;

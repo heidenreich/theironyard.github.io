@@ -4,7 +4,7 @@ title: "Locations"
 date: 2013-11-20 13:58
 color: "#D2B42A"
 description: "The Iron Yard is one family with many homes. These are our cities."
-image: "/images/cowork/cowork-banner.jpg"
+image: "/images/locations/locations-banner.jpg"
 parent_url: "/"
 ---
 
@@ -19,7 +19,7 @@ parent_url: "/"
   </div>
 
   <div class="article-sidebar span4">
-    <a class="available-button" href="#">
+    <a class="available-button" href="/locations/greenville">
       <p>Learn More</p>
     </a>
 
@@ -47,7 +47,7 @@ parent_url: "/"
   </div>
   <img class="header-image" src="/images/locations/locations-spartanburg.jpg"/>
   <div class="span8">
-    <p>A proverbial sister-city to Greenville, Spartanburg is where we launched our second location and first Digital Health Accelerator class. Originally known for its historic charm (think turn of the century houses and an old school town square complete with clock tower), its leaders are fully committed to its the next wave of its development as a medical innovation hub. The successful fundraising after our first class is more than enough proof that they're on the right track. </p>
+    <p>A proverbial sister-city to Greenville, Spartanburg is where we launched our second location and Digital Health Accelerator. Originally known for its historic charm (think turn of the century houses and an old school town square complete with clock tower), its leaders are fully committed to the next wave of its development as a medical innovation hub. The successful fundraising after our first class is more than enough proof that their vision is becoming reality.</p>
   </div>
 
   <div class="article-sidebar span4">
