@@ -19,12 +19,12 @@ sub_nav:
     slug: "#community-managers"
 ---
 
-#### The short story
+## The short story
 
 We're hiring programming instructors and community managers to launch code schools in cities across the Southeast. Check out the open positions below, and be sure to read about our [mission](#mission) and [culture](#culture). 
 
 <a name="instructors"></a>
-#### Programming instructors
+## Programming instructors
 ---
 
 We're looking for: 
@@ -84,7 +84,7 @@ Outside of teaching responsibilities, you'll be an active part of the developmen
 - Your favorite gif
 
 <a name="community-managers"></a>
-#### Community managers
+## Community managers
 ---
 
 If you are passionate about education, people, being creative and keeping things organized, you've found your home. 
@@ -126,7 +126,7 @@ The best part of the job is getting to know students and playing a role in helpi
 - Your favorite thing you've seen on the internet in the last week
 
 <a name="mission"></a>
-#### Our mission 
+## Our mission 
 ---
 
 The world has huge problems that need to be solved, many of which technology is perfectly suited to address. Companies full of designers and developers around the globe are answering this call, but there's a problem: there aren't enough of them. While data shows a current surplus of American graduates with STEM degrees, anyone on the ground in the tech industry has felt the acute shortage of high-quality developers. What's more, over the next 10 years there will be *1.4 million jobs in computer science but only 400,000 qualified graduates*.
@@ -136,7 +136,7 @@ The Iron Yard is a solution at that juncture of supply, demand, and a broken edu
 We want to accomplish this alongside talented, passionate people who share our vision, love what they do, and want to have a whole lot of fun along the way. 
 
 <a name="culture"></a>
-#### Our culture
+## Our culture
 ---
 
 If you walk into The Iron Yard on any given afternoon, you're as likely to see an engineering team architecting software as you are to see a group enjoying craft brews over ping pong and video games. 
