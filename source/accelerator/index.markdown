@@ -8,6 +8,8 @@ description: "Accelerate means so much more than trendy technology and giant exi
 footer: true
 parent_url: "/"
 sub_nav:
+  - name: "Portfolio"
+    slug: "/portfolio"
   - name: "Tech program"
     slug: "tech-program"
   - name: "Digital health program"
