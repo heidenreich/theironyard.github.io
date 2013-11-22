@@ -57,7 +57,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 ### Dig Deeper
 
 * Check out our [Frequently Asked Questions](/accelerator/digital-health-program/faq).
-* Check out our lovely city, [Spartanburg](/upstate/spartanburg).
+* Check out our lovely city, [Spartanburg](/locations/spartanburg).
 * Meet your [mentors](/accelerator/mentors).
 * We offer amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com). 
 

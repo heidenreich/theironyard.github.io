@@ -39,7 +39,7 @@ In our experience, it doesn't take much convincing.
 ### Dig Deeper:
 
 - Check out our [Frequently Asked Questions](/accelerator/tech-program/faq).  
-- Check out our lovely city, [Greenville](/upstate/greenville).  
+- Check out our lovely city, [Greenville](/locations/greenville).  
 - Meet your [mentors](/accelerator/mentors).  
 - We offer amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com).  
 
