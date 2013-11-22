@@ -13,8 +13,7 @@ parent_url: "/"
 
 We're a southern ignition of entrepreneurs, investors, developers, artists, teachers, collaborative spaces, and the events that bring them all together. We believe that quality people are the secret to innovation and inspiration, and that we're at our best when we work together.
 
-We live, work, and play in the wonderful [Upstate of South Carolina.](/upstate)
-
+We live, work, and play in wonderful cities [across the Southeast](/greenville).
 ---
 
 ### Who We Are
