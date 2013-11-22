@@ -5,6 +5,7 @@ date: 2013-11-20 13:58
 color: "#D2B42A"
 description: "The Iron Yard is one family with many homes. These are our cities."
 image: "/images/locations/locations-banner.jpg"
+footer: true
 parent_url: "/"
 ---
 
