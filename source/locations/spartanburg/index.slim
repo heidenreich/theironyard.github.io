@@ -1,0 +1,216 @@
+---
+layout: home
+title: "Spartanburg, SC"
+date: 2013-08-07 19:54
+/ description: "Technically, every state has an upstate.We just think ours is best."
+comments: true
+sharing: true
+footer: true
+color: "#D2B42A"
+parent_url: "/locations"
+/ sub_nav:
+/   - name: "Greenville"
+/     slug: "/upstate/greenville"
+/   - name: "Spartanburg"
+/     slug: "/upstate/spartanburg"
+---
+
+.main style="width:100%;"
+  .intro
+    .slider
+      ul
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/locations/spartanburg/slider/spartanburg-slider-city.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Recreation
+            /     span.next Events and Festivals
+            /     .description
+            /       span.no-link
+            /         | Welcome to the Upstate.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/locations/spartanburg/slider/spartanburg-slider-bmw.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Welcome
+            /     span.next Great Outdoors
+            /     .description
+            /       span.no-link
+            /         | Nationally acclaimed events.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/locations/spartanburg/slider/spartanburg-slider-fountain.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Events and Festivals
+            /     span.next Economy
+            /     .description
+            /       span.no-link
+            /         | Plenty of elbow room.
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(/images/locations/spartanburg/slider/spartanburg-slider-big-wheels.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Great Outdoors
+            /     span.next Arts and Culture
+            /     .description
+            /       span.no-link
+            /         | Real momentum for businesses.
+
+        / li.animate-out
+        /   .slide 
+        /     .bg style="background-image: url(/images/locations/spartanburg/slider/spartanburg-slider-river.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Economy
+            /     span.next Recreation
+            /     .description
+            /       span.no-link
+            /         | Thriving creative culture.
+
+        / li.animate-out
+        /   .slide 
+        /     .bg style="background-image: url(/images/upstate/slider/upstate-slider-baseball.jpg);"
+
+            / .container
+            /   .slide-margin.span11
+            /     span.prev Welcome
+            /     span.next Arts and Culture
+            /     .description
+            /       span.no-link
+            /         | Fun for the whole family. 
+
+  .intro style="background-color:{{page.color}};"
+    | {% if page.image %}
+    .short-slide style="background-image: url({{page.image}});"
+    | {% endif %}
+
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid {{page.color}};"
+          h1
+            | {% if page.parent_url %}
+            a.ss-left.back href="{{page.parent_url}}"
+            | {% endif %}
+
+            | {{page.title}}
+
+          | {% if page.description %}
+          .description 
+            | {{page.description}}
+          | {% endif %}
+
+          .secondary
+            | {% if page.sub_nav %}
+            ul.sub-nav 
+              |{% for link in page.sub_nav %}
+              li
+                a href="{{link.slug}}" {{ link.name }} 
+              | {% endfor %}
+            | {% endif %}
+  .container
+    .content
+      .article.row
+        .span8
+          .article-content
+            h2 What we offer in Spartanburg
+            hr
+            h3 Digital Health Accelerator
+            hr
+            p.programs-image
+              img alt="Digital Health Accelerator" src="/images/locations/spartanburg/programs/spartanburg-programs-health-accelerator.jpg"
+            .right-of-img
+              p From wellness apps to enterprise software, we’re helping startups build the future of health.
+              / p 
+              / |  • 
+              / a href="/education/academy/front-end-engineering" Front End Engineering
+              / |  • 
+              / a href="/education/academy" All courses
+              ul
+                li
+                  a href="/accelerator/digital-health-program" Checkout the Digital Health Accelerator
+                li
+                  a href="/portfolio" Browse our portfolio companies
+            h3 CoWorking Space
+            hr
+            p.programs-image
+              img alt="CoWorking at The Iron Yard" src="/images/locations/spartanburg/programs/spartanburg-programs-cowork.jpg"
+            .right-of-img
+              p Housed in the same buildling as our Health Accelerator, The Mill is an incredible collection of startups and creative people. It's also 1 block away from an amazing craft brewery. 
+              ul
+                li
+                  a href="/cowork" Learn more about CoWorking at The Iron Yard
+            h3 CoderDojo and kids classes
+            hr
+            p.programs-image
+              img alt="CoderDojo and kids classes" src="/images/locations/greenville/programs/greenville-programs-kids.jpg"
+            .right-of-img
+              p We teach kids programming classes for free through CoderDojo and offer more advanced after school programs through our Labs courses. 
+              ul
+                li
+                  a href="/education/coderdojo" Spartanburg CoderDojo classes
+                li
+                  a href="/education/labs" Spartanburg Labs courses
+            / h3 Greenville Grok
+            / hr
+            / p.programs-image
+            /   img alt="Grok" src="/images/locations/greenville/programs/greenville-programs-grok.jpg"
+            / .right-of-img
+            /   p Grok is a conference focused on big conversations and big change—but don't expect your average speaker-and-panel format. There are no heroes here, just people hungry for tectonic shifts in thinking and doing.
+            /   ul
+            /     li
+            /       a href="/events/grok" Learn more about Greenville Grok
+            /     li
+            /       a href="https://tito.io/the-iron-yard/Grok-2014" Get a ticket (while they last)
+
+        .article-sidebar-city.span4
+          .headersignup
+            / h3 Explore
+            .article-sidebar-content-section
+              p
+                img alt="Greenville, SC Falls Park and Liberty Bridge" src="/images/locations/spartanburg/sidebar/spartanburg-sidebar-fountain.jpg" style="border-radius: 3px;"
+              p Learn more about life and work in Spartanburg. 
+              p
+                a.button href="http://www.cityofspartanburg.org/"
+                  | City of Spartanburg
+            .article-sidebar-content-section
+              p
+                img alt="Greenville, SC Falls Fall for Greenville crowds on Main Street" src="/images/locations/spartanburg/sidebar/spartanburg-sidebar-hub-bub.jpg" style="border-radius: 3px;"
+              p Discover Spartanburg's creative culture.  
+              p
+                a.button href="http://www.hub-bub.com/"
+                  | Events at Hub-Bub
+            h3 Other locations
+            hr
+            ul
+              li
+                a href="/locations/greenville" Greenville, SC
+
+
+
+javascript:
+  $('document').ready(function(){
+    sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence")
+  });
+
