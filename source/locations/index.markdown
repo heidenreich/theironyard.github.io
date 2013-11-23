@@ -24,10 +24,13 @@ parent_url: "/"
 
     <ul class="links">
       <li>
-        The Iron Yard Academy
+        iOS/mobile Academy courses
       </li>
       <li>
-        CoWorking
+        Ruby on Rails Academy courses
+      </li>
+      <li>
+        Front End Engineering Academy courses
       </li>
     </ul>
   </div>
@@ -48,10 +51,13 @@ parent_url: "/"
 
     <ul class="links">
       <li>
-        The Iron Yard Academy
+        iOS/mobile Academy courses
       </li>
       <li>
-        CoWorking
+        Ruby on Rails Academy courses
+      </li>
+      <li>
+        Front End Engineering Academy courses
       </li>
     </ul>
   </div>
@@ -72,10 +78,13 @@ parent_url: "/"
 
     <ul class="links">
       <li>
-        The Iron Yard Academy
+        iOS/mobile Academy courses
       </li>
       <li>
-        CoWorking
+        Ruby on Rails Academy courses
+      </li>
+      <li>
+        Front End Engineering Academy courses
       </li>
     </ul>
   </div>
@@ -158,10 +167,13 @@ parent_url: "/"
 
     <ul class="links">
       <li>
-        The Iron Yard Academy
+        iOS/mobile Academy courses
       </li>
       <li>
-        CoWorking
+        Ruby on Rails Academy courses
+      </li>
+      <li>
+        Front End Engineering Academy courses
       </li>
     </ul>
   </div>
