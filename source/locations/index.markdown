@@ -4,7 +4,7 @@ title: "Locations"
 image: "/images/locations/locations-banner.jpg"
 description: "The Iron Yard is one family with many homes. These are our cities."
 date: 2013-11-20 13:58
-color: "#D2B42A"
+color: "#B8584B"
 footer: true
 parent_url: "/"
 ---
@@ -45,7 +45,7 @@ parent_url: "/"
   </div>
 
   <div class="article-sidebar span4">
-    <a class="locations-button" href="/locations/charleston">
+    <a class="locations-button" href="/locations/charleston"> 
       <p>Learn More</p>
     </a>
 

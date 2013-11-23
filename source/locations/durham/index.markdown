@@ -2,7 +2,7 @@
 layout: page
 title: "Durham, NC"
 description: "Coming in 2014."
-color: "#D2B42A"
+color: "#B8584B"
 date: 2013-11-23 12:57
 comments: true
 sharing: true
