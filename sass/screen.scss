@@ -1409,6 +1409,17 @@ li {
         background-position: bottom;
       }
     }
+    a.icon-locations {
+      background: image_url('icon-locations.png') no-repeat top;
+      text-indent: 5555px;
+      display: block;
+      width: 104px;
+      height: 103px;
+      margin: 0 auto;  
+      &:hover {
+        background-position: bottom;
+      }
+    }
   }
 }
 

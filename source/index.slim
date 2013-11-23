@@ -82,49 +82,50 @@ footer: true
   .homepage-special
     .container
       .icon-home
-        a.icon-accelerator href="/accelerator"
+        a.icon-locations href="/locations"
         h5
-          a href="/accelerator" ACCELERATOR
-        p We help build strong, sustainable tech businesses.
+          a href="/locations" LOCATIONS
+        p We're planting roots in cities across the Southeast. See what's coming next.
       .icon-home
         a.icon-education href="/education"
         h5 
           a href="/education" EDUCATION
         p Education needs a kick in the pants, and we're using tech as a boot.
       .icon-home
+        a.icon-accelerator href="/accelerator"
+        h5
+          a href="/accelerator" ACCELERATOR
+        p We help build strong, sustainable tech businesses.
+      .icon-home
         a.icon-cowork href="/cowork"
         h5
           a href="/cowork" COWORK
         p Working space for designers, developers, writers and entrepreneurs.
-      .icon-home
-        a.icon-events href="/events"
-        h5
-          a href="/events" EVENTS
-        p We help produce some of the best events in the southeast.
       
 
   .container
     .article.span12
-      .home-card
-        .home-img style="background-image:url('/images/homepage/cards/homepage-card-jen.png');"
-        .home-p
-          h5
-            a href="https://vimeo.com/64245253" target="_blank" Meet Jennifer, a student in the Academy.
-          .post-description There are lots of educational programs out there, and Jen explains why she chose to come to ours.
 
       .home-card
-        .home-img style="background-image:url('/images/homepage/cards/homepage-card-doctor.png');"
+        .home-img style="background-image:url('/images/homepage/cards/homepage-card-atlanta.jpg');"
         .home-p
           h5
-            a href="/accelerator/digital-health-program"We need tech that puts the care back in healthcare.
-          .post-description From wellness apps to enterprise software, we're helping startups build the future of health.
+            a href="/locations" Coming soon to a city near you.
+          .post-description The Iron Yard is one family with many homes. Check out our locations and where we're headed next. 
 
       .home-card
-        .home-img style="background-image:url('/images/homepage/cards/homepage-card-audience.png');"
+        .home-img style="background-image:url('/images/homepage/cards/homepage-card-hiring.jpg');"
         .home-p
           h5
-            a href="/education/academy/front-end-engineering"Learn to build production-quality web apps.
-          .post-description Looking to switch careers? Want to diversify your skill set? We're building a programming school in the heart of the Southeast. 
+            a href="/jobs" target="_blank" We're hiring Instructors and Community Managers
+          .post-description We're launching The Iron yard Academy in cities across the Southeast, and we're looking for talented people to join our team.
+
+      .home-card
+        .home-img style="background-image:url('/images/homepage/cards/homepage-card-scholarship.jpg');"
+        .home-p
+          h5
+            a href="/blog/2013/10/21/announcing-scholarships-for-women-in-tech/" Announcing scholarships for women in tech
+          .post-description We're thrilled to offer two women a $1500 scholarship towards our Front End Engineering class in January.
 
       / - if @is_home
       /   - blog_feed.first(3).each do |post|
