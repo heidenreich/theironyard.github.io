@@ -17,15 +17,44 @@
     }
 
     .span8 {
-      margin-top: 10px;
+      margin-top: 0px;
 
       @media only screen and (max-width: 979px) and (min-width: 600px) {
         max-width: 100% !important;
       }
     }
 
+    .locations-button {
+      padding: 12px 18px 13px 18px;
+      font-size: 22px;
+      line-height: 30px;
+      color: #fff;
+      background-color: #20a3d9;
+      text-decoration: none;
+      display: block;
+      margin-top: 0px;
+      border-radius: 2px;
+      text-align: center;
+      font-weight: 100;
+  
+      img {
+        display: inline-block;
+        margin-right: 10px;
+      }
+
+      p {
+        display: inline-block;
+        margin: 0px;
+      }
+    }
+
+    .locations-button:hover {
+      background: #1b93c4;
+      text-decoration: none;
+    }
+
     .span4 {
-      margin-top: 15px;
+      margin-top: 0px;
       margin-left: 24px;
 
       ul {
@@ -34,7 +63,7 @@
 
       @media only screen and (max-width: 979px) and (min-width: 600px) {
 
-        .available-button {
+        .locations-button {
           display: inline-block;
         }
       }

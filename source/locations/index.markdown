@@ -13,23 +13,22 @@ parent_url: "/"
   <div class="span8">
     <h2>Greenville, SC</h2>
   </div>
-  <img class="header-image" src="/images/locations/locations-greenville.jpg"/>
   <div class="span8">
-    <p>Nestled into the foothills of the Blue Ridge Mountains, Greenville, South Carolina has combined traditional southern charm, stunning natural beauty and nationally-respected tech and design communities to create one of America's hottest emerging destinations and fastest growing cities.</p>
-    <p>Greenville is also the birthplace of The Iron Yard, home to our HQ, and launched our first accelerator program, first intensive Academy courses, and all of our kids classes.</p>
+    <img src="/images/locations/greenville/locations-greenville.jpg">
   </div>
 
   <div class="article-sidebar span4">
-    <a class="available-button" href="/locations/greenville">
+
+    <a class="locations-button" href="/locations/greenville">
       <p>Learn More</p>
     </a>
 
     <ul class="links">
       <li>
-        Tech Accelerator
+        Accelerator
       </li>
       <li>
-        Intensive Academy courses
+        Academy courses
       </li>
       <li>
         Kids CoderDojo and Labs classes
@@ -37,7 +36,11 @@ parent_url: "/"
       <li>
         2 CoWorking locations
       </li>
+      <li>
+        Greenville Grok
+      </li>
     </ul>
+
   </div>
 </div>
 
@@ -46,19 +49,18 @@ parent_url: "/"
   <div class="span8">
     <h2>Spartanburg, SC</h2>
   </div>
-  <img class="header-image" src="/images/locations/locations-spartanburg.jpg"/>
   <div class="span8">
-    <p>A proverbial sister-city to Greenville, Spartanburg is where we launched our second location and Digital Health Accelerator. Originally known for its historic charm (think turn of the century houses and an old school town square complete with clock tower), its leaders are fully committed to the next wave of its development as a medical innovation hub. The successful fundraising after our first class is more than enough proof that their vision is becoming reality.</p>
+    <img src="/images/locations/spartanburg/locations-spartanburg.jpg">
   </div>
 
   <div class="article-sidebar span4">
-    <a class="available-button" href="#">
+    <a class="locations-button" href="/locations/spartanburg">
       <p>Learn More</p>
     </a>
 
     <ul class="links">
       <li>
-        Digital Health Accelerator
+        Accelerator
       </li>
       <li>
         CoWorking
