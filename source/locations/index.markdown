@@ -109,7 +109,7 @@ parent_url: "/"
         Accelerator
       </li>
       <li>
-        The Iron Yard Academy
+        Front End Engineering Academy courses
       </li>
       <li>
         Kids CoderDojo and Labs classes
