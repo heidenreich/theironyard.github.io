@@ -143,10 +143,10 @@ parent_url: "/"
         Accelerator
       </li>
       <li>
-        CoWorking
+        CoWork
       </li>
       <li>
-        Kids CoderDojo and Labs classes
+        CoderDojo and Labs classes for kids
       </li>
     </ul>
   </div>
