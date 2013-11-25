@@ -106,7 +106,7 @@ The best part of the job is getting to know students and playing a role in helpi
 - Organized and pays attention to detail
 - Enjoys communicating on social media
 - You believe in our [mission](#mission) and are excited about building our [culture](#culture)
-- Really care about making a difference in our broken edcucation system
+- Really care about making a difference in our broken education system
 - A good sense of humor
 - *Bonus: enjoy and are good at creating content and writing*
 - *Bonus, but not at all required: you've got some hacking skills*
