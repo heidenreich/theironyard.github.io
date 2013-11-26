@@ -11,7 +11,7 @@ parent_url: "/"
 
 ### _So this entrepreneur, designer, Rails teacher, and event planner walk into a coworking space…_
 
-We're a southern ignition of entrepreneurs, investors, developers, artists, teachers, collaborative spaces, and the events that bring them all together. We believe that quality people are the secret to innovation and inspiration, and that we're at our best when we work together.
+We're a southern ignition of entrepreneurs, investors, developers, artists, teachers, collaborative spaces, and the events that bring them all together. We believe that quality people are the secret to innovation and inspiration and that we're at our best when we work together.
 
 We live, work, and play in wonderful cities [across the Southeast](/locations).
 ---
@@ -22,11 +22,11 @@ We live, work, and play in wonderful cities [across the Southeast](/locations).
 
 #### Eric Dodds<br><em>Managing Director</em>
 
-Eric was born and raised in the Upstate (that’s SC for all you Yanks out there), where he spent his early years hiking, mountain biking and dirt bike riding with his Dad. Somehow or other he ended up at Clemson University, and the result was a degree in marketing, some tutoring in calculus, a lot of wakeboarding and a proudly matriculated summa cum laude.
+Eric was born and raised in the Upstate (that’s SC for all you Yanks out there), where he spent his early years hiking, mountain biking and dirt bike riding with his dad. Somehow or other he ended up at Clemson University, and the result was a degree in marketing, some tutoring in calculus, a lot of wakeboarding and a proudly matriculated summa cum laude.
 
-After school Eric took a marketing internship at Brains on Fire, where he worked his way from research assistant to full blown account manager and strategist. He's executed successful projects for Best Buy, Double Day Publishing, Colonial Williamsburg, and Liquid Wrench. Even though he liked his day job, nights and weekends often found Eric scheming up new ideas and companies with developer friends.
+After school Eric took a marketing internship at Brains on Fire, where he worked his way from research assistant to full blown account manager and strategist. He has executed successful projects for Best Buy, Doubleday Publishing, Colonial Williamsburg, and Liquid Wrench. Even though he liked his day job, nights and weekends often found Eric scheming up new ideas and companies with developer friends.
 
-Luckily his path crossed with Peter and Matthew's just as the idea for The Iron Yard was born, and he jumped ship to join their crew as a partner and producer. Day to day you'll see him tackle everything from accounting to coding, making sure the team is having fun and projects are getting done.
+Luckily he crossed paths with Peter and Matthew just as the idea for The Iron Yard was born, and he jumped ship to join their crew as a partner and producer. Day to day you'll see him tackle everything from accounting to coding, making sure the team is having fun and projects are getting done.
 
 When he's not knee-deep in startup world, you can probably find him hiking or biking in the woods, building something in his shop, or on a walk with his wife.
 
@@ -50,7 +50,7 @@ A decent mixologist, and no mean hand at Japanese cooking, his preferred past-ti
 
 <img src="/images/about/peter-barth.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-#### Peter Barth<br><em>Executive Director</em>r
+#### Peter Barth<br><em>Executive Director</em>
 
 Peter went to Vanderbilt University, where he studied computer engineering. After school he did what all engineers do: moved to Manhattan to become an options and securities principal at Duke & Company (and later Morgan Stanley). Minting deals and moving stock was fun, but a few years on Wall Street reminded Pete he was a hacker at heart.
 

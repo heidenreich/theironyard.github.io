@@ -112,10 +112,10 @@ parent_url: "/"
         Front End Engineering Academy courses
       </li>
       <li>
-        Kids CoderDojo and Labs classes
+        CoderDojo and Labs classes for kids
       </li>
       <li>
-        2 CoWorking locations
+        Two CoWork locations
       </li>
       <li>
         Greenville Grok
@@ -143,10 +143,10 @@ parent_url: "/"
         Accelerator
       </li>
       <li>
-        CoWorking
+        CoWork
       </li>
       <li>
-        Kids CoderDojo and Labs classes
+        CoderDojo and Labs classes for kids
       </li>
     </ul>
   </div>
