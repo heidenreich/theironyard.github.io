@@ -13,7 +13,7 @@ Author: "Eric Dodds"
 
 ![](/images/blog/2013/11/11.26.13/js-hacker.jpg) 
 
-*This is a guest post from our recent Academy graduate [Ari Picker](http://pickra.github.io/AriPicker.github.io/).*
+*This is a guest post from our recent Academy graduate [Ari Picker](http://pickra.github.io/AriPicker.github.io/). The Super-JS-Man model is [Andy Flack](http://flackap.com), also an Academy grad.*
 
 ###Why is there no JavaScript user group in the Upstate?
 
