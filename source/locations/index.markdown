@@ -115,7 +115,7 @@ parent_url: "/"
         CoderDojo and Labs classes for kids
       </li>
       <li>
-        Two CoWork locations
+        Two CoWorking locations
       </li>
       <li>
         Greenville Grok
@@ -143,7 +143,7 @@ parent_url: "/"
         Accelerator
       </li>
       <li>
-        CoWork
+        CoWorking
       </li>
       <li>
         CoderDojo and Labs classes for kids
