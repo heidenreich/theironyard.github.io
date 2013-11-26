@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Updates | The Iron Yard]]></title>
   <link href="http://theironyard.com/blog/categories/updates/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-11-26T16:57:29-05:00</updated>
+  <updated>2013-11-26T17:28:45-05:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -14,11 +14,40 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Greenville JavaScript Users Group]]></title>
+    <title type="html"><![CDATA[Introducing the Greenville, SC JavaScript Users Group]]></title>
     <link href="http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group/"/>
     <updated>2013-11-26T16:18:00-05:00</updated>
     <id>http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<hr />
+
+<p><img src="/images/blog/2013/11/11.26.13/js-hacker.jpg" alt="" /></p>
+
+<p><em>This is a guest post from our recent Academy graduate <a href="http://pickra.github.io/AriPicker.github.io/">Ari Picker</a>. The Super-JS-Man model is <a href="http://flackap.com">Andy Flack</a>, also an Academy grad.</em></p>
+
+<h3>Why is there no JavaScript user group in the Upstate?</h3>
+
+<p>I just graduated from the Iron Yard&rsquo;s front-end engineering course. While there, I was plugged-in to a community of people that were all trying to do the same thing; solving problems using JS and other web development technologies. We bounced our ideas off of each other, asked for help or taught someone something. Not only were we challenged by <a href="http://chaithoughts.com/wp-content/uploads/2010/12/holga_mason.jpg">our fearless leader</a>…</p>
+
+<!-- more -->
+
+
+<p>…but also by each other.</p>
+
+<p>I want more of that, which is really <a href="http://ambroselittle.files.wordpress.com/2013/04/he-man-has-the-power.gif?w=500">more of this</a>.</p>
+
+<p><strong>So, I propose that once or twice a month, JavaScripters unite&hellip;at least in the Upstate.</strong></p>
+
+<p>We will meet for roughly 2 hours; this includes a break. People will sign up for 10/20/30 minute slots to ask for help, teach something, or to make a challenge.</p>
+
+<h3>The only rule is there are no rules&hellip;</h3>
+
+<p>Except that JavaScript is the dominant topic, and you should probably wear pants. You want to talk about vanilla JS, cool. Frameworks, libraries, plugins, MVC, unit testing, and new fangled concepts are all encouraged.</p>
+
+<h3>Interested?</h3>
+
+<p>Head on over to Twitter and follow <a href="http://twitter.com/greenvillejs">@GreenvilleJS</a>  for updates and to sign up for slots. There is also a <a href="https://www.bigtent.com/groups/greenvillejs">Big Tent</a> account if you feel like signing up or playing a more instrumental role in the group.</p>
+
+<p>And yes, there <strong>will be food and beer</strong>!</p>
 ]]></content>
   </entry>
   
