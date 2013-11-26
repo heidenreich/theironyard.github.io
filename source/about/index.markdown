@@ -50,7 +50,7 @@ A decent mixologist, and no mean hand at Japanese cooking, his preferred past-ti
 
 <img src="/images/about/peter-barth.jpg" style="float: left; margin: 0px 18px 0px 0px; display: inline-block; border-radius: 3px;">
 
-#### Peter Barth<br><em>Executive Director</em>r
+#### Peter Barth<br><em>Executive Director</em>
 
 Peter went to Vanderbilt University, where he studied computer engineering. After school he did what all engineers do: moved to Manhattan to become an options and securities principal at Duke & Company (and later Morgan Stanley). Minting deals and moving stock was fun, but a few years on Wall Street reminded Pete he was a hacker at heart.
 
