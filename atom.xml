@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.com/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-11-26T11:07:46-05:00</updated>
+  <updated>2013-11-26T16:57:29-05:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Greenville JavaScript Users Group]]></title>
+    <link href="http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group/"/>
+    <updated>2013-11-26T16:18:00-05:00</updated>
+    <id>http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[If Walls Could Talk]]></title>
@@ -871,32 +880,6 @@ Nashville, TN. 37203</em>
 <p>4) <a href="https://s3.amazonaws.com/resized-images-new/1EA9BC32-F8D4-4E59-9A22-53B0D9C6FAD2">I have no idea what I&rsquo;m doing</a>.</p>
 
 <p><em><a href="https://gimmebar-assets.s3.amazonaws.com/5138a51f51ada.gif">*Obligatory cat-related-something, <strong>&ldquo;Yawning&rdquo;</strong> edition</a>.</em></p>
-
-<p>Happy Friday y&#8217;all.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lazy Friday Links, Vol. 12]]></title>
-    <link href="http://theironyard.com/blog/2013/03/01/lazy-friday-links-vol-12/"/>
-    <updated>2013-03-01T17:30:05-05:00</updated>
-    <id>http://theironyard.com/blog/2013/03/01/lazy-friday-links-vol-12</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/03/fat-thing.jpg" style="border-radius: 3px;"></p>
-
-<p>Yes, we missed a week last week. We had a big announcement about The Iron Yard Academy. Sue us.</p>
-
-<!-- more -->
-
-
-<p><strong>1) ThinkLink: Startups are about fast, but accelerators actually slow you down. </strong> Our good friend Patrick Riley <a href="http://gan.co/blog/the-industry/why-accelerators-actually-slow-a-company-down-all-while-propelling-the-company-to-success">wrote an awesome post about how accelerators help slow your company down</a>, and how that is the best thing for you.</p>
-
-<p>2) [, if you haven&rsquo;t had the pleasure. (Hat tip to <a href="https://twitter.com/bauermarty">Marty Bauer</a> on this one.)</p>
-
-<p>3) <a href="https://gimmebar-assets.s3.amazonaws.com/510b781e67f65.gif">Taking the shortcut never pays. </a>.</p>
-
-<p>4) <a href="https://gimmebar-assets.s3.amazonaws.com/510daf822b64f.jpg">Fresh Prince of Persia</a>. You&rsquo;re welcome.</p>
-
-<p><em><a href="https://gimmebar-assets.s3.amazonaws.com/5093064a28957.jpg">*Obligatory cat-related-something, <strong>&ldquo;Time of my life&rdquo;</strong> edition</a>.</em></p>
 
 <p>Happy Friday y&#8217;all.</p>
 ]]></content>
