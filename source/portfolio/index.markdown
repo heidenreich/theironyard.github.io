@@ -66,7 +66,7 @@ parent_url: "/"
 </div>
 
 <div class="team-member one-fourth last">
-   <a href="http://signup.upkeepcharlie.com/" target="_blank">
+   <a href="http://upkeepcharlie.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-upkeep-charlie.jpg" class="photo wp-post-image" alt="UpKeep Charlie" title="UpKeep Charlie" />
     </a>
    <div class="content">
