@@ -18,11 +18,11 @@ sub_nav:
     slug: "current-companies"
 ---
 
-#### We’re interested in building strong, sustainable businesses that add real value to customer’s lives.
+#### We’re interested in building strong, sustainable businesses that add real value to customers' lives.
 
-Speaking the same language? We’d love for you to join us.Whether your goal is a Series A round, building a team and bootstrapping, or utilizing Kickstarter, we have a place for you.
+Speaking the same language? We’d love for you to join us. Whether your goal is a Series A round, building a team and bootstrapping, or utilizing Kickstarter, we have a place for you.
 
-We run two programs a year, an [open tech program](/accelerator/tech-program) in the spring, and a [digital health program](/accelerator/digital-health-program) in the late summer/fall. 
+We run two programs a year, an [open tech program](/accelerator/tech-program) in the spring and a [digital health program](/accelerator/digital-health-program) in the late summer/fall. 
 
 ---
 
