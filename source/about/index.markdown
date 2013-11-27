@@ -38,11 +38,11 @@ When he's not knee-deep in startup world, you can probably find him hiking or bi
 
 #### Mason Stewart<br><em>Technical Director</em>
 
-Mason was born and raised in Jackson, Mississippi, better known as the Dirty South. He grew up in the woods and likes animals, trees, and beer. Upon moving back to the USA after 4 years in Japan, at age 24 he ended a multi-year fast from programming and hit the ground running. Like any good college graduate with a degree in philosophy, Mason is a front-end engineer and a JavaScript guy, but "after hours" he loves programming in Lisp.
+Mason was born and raised in Jackson, Mississippi, better known as the Dirty South. He grew up in the woods and likes animals, trees, and beer. Upon moving back to the USA after four years in Japan, at age 24 he ended a multi-year fast from programming and hit the ground running. Like any good college graduate with a degree in philosophy, Mason is a front-end engineer and a JavaScript guy, but "after hours" he loves programming in Lisp.
 
- In addition to teaching kids, he's worked for small, Southern boutique web shops, startups from San Francisco to Greenville, and everywhere in between. Mason now directs the Iron Yard Academy, which encompasses CoderDojo and the Iron Yard's Intensive School. He also spends his days hacking on the Iron Yard's chatbot, teaching it to surprise the other Iron Yarders with memes and gifs.
+ In addition to teaching kids, he has worked for small, Southern boutique web shops, startups from San Francisco to Greenville, and everywhere in between. Mason now directs the Iron Yard Academy, which encompasses CoderDojo and the Iron Yard's Intensive School. He also spends his days hacking on the Iron Yard's chatbot, teaching it to surprise the other Iron Yarders with memes and gifs.
 
-A decent mixologist, and no mean hand at Japanese cooking, his preferred past-times are kicking it with friends and family, crafting tasty beverages, gardening, and slow-roasting anything he can get his hands on.
+A decent mixologist, and no mean hand at Japanese cooking, his preferred pastimes are kicking it with friends and family, crafting tasty beverages, gardening, and slow-roasting anything he can get his hands on.
 
 • [@masondesu](https://twitter.com/masondesu) • [Github](http://github.com/masondesu)
 
