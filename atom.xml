@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.com/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-11-26T17:28:45-05:00</updated>
+  <updated>2013-11-27T14:05:55-05:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -20,7 +20,7 @@
     <id>http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group</id>
     <content type="html"><![CDATA[<hr />
 
-<p><img src="http://theironyard.com/images/blog/2013/11/11.26.13/js-hacker.jpg" alt="" /></p>
+<p><img src="http://theironyard.com/images/blog/2013/11/11.26.13/js-hacker.jpg" style="border-radius: 3px;"></p>
 
 <p><em>This is a guest post from our recent Academy graduate <a href="http://pickra.github.io/AriPicker.github.io/">Ari Picker</a>. The Super-JS-Man model is <a href="http://flackap.com">Andy Flack</a>, also an Academy grad.</em></p>
 
