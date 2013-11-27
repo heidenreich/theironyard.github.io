@@ -56,7 +56,7 @@ Peter went to Vanderbilt University, where he studied computer engineering. Afte
 
 He packed up his computer and family and headed to Indianapolis to develop software for SinglePoint, an enterprise payroll service. With hard work and technical expertise, he worked his way up to CTO and purchased a stake in the business. In 2006, Peter moved his family again, but this time to sunny South Carolina. In Greenville, Peter has taken leadership roles in the development of NEXT, the NEXT Innovation Center, InternGreenville, and the southeast's premier startup accelerator, The Iron Yard.
 
-Peter married his college sweetheart and has 5 incredible kids. In the rare times he's not at work or with his family, you can find him heads down in the latest fantasy or science fiction novel.
+Peter married his college sweetheart and has five incredible kids. In the rare times he's not at work or with his family, you can find him heads down in the latest fantasy or science fiction novel.
 
 • [@peterbarth](http://twitter.com/peterbarth) • [LinkedIn](http://www.linkedin.com/in/peterbarth)
 
