@@ -11,7 +11,7 @@ Author: "Eric Dodds"
 
 ---
 
-![](/images/blog/2013/11/11.26.13/js-hacker.jpg) 
+<img src="/images/blog/2013/11/11.26.13/js-hacker.jpg" style="border-radius: 3px;">
 
 *This is a guest post from our recent Academy graduate [Ari Picker](http://pickra.github.io/AriPicker.github.io/). The Super-JS-Man model is [Andy Flack](http://flackap.com), also an Academy grad.*
 
