@@ -50,7 +50,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 *   **Jun. 16** – Application Deadline
 *   **Jul. 15** – Program Begins
 *   **Sept. 29 - Oct. 3** – Demo Day at Health 2.0 Silicon Valley Fall Conference
-*   **Oct. 15** – Southeast launch event
+*   **Oct. 15** – Southeast Launch Event
 
 * * *
 
