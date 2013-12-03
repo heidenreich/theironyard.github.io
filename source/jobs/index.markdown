@@ -33,22 +33,22 @@ We're looking for:
 - Ruby on Rails instructors
 - Front end engineering (JavaScript) instructors
 
-If you live and breathe code as your craft, find joy in helping other people learn it too, and want a huge amount of time to pursue freelance, personal projects, or open source work, then this job was custom-made for you. 
+If you live and breathe code as your craft; find joy in helping other people learn it too; and want a huge amount of time to pursue freelance, personal projects, or open source work, then this job was custom-made for you. 
 
 **Educational values**
 
 First and most importantly, here are a few of our values when it comes to teaching someone how to be a developer: 
 
-- **Thinking over syntax** - we believe syntax is the easy part of programming, and that we are successful when we've helped someone learn to think like an engineer
-- **Quality over quantity** - we're interested in training true professionals, not getting as many people into our classes as possible
-- **Real projects over scripted assignments** - people learn programming best by tackling hard problems with a mentor, not following a list of steps and taking a quiz
-- **Emphasis on open source** - we deeply value the open source mindset and intentionally create and contribute to open source projects
+- **Thinking over syntax** - We believe syntax is the easy part of programming and that we are successful when we've helped someone learn to think like an engineer.
+- **Quality over quantity** - We're interested in training true professionals, not getting as many people into our classes as possible.
+- **Real projects over scripted assignments** - People learn programming best by tackling hard problems with a mentor, not following a list of steps and taking a quiz.
+- **Emphasis on open source** - We deeply value the open source mindset and intentionally create and contribute to open source projects.
 
 **What the role and responsibilities look like**
 
-Our instructors serve as lecturers and mentors to our students, helping them learn to think like engineers and hone their skills in a programming disclipline. You'll also help define and refine the curriculum to stay current with cool new stuff. Here's a peek at the [Front End Engineering course](/education/academy/front-end-engineering) we've already launched. 
+Our instructors serve as lecturers and mentors to our students, helping them learn to think like engineers and hone their skills in a programming discipline. You'll also help define and refine the curriculum to stay current with cool new stuff. Here's a peek at the [Front End Engineering course](/education/academy/front-end-engineering) we've already launched. 
 
-You'll teach three, three-month semesters each year. The remaining three months you'll only have light duties for The Iron Yard, such as curriculum updates and interviewing students for future classes. Beyond those things, you're free to work on whatever you want (such as personal projects, open source projects, or products that we're buildling and launching as The Iron Yard). And, of course, you'll want to take some well-deserved time off.
+You'll teach three, three-month semesters each year. The remaining three months you'll only have light duties for The Iron Yard, such as curriculum updates and interviewing students for future classes. Beyond those things, you're free to work on whatever you want (such as personal projects, open source projects, or products that we're building and launching as The Iron Yard). And, of course, you'll want to take some well-deserved time off.
 
 Each class will be 15 students (no more), and you will have an admin/community manager to take care of all the non-teaching-critical parts of running a program. 
 
@@ -62,7 +62,7 @@ Outside of teaching responsibilities, you'll be an active part of the developmen
 - Great communication skills, especially in distilling complex subject matter
 - You believe in our [mission](#mission) and are excited about building our [culture](#culture)
 - Really care about the mission of filling the gigantic developer shortfall happening in our industry
-- A good sense of humor - intensive classes don't work if its all work and no play
+- A good sense of humor - intensive classes don't work if it's all work and no play
 - Big fan of open source work and building the dev community in general
 - *Bonus: great at finding epic gifs*
 
@@ -95,7 +95,7 @@ We're looking for people to be the voices, faces and hands of our code schools i
 
 Our people in this role build community, both internally and externally, work with the instructors to manage applications and admissions, and make sure our spaces are awesome places to learn and work (that means stylish furniture and decor, finding the best locally roasted coffee available, and keeping office supplies in stock).
 
-You'll be networking with potential students and employers, getting out into the community to represent The Iron Yard, hosting rockin' events for our students and others, and more. Leading up to and after graduation you'll help students get their resumes and portfolios job-ready, and work with them to find and apply for jobs. 
+You'll be networking with potential students and employers, getting out into the community to represent The Iron Yard, hosting rockin' events for our students and others, and more. Leading up to and after graduation, you'll help students get their resumes and portfolios job-ready and work with them to find and apply for jobs. 
 
 The best part of the job is getting to know students and playing a role in helping them pursue a life and career that they are truly passionate about.
 
@@ -131,7 +131,7 @@ The best part of the job is getting to know students and playing a role in helpi
 
 The world has huge problems that need to be solved, many of which technology is perfectly suited to address. Companies full of designers and developers around the globe are answering this call, but there's a problem: there aren't enough of them. While data shows a current surplus of American graduates with STEM degrees, anyone on the ground in the tech industry has felt the acute shortage of high-quality developers. What's more, over the next 10 years there will be *1.4 million jobs in computer science but only 400,000 qualified graduates*.
 
-The Iron Yard is a solution at that juncture of supply, demand, and a broken education system. We are committed to training up the highest-quality developers in the world, both in skill and in character. Our mission is to find people who want to pursue the *craft* and *life-long adventure* of programming, teach them the tools of the trade, teach them how to teach themselves, and then release them into the world with the drive and capability to make a difference. We believe that passionate, talented people who love what they do will create great families, jobs, companies, and solutions to the world's problems.
+The Iron Yard is a solution at that juncture of supply, demand, and a broken education system. We are committed to training the highest-quality developers in the world, both in skill and in character. Our mission is to find people who want to pursue the *craft* and *life-long adventure* of programming, teach them the tools of the trade, teach them how to teach themselves, and then release them into the world with the drive and capability to make a difference. We believe that passionate, talented people who love what they do will create great families, jobs, companies, and solutions to the world's problems.
 
 We want to accomplish this alongside talented, passionate people who share our vision, love what they do, and want to have a whole lot of fun along the way. 
 
