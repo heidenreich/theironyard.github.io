@@ -15,7 +15,7 @@ Author: "Eric Dodds"
 
 Grok is a unique conference. While we did add keynote speakers last year (at the request of attendees), the emphasis has always been on honest, problem-tackling conversations in small groups where no one is a hero. Problems are solved, companies are launched, and creative people are refreshed and encouraged. It's awesome. 
 
-Last year we added another component that people loved: a healthy dose of fun. Our brains work best with healthy doses of non-work downtime and activities. This is especially true of creative people.[^1]
+Last year we added another component that people loved: a healthy dose of fun. Our brains work best with periods of non-work downtime and activities. This is especially true of creative people.[^1]
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ This year, we're upping the game again.
 
 *We're not kidding*. (And yes, [tickets are still available](https://tito.io/the-iron-yard/Grok-2014).)
 
-Here are a few videos to start your salivating: 
+Here are a few videos to get you excited: 
  
 <iframe src="//player.vimeo.com/video/49778504?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="630" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
