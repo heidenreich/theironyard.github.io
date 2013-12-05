@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Updates | The Iron Yard]]></title>
   <link href="http://theironyard.com/blog/categories/updates/atom.xml" rel="self"/>
   <link href="http://theironyard.com/"/>
-  <updated>2013-11-27T14:05:55-05:00</updated>
+  <updated>2013-12-05T11:34:54-05:00</updated>
   <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Grok + Race Cars = Awesome]]></title>
+    <link href="http://theironyard.com/blog/2013/12/05/grok-plus-race-cars-equals-awesome/"/>
+    <updated>2013-12-05T11:20:00-05:00</updated>
+    <id>http://theironyard.com/blog/2013/12/05/grok-plus-race-cars-equals-awesome</id>
+    <content type="html"><![CDATA[<hr />
+
+<p><img src="http://theironyard.com/images/blog/2013/12/12.5.13/grok-bmw-announcement.jpg" style="border-radius: 3px;"></p>
+
+<p>Grok is a unique conference. While we did add keynote speakers last year (at the request of attendees), the emphasis has always been on honest, problem-tackling conversations in small groups where no one is a hero. Problems are solved, companies are launched, and creative people are refreshed and encouraged. It&rsquo;s awesome.</p>
+
+<p>Last year we added another component that people loved: a healthy dose of fun. Our brains work best with healthy doses of non-work downtime and activities. This is especially true of creative people.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<!-- more -->
+
+
+<p>Last year we played kickball on the field in the Fenway-replica stadium our ball team in Greenville uses (they&rsquo;re the Single A feeder for the Red Sox). It was a blast.</p>
+
+<p>This year, we&rsquo;re upping the game again.</p>
+
+<p><strong>For half-a-day, attendees will driving brand new BMW race cars on a private race track and SUV&rsquo;s on a private off-road course.</strong></p>
+
+<p><em>We&rsquo;re not kidding</em>. (And yes, <a href="https://tito.io/the-iron-yard/Grok-2014">tickets are still available</a>.)</p>
+
+<p>Here are a few videos to start your salivating:</p>
+
+<iframe src="http://theironyard.com//player.vimeo.com/video/49778504?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="630" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
+<iframe width="630" height="354" src="http://theironyard.com//www.youtube.com/embed/dfYU3Qe4euI" frameborder="0" allowfullscreen></iframe>
+
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>You can read all about brain breaks in <a href="http://www.scientificamerican.com/article.cfm?id=mental-downtime">this Scientific American Article</a>. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introducing the Greenville, SC JavaScript Users Group]]></title>
