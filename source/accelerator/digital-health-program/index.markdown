@@ -23,7 +23,7 @@ sub_nav:
 **Members of our Accelerator Receive:**
 
 *   $20,000 in seed capital.
-*   3 months of incredible mentorship and weekly workshops from experts in healthcare innovation, fundraising, UX/UI and development, design, lean startup methodology, team formation and financing.
+*   Three months of incredible mentorship and weekly workshops from experts in healthcare innovation, fundraising, UX/UI and development, design, lean startup methodology, team formation and financing.
 *   Demo Day exclusive session at Health 2.0, Silicon Valley Fall Conference.
 *   Full year of free coworking space surrounded by other innovators.
 *   Strong partnerships with industry experts including global medical research institutions, top pharma distributors and leading hospital systems.
@@ -33,8 +33,8 @@ sub_nav:
 
 **Your Team:**
 
-*   2+ people
-*   Company should be software or software/hardware combinations (like FitBit). We don’t do: medical devices, biotech or life sciences.
+*   Two or more people
+*   Company should be software or software/hardware combination (like FitBit). We don’t do medical devices, biotech or life sciences.
 *   Your team must be on site for the duration of the program. There is no obligation to stay in the Upstate, but we’d sure be glad to have you.
 
 Did we mention that our space is one block from [RJ Rockers Brewery](http://www.rjrockers.com/)?
@@ -50,7 +50,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 *   **Jun. 16** – Application Deadline
 *   **Jul. 15** – Program Begins
 *   **Sept. 29 - Oct. 3** – Demo Day at Health 2.0 Silicon Valley Fall Conference
-*   **Oct. 15** – Southeast launch event
+*   **Oct. 15** – Southeast Launch Event
 
 * * *
 

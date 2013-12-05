@@ -20,13 +20,13 @@ sub_nav:
 
 ### Whether it's entertainment or business to business, we think entrepreneurs are happiest when they're making other people's lives better.
 
-Our companies receive three months of incredible mentorship &amp; weekly workshops, 12 months of office space, free legal services, amazing perks, and the opportunity to present at our launch event at the end of each session. Our program is unique in that it's a great fit for both teams that have decided to bootstrap or those looking for venture financing. For teams looking to raise capital we offer **$20,000 in seed capital** and take the group on two week long fundraising trips to both New York and San Francisco.
+Our companies receive three months of incredible mentorship and weekly workshops, 12 months of office space, free legal services, amazing perks, and the opportunity to present at our launch event at the end of each session. Our program is unique in that it's a great fit for teams that have decided to bootstrap or those looking for venture financing. For teams looking to raise capital we offer **$20,000 in seed capital** and take the group on two week long fundraising trips to New York and San Francisco.
 
-When you complete the program, join other accelerator classmates and alumni in our **free, collaborative workspace.**
+When you complete the program, join other accelerator classmates and alumni in our **free collaborative workspace.**
 
-We're looking for extremely talented teams with great ideas in big markets. Out primary focus is web and mobile technology companies, but occasionally we accept teams outside those categories.
+We're looking for extremely talented teams with great ideas in big markets. Our primary focus is web and mobile technology companies, but occasionally we accept teams outside of those categories.
 
-You must be willing to relocate to Greenville, SC for the 3 month session and dedicate 100% of your time for the duration of the program. There's no commitment to stay in South Carolina after the program, although we'd love to keep you here.
+You must be willing to relocate to Greenville, SC for the three-month session and dedicate 100% of your time for the duration of the program. There's no commitment to stay in South Carolina after the program, although we'd love to keep you here.
 
 In our experience, it doesn't take much convincing.
 
