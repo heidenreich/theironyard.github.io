@@ -33,7 +33,7 @@ So, officially:
 
 Here are a few words he wanted to share with our community: 
 
-<iframe width="630" height="354" src="//www.youtube.com/embed/tAk_FtJh6Lc" frameborder="0" allowfullscreen></iframe>
+<iframe width="630" height="354" style="max-width: 100%;" src="//www.youtube.com/embed/tAk_FtJh6Lc" frameborder="0" allowfullscreen></iframe>
 
 If you're interested in learning more about our expansion to Atlanta, [sign up for the newsletters on our website](http://theironyard.com/locations/atlanta/). 
 
