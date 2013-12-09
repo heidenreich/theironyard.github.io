@@ -12,9 +12,9 @@ author: "Eric Dodds"
 
 <img src="/images/blog/2013/12/12.9.13/john-saddington-welcome.jpg" style="border-radius: 3px;">
 
-2013 has been a pretty amazing year. As we look back on what the past 12 months have been for The Iron Yard as a copmany, it's hard to imagine all that's been accomplished. We've run two accelerator programs, watching successful startups dig in their heels to build amazing products and raise funding. We've also seen people alter the course life by learning to code in our Academy. We're both humbled and very excited about what is to come.
+2013 has been a pretty amazing year. As we look back on what the past 12 months have been for The Iron Yard as a copmany, it's hard to imagine all that's been accomplished. We've run two accelerator programs, watching successful startups dig their heels in to build amazing products and raise funding. We've also seen people alter the course of their life by learning to code in our Academy. We're both humbled and very excited about what is to come.
 
-Naturally, success and attention drive growth, and we've started looking at expanding our presence into the surrounding areas.
+<!--Naturally, success and attention drive growth, and we've started looking at expanding our presence into the surrounding areas. -->
 
 <!-- more -->
 
@@ -39,6 +39,6 @@ If you're interested in learning more about our expansion to Atlanta, [sign up f
 
 [^1]: You can read about the success of our Academy graduates as well as some thoughts on our plans for expansion in [this GSA Business article](http://gsabusiness.com/news/49715-iron-yard-to-expand-code-school?rss=0). 
 
-[^2]: John is an amazing entreprenur, hacker, husband and dad. A long-time friend and mentor, he's a perfect fit for our culture, and his skillset is going to bring a truckload of value to The Iron Yard. You can read more about him [on his website](http://john.do/about/). He's is also a prolific [blogger](http://john.do) and [Tweeter](http://twitter.com/saddington).
+[^2]: John is an amazing entrepreneur, hacker, husband and dad. A long-time friend and mentor, he's a perfect fit for our culture, and his skillset is going to bring a truckload of value to The Iron Yard. You can read more about him [on his website](http://john.do/about/). He is also a prolific [blogger](http://john.do) and [Tweeter](http://twitter.com/saddington).
 
 [^3]: We're hiring developers and community managers. If you're interested or know someone who might be, [check out our jobs page](http://theironyard.com/jobs). 
