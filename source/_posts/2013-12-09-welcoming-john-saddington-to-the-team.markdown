@@ -12,9 +12,7 @@ author: "Eric Dodds"
 
 <img src="/images/blog/2013/12/12.9.13/john-saddington-welcome.jpg" style="border-radius: 3px;">
 
-2013 has been a pretty amazing year. As we look back on what the past 12 months have been for The Iron Yard as a copmany, it's hard to imagine all that's been accomplished. We've run two accelerator programs, watching successful startups dig their heels in to build amazing products and raise funding. We've also seen people alter the course of their life by learning to code in our Academy. We're both humbled and very excited about what is to come.
-
-<!--Naturally, success and attention drive growth, and we've started looking at expanding our presence into the surrounding areas. -->
+2013 has been a pretty amazing year. As we look back on what the past 12 months have been for The Iron Yard as a company, it's hard to imagine all that's been accomplished. We've run two accelerator programs, watching successful startups dig their heels in to build amazing products and raise funding. We've also seen people alter the course of their life by learning to code in our Academy. We're both humbled and very excited about what is to come.
 
 <!-- more -->
 
