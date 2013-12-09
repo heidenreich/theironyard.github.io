@@ -20,17 +20,18 @@ Naturally, success and attention drive growth, and we've started looking at expa
 
 Naturally, with more attention comes growth and we've started looking at expanding our presence into the surrounding areas -GSA Business recently published some of our high-level plans for expansion[^1], and we have some really exciting news about about our team: 
 
-We've just hired John Saddington[^2] to help us grow our Academy. (We're hiring more people, too.[^2])
+**We've just hired John Saddington[^2] to help us grow our Academy**.  
+(We're hiring more people, too.[^3])
 
 Hailing from Atlanta, John comes to us with a wealth of experience from both the enterprise and startup worlds. As a serial entrepreneur he's actually mentored many of our cohorts in the past few years and knows our culture inside and out. He's also an accomplished hacker. As a Partner he'll help develop company-wide strategic initiatives as well as grow the Atlanta Academy next year. We're flattered that he said "yes" when we pinged him about jumping on board. 
 
-So, officially: 
+So, officially:
 
 > Welcome to the team, John! 2014 is going to be an amazing year. 
 
 ---
 
-John is also a prolific [blogger](http://john.do) and [Tweeter](http://twitter.com/saddington). Here are a few words he wanted to share with our community: 
+Here are a few words he wanted to share with our community: 
 
 <iframe width="630" height="354" src="//www.youtube.com/embed/tAk_FtJh6Lc" frameborder="0" allowfullscreen></iframe>
 
@@ -38,6 +39,6 @@ If you're interested in learning more about our expansion to Atlanta, [sign up f
 
 [^1]: You can read about the success of our Academy graduates as well as some thoughts on our plans for expansion in [this GSA Business article](http://gsabusiness.com/news/49715-iron-yard-to-expand-code-school?rss=0). 
 
-[^2]: We're hiring developers and community managers. If you're interested or know someone who might be, [check out our jobs page](http://theironyard.com/jobs). 
+[^2]: John is an amazing entreprenur, hacker, husband and dad. A long-time friend and mentor, he's a perfect fit for our culture, and his skillset is going to bring a truckload of value to The Iron Yard. You can read more about him [on his website](http://john.do/about/). He's is also a prolific [blogger](http://john.do) and [Tweeter](http://twitter.com/saddington).
 
-[^3]: John is an amazing entreprenur, hacker, husband and dad. A long-time friend and mentor, he's a perfect fit for our culture, and his skillset is going to bring a truckload of value to The Iron Yard. You can read more about him [on his website](http://john.do/about/). 
+[^3]: We're hiring developers and community managers. If you're interested or know someone who might be, [check out our jobs page](http://theironyard.com/jobs). 
