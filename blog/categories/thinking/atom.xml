@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Thinking | The Iron Yard]]></title>
-  <link href="http://theironyard.com/blog/categories/thinking/atom.xml" rel="self"/>
-  <link href="http://theironyard.com/"/>
-  <updated>2013-12-10T16:03:04-05:00</updated>
-  <id>http://theironyard.com/</id>
+  <link href="http://theironyard.github.io/blog/categories/thinking/atom.xml" rel="self"/>
+  <link href="http://theironyard.github.io/"/>
+  <updated>2013-12-13T11:56:48-05:00</updated>
+  <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hyperlinks don't love your brain (why we use footnotes)]]></title>
-    <link href="http://theironyard.com/blog/2013/09/25/why-we-use-footnotes/"/>
+    <link href="http://theironyard.github.io/blog/2013/09/25/why-we-use-footnotes/"/>
     <updated>2013-09-25T11:38:00-04:00</updated>
-    <id>http://theironyard.com/blog/2013/09/25/why-we-use-footnotes</id>
+    <id>http://theironyard.github.io/blog/2013/09/25/why-we-use-footnotes</id>
     <content type="html"><![CDATA[<hr />
 
 <p>If you followed along last week, you know that we broke a 55-day silent streak on the blog. You&rsquo;ll also have seen, and read about, a change we made to the format of our posts: <strong>no in-text hyperlinks in the body of articles</strong> (except on Fridays).</p>

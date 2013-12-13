@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Roundups | The Iron Yard]]></title>
-  <link href="http://theironyard.com/blog/categories/roundups/atom.xml" rel="self"/>
-  <link href="http://theironyard.com/"/>
-  <updated>2013-12-10T16:03:04-05:00</updated>
-  <id>http://theironyard.com/</id>
+  <link href="http://theironyard.github.io/blog/categories/roundups/atom.xml" rel="self"/>
+  <link href="http://theironyard.github.io/"/>
+  <updated>2013-12-13T11:56:48-05:00</updated>
+  <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[App Roundup: When Valentines Bliss Fades Into Reality]]></title>
-    <link href="http://theironyard.com/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality/"/>
+    <link href="http://theironyard.github.io/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality/"/>
     <updated>2013-02-14T11:08:52-05:00</updated>
-    <id>http://theironyard.com/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality</id>
+    <id>http://theironyard.github.io/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality</id>
     <content type="html"><![CDATA[<p>There are lot of people making a lot of money on the idea of love today. It&rsquo;s great: companies feel good because they&rsquo;re helping people feel good. Everyone feels good.</p>
 
 <p>Unfortunately, those good feelings won&rsquo;t last in every case. We&rsquo;re not trying to rain on anyone&rsquo;s lovey-dovey parade here, we&rsquo;re just facing the facts, and we have some good <a href="news:">news:</a></p>
@@ -29,7 +29,7 @@
 
 <p>Here&rsquo;s a round-up of services that will be there for you if the flower-and-candy-dream doesn&rsquo;t quite work out:</p>
 
-<p><a href="http://breakkup.com/"><img src="http://theironyard.com/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://breakkup.com/"><img src="http://theironyard.github.io/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Breakkup</h4>
 
@@ -38,7 +38,7 @@
 <hr>
 
 
-<p><a href="http://www.breakupnotifier.com/"><img src="http://theironyard.com/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://www.breakupnotifier.com/"><img src="http://theironyard.github.io/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Breakup Notifier</h4>
 
@@ -47,7 +47,7 @@
 <hr>
 
 
-<p><a href="http://www.neverlikeditanyway.com/"><img src="http://theironyard.com/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://www.neverlikeditanyway.com/"><img src="http://theironyard.github.io/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Never Liked It Anyways</h4>
 

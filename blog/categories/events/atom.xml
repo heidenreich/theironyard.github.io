@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Events | The Iron Yard]]></title>
-  <link href="http://theironyard.com/blog/categories/events/atom.xml" rel="self"/>
-  <link href="http://theironyard.com/"/>
-  <updated>2013-12-10T16:03:04-05:00</updated>
-  <id>http://theironyard.com/</id>
+  <link href="http://theironyard.github.io/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://theironyard.github.io/"/>
+  <updated>2013-12-13T11:56:48-05:00</updated>
+  <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Grok + Race Cars = Awesome]]></title>
-    <link href="http://theironyard.com/blog/2013/12/05/grok-plus-race-cars-equals-awesome/"/>
+    <link href="http://theironyard.github.io/blog/2013/12/05/grok-plus-race-cars-equals-awesome/"/>
     <updated>2013-12-05T11:20:00-05:00</updated>
-    <id>http://theironyard.com/blog/2013/12/05/grok-plus-race-cars-equals-awesome</id>
+    <id>http://theironyard.github.io/blog/2013/12/05/grok-plus-race-cars-equals-awesome</id>
     <content type="html"><![CDATA[<hr />
 
-<p><img src="http://theironyard.com/images/blog/2013/12/12.5.13/grok-bmw-announcement.jpg" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.github.io/images/blog/2013/12/12.5.13/grok-bmw-announcement.jpg" style="border-radius: 3px;"></p>
 
 <p>Grok is a unique conference. While we did add keynote speakers last year (at the request of attendees), the emphasis has always been on honest, problem-tackling conversations in small groups where no one is a hero. Problems are solved, companies are launched, and creative people are refreshed and encouraged. It&rsquo;s awesome.</p>
 
@@ -39,12 +39,12 @@
 
 <p>Here are a few videos to get you excited:</p>
 
-<iframe src="http://theironyard.com//player.vimeo.com/video/49778504?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="630" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://theironyard.github.io//player.vimeo.com/video/49778504?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="630" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
 
-<iframe width="630" height="354" src="http://theironyard.com//www.youtube.com/embed/dfYU3Qe4euI" frameborder="0" allowfullscreen></iframe>
+<iframe width="630" height="354" src="http://theironyard.github.io//www.youtube.com/embed/dfYU3Qe4euI" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -61,12 +61,12 @@
   
   <entry>
     <title type="html"><![CDATA[Introducing the Greenville, SC JavaScript Users Group]]></title>
-    <link href="http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group/"/>
+    <link href="http://theironyard.github.io/blog/2013/11/26/greenville-javascript-users-group/"/>
     <updated>2013-11-26T16:18:00-05:00</updated>
-    <id>http://theironyard.com/blog/2013/11/26/greenville-javascript-users-group</id>
+    <id>http://theironyard.github.io/blog/2013/11/26/greenville-javascript-users-group</id>
     <content type="html"><![CDATA[<hr />
 
-<p><img src="http://theironyard.com/images/blog/2013/11/11.26.13/js-hacker.jpg" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.github.io/images/blog/2013/11/11.26.13/js-hacker.jpg" style="border-radius: 3px;"></p>
 
 <p><em>This is a guest post from our recent Academy graduate <a href="http://pickra.github.io/AriPicker.github.io/">Ari Picker</a>. The Super-JS-Man model is <a href="http://flackap.com">Andy Flack</a>, also an Academy grad.</em></p>
 
@@ -99,10 +99,10 @@
   
   <entry>
     <title type="html"><![CDATA[Southern Culture & Technology]]></title>
-    <link href="http://theironyard.com/blog/2013/04/22/southern-culture-technology/"/>
+    <link href="http://theironyard.github.io/blog/2013/04/22/southern-culture-technology/"/>
     <updated>2013-04-22T14:42:28-04:00</updated>
-    <id>http://theironyard.com/blog/2013/04/22/southern-culture-technology</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.github.io/blog/2013/04/22/southern-culture-technology</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
 
 <p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
 
@@ -119,9 +119,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kate McCarthy: Five Things I Learned at LessConf]]></title>
-    <link href="http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
+    <link href="http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
     <updated>2013-04-15T15:00:06-04:00</updated>
-    <id>http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
+    <id>http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
     <content type="html"><![CDATA[<p>This weekend I had the opportunity to attend LessConf. As a new comer to the tech/startup world and a first timer at what has to be (for lack of a better term) <em>the __coolest conference in the history</em>, I wanted to share a few take aways. Here are the top five things I learned at LessConf.</p>
 
 <!-- more -->
@@ -133,7 +133,7 @@
 
 <p><strong>3)   Baby kangaroos are my kryptonite. </strong>At the opening dinner we were introduced to magical wildlife including a baby alligator and this absurdly adorable baby kangaroo. Just look at him!</p>
 
-<p><img src="http://theironyard.com/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.github.io/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
 
 <p><strong>4)   Ask and ye shall receive.</strong> The basics were well covered: from bug spray to sun screen (thanks <a href="https://www.engineyard.com">Engine Yard</a>) there wasn&rsquo;t much wanting. The above and beyond came from conversations with the world class humans. Ex: Over breakfast, I lamented the difficulty we non-technical people have communicating desired website changes to our fabulous techie friends. Dun dah dah dun! Enter<a href="https://twitter.com/jayroh"> Joel Oliveira</a> from ThoughtBot who blew my mind with a demo of <a href="http://evernote.com/skitch/">Skitch</a>. THANK YOU.****</p>
 

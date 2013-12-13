@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Upstate SC | The Iron Yard]]></title>
-  <link href="http://theironyard.com/blog/categories/upstate-sc/atom.xml" rel="self"/>
-  <link href="http://theironyard.com/"/>
-  <updated>2013-12-10T16:03:04-05:00</updated>
-  <id>http://theironyard.com/</id>
+  <link href="http://theironyard.github.io/blog/categories/upstate-sc/atom.xml" rel="self"/>
+  <link href="http://theironyard.github.io/"/>
+  <updated>2013-12-13T11:56:48-05:00</updated>
+  <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Eric Made the Front Page of Local News Beside an Unrelated Article About Downton Abbey]]></title>
-    <link href="http://theironyard.com/blog/2013/01/14/eric-made-the-front-page-of-local-news-beside-an-unrelated-article-about-downton-abbey/"/>
+    <link href="http://theironyard.github.io/blog/2013/01/14/eric-made-the-front-page-of-local-news-beside-an-unrelated-article-about-downton-abbey/"/>
     <updated>2013-01-14T12:02:30-05:00</updated>
-    <id>http://theironyard.com/blog/2013/01/14/eric-made-the-front-page-of-local-news-beside-an-unrelated-article-about-downton-abbey</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/01/eric-greenville-news-1.9.131.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.github.io/blog/2013/01/14/eric-made-the-front-page-of-local-news-beside-an-unrelated-article-about-downton-abbey</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/01/eric-greenville-news-1.9.131.jpg" style="border-radius: 3px;"></p>
 
 <p>This is totally not important, but it is.</p>
 
@@ -31,10 +31,10 @@
   
   <entry>
     <title type="html"><![CDATA[South Carolina is Attracting Capital]]></title>
-    <link href="http://theironyard.com/blog/2012/11/26/south-carolina-is-attracting-capital/"/>
+    <link href="http://theironyard.github.io/blog/2012/11/26/south-carolina-is-attracting-capital/"/>
     <updated>2012-11-26T08:41:52-05:00</updated>
-    <id>http://theironyard.com/blog/2012/11/26/south-carolina-is-attracting-capital</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2012/11/sc-attracting-capital.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.github.io/blog/2012/11/26/south-carolina-is-attracting-capital</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2012/11/sc-attracting-capital.jpg" style="border-radius: 3px;"></p>
 
 <p>South Carolina traditionally has struggled to garner as much venture capital as densely urban, high-tech areas, such as Austin, Boston, New York City or Silicon Valley.</p>
 
@@ -59,10 +59,10 @@
   
   <entry>
     <title type="html"><![CDATA[Why Startups in South Carolina? Because We're One of the Top States for Business]]></title>
-    <link href="http://theironyard.com/blog/2012/10/24/why-startups-in-south-carolina-because-were-one-of-the-top-states-for-business/"/>
+    <link href="http://theironyard.github.io/blog/2012/10/24/why-startups-in-south-carolina-because-were-one-of-the-top-states-for-business/"/>
     <updated>2012-10-24T15:17:28-04:00</updated>
-    <id>http://theironyard.com/blog/2012/10/24/why-startups-in-south-carolina-because-were-one-of-the-top-states-for-business</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2012/10/sc-680x274.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.github.io/blog/2012/10/24/why-startups-in-south-carolina-because-were-one-of-the-top-states-for-business</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2012/10/sc-680x274.jpg" style="border-radius: 3px;"></p>
 
 <p>South Carolina seems like an odd place to be luring entrepreneurs and launching startups. That is until you visit &ndash; our quality of life in the upstate wows travelers from around the country (most recently a few editors from TechCrunch).<strong> But that&rsquo;s not the whole story. </strong></p>
 
