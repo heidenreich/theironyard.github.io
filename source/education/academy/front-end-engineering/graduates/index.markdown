@@ -176,7 +176,7 @@ parent_url: "/education/academy/front-end-engineering"
   </div>
   <div class="graduates-right">
     <h1 class="name">Andy Flack</h1>
-    <p class="bio"> Having recently completed the Iron Yard Academy's front end engineering course, I can proudly call myself a web developer. I've always been hungry for knowledge, and the ever-expanding world of web development is a great place to be for someone like me. Since taking the course, I've found myself thinking with more discipline and intuition than I could have previously imagined. My final project was <a href="flackap.com/instagrab">Instagrab</a>, a web app that allows users to search for user-specific tags (a feature that Instagram currently lacks). When I'm not hacking away at my latest project, I like to make music with my friends or relax at the park with a good book and my dog.</p>
+    <p class="bio"> Having recently completed the Iron Yard Academy's front end engineering course, I can proudly call myself a web developer. I've always been hungry for knowledge, and the ever-expanding world of web development is a great place to be for someone like me. Since taking the course, I've found myself thinking with more discipline and intuition than I could have previously imagined. My final project was <a href="http://www.flackap.com/instagrab">Instagrab</a>, a web app that allows users to search for user-specific tags (a feature that Instagram currently lacks). When I'm not hacking away at my latest project, I like to make music with my friends or relax at the park with a good book and my dog.</p>
     <ul class="links">
       <li>&bull;
         <a href="http://flackap.com/">Portfolio
