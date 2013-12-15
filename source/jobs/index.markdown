@@ -15,13 +15,13 @@ sub_nav:
     slug: "#culture"
   - name: "Programming instructors"
     slug: "#instructors"
-  - name: "Community managers"
-    slug: "#community-managers"
+  - name: "Campus directors"
+    slug: "#campus-directors"
 ---
 
 ## The short story
 
-We're hiring programming instructors and community managers to launch code schools in cities across the Southeast. Check out the open positions below, and be sure to read about our [mission](#mission) and [culture](#culture). 
+We're hiring programming instructors and campus directors to launch code schools in cities across the Southeast. Check out the open positions below, and be sure to read about our [mission](#mission) and [culture](#culture). 
 
 <a name="instructors"></a>
 ## Programming instructors
@@ -50,7 +50,7 @@ Our instructors serve as lecturers and mentors to our students, helping them lea
 
 You'll teach three, three-month semesters each year. The remaining three months you'll only have light duties for The Iron Yard, such as curriculum updates and interviewing students for future classes. Beyond those things, you're free to work on whatever you want (such as personal projects, open source projects, or products that we're building and launching as The Iron Yard). And, of course, you'll want to take some well-deserved time off.
 
-Each class will be 15 students (no more), and you will have an admin/community manager to take care of all the non-teaching-critical parts of running a program. 
+Each class will be 15 students (no more), and you will have an admin/campus director to take care of all the non-teaching-critical parts of running a program. 
 
 Outside of teaching responsibilities, you'll be an active part of the development community in your city (hopefully you already are). 
 
@@ -83,8 +83,8 @@ Outside of teaching responsibilities, you'll be an active part of the developmen
 - Portfolio or examples of work and 
 - Your favorite gif
 
-<a name="community-managers"></a>
-## Community managers
+<a name="campus-directors"></a>
+## Campus directors
 ---
 
 If you are passionate about education, people, being creative and keeping things organized, you've found your home. 
@@ -96,6 +96,8 @@ We're looking for people to be the voices, faces and hands of our code schools i
 Our people in this role build community, both internally and externally, work with the instructors to manage applications and admissions, and make sure our spaces are awesome places to learn and work (that means stylish furniture and decor, finding the best locally roasted coffee available, and keeping office supplies in stock).
 
 You'll be networking with potential students and employers, getting out into the community to represent The Iron Yard, hosting rockin' events for our students and others, and more. Leading up to and after graduation, you'll help students get their resumes and portfolios job-ready and work with them to find and apply for jobs. 
+
+You'll also collect and create content that tells the amazing story of what's happening in the lives of our students and your city. 
 
 The best part of the job is getting to know students and playing a role in helping them pursue a life and career that they are truly passionate about.
 
@@ -119,7 +121,7 @@ The best part of the job is getting to know students and playing a role in helpi
 
 **Sound like a dream come true?**
 
-[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Community Manager position) explaining why you're an incredible fit for our company and this job. Be sure to include:
+[Send us an email](mailto:iwannajoin@theironyard.com?subject=I'm interested in the Campus director position) explaining why you're an incredible fit for our company and this job. Be sure to include:
 
 - Where you live and whether you are willing to relocate
 - Examples of work / experience
