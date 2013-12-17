@@ -104,6 +104,7 @@ The best part of the job is getting to know students and playing a role in helpi
 **Your qualities**
 
 - Self-starter who takes ownership of your job role (if you need to be micro-managed, this isn't the place for you)
+- Passionate about tech and, while not a developer, enjoy hacking/writing code
 - Loves meeting people, networking, and making connections
 - Organized and pays attention to detail
 - Enjoys communicating on social media
