@@ -127,6 +127,17 @@
       float: right;
     }
 
+    @media all and (max-width: 640px) {
+      text-align: center;
+      img, a {
+        float: none;
+      }
+
+      p { 
+        position: static;
+      }
+    }
+
   }
 
   h2 {
@@ -333,14 +344,30 @@
         font-size: 18px;
       }
 
-      p.excited {
-        font-size: 21px;
+      p.callout {
+        @include box-sizing(border-box);
+        clear: both;
+        color: #7D8A8E;
+        font-size: 15px;
+        margin-top: 0px;
+        border: 3px solid #E3E7E9;
+        padding: 18px 25px;
+        margin: 0 auto;
         text-align: center;
+        width: 80%;
+
+        strong {
+          color: #39474e;
+        }
+
+        @media all and (max-width: 649px) {
+          margin-top: 30px;
+        }
       }
 
       .columns {
         @include legacy-pie-clearfix;
-        padding: 20px 0;
+        padding: 20px 0 0;
 
         & > div {
           @include box-sizing(border-box);
@@ -363,16 +390,24 @@
             line-height: 20px;
             font-style: italic;
           }
+
+          &.right-column {
+            @media all and (min-width: 651px) {
+              border-left: 3px solid #E3E7E9;
+              padding-bottom: 70px;
+            }
+          }
         }
 
         @media all and (max-width: 649px) {
           margin: 0 auto;
-          max-width: 275px;
+          max-width: auto;
 
           & > div {
             @include inline-block;
             float: none;
-            margin: 0 0 7px;
+            margin: 0;
+            padding: 0;
             width: 100% !important;
           }
         }
@@ -433,11 +468,13 @@
         }
       }
 
-      @media all and (max-width: 499px) {
-        .left,
-        .right {
+      @media all and (max-width: 649px) {
+        margin-bottom: 50px;
+
+        .left, .right {
           float: none;
           width: 100%;
+          padding: 0;
         }
       }
     }
@@ -472,11 +509,12 @@
         }
       }
 
-      @media all and (max-width: 640px) {
+      @media all and (max-width: 649px) {
         text-align: center;
 
         img { 
-          // display: none;
+          margin-right: 0;
+          float: none;
         }
       }
     }
