@@ -16,7 +16,7 @@
     }
   }
 
-  table tr.active {
+  .class-table tr.active {
     td {
       color: #F5C993;
       background: #C4843C;
@@ -41,6 +41,21 @@
 }
 
 .fed-2 {
+
+  h1 {
+    line-height: 67px;
+
+    .back {
+      margin-left: -42px;
+    }
+
+    @media all and (max-width: 599px) {
+      font-size: 45px;
+      line-height: 48px;
+      margin: 0;
+      margin-bottom: 23px;
+    }
+  }
 
   .container {
     @include box-sizing(border-box);
@@ -120,6 +135,10 @@
 
     h3 {
       margin: 0;
+
+      @media all and (max-width: 640px) {
+        text-align: center;
+      }
     }
 
     a {
@@ -145,6 +164,10 @@
     margin-bottom: 10px;
     font-size: 35px;
     font-style: italic;
+
+    @media all and (max-width: 640px) {
+      text-align: center;
+    }
   }
 
   .well {
@@ -161,20 +184,20 @@
       padding: 20px 40px;
     }
 
-    @media all and (max-width: 640px) {
+    @media all and (max-width: 540px) {
       padding: 20px;
 
       .icon {
         width: 100%;
         padding: 15px 0;
 
-        img {
-          float: left;
-        }
+        // img {
+        //   float: left;
+        // }
 
-        p {
-          text-align: left;
-        }
+        // p {
+        //   text-align: left;
+        // }
       }
     }
   }
@@ -186,13 +209,17 @@
     h2 {
       text-align: center;
       font-size: 24px;
+
+      @media all and (max-width: 640px) {
+        text-align: center;
+      }
     }
 
     p {
       font-size: 18px;
     }
 
-    table {
+    .class-table {
       border-spacing: 0;
       width: 100%;
       color: #C9D0D4;
@@ -227,6 +254,13 @@
         &.active:hover td {
           color: #fff;
         }
+
+        @media all and (max-width: 649px) {
+          &.active td, &:hover td {
+            padding-bottom: 13px;
+          }
+        }
+
       }
 
       td {
@@ -235,9 +269,28 @@
         font-size: 24px;
         font-style: italic;
         font-weight: bolder;
+        text-align: center;
 
         .apply-button {
           color: #C9D0D4;
+        }
+
+        @media all and (max-width: 649px) {
+          padding: 10px;
+          border-bottom: 3px solid #fff;
+          font-size: 14px;
+          font-style: italic;
+          font-weight: bolder;
+
+          &.teacher {
+            display: none;
+          }
+
+          .apply-button {
+            color: #C9D0D4;
+            font-size: 14px;
+            text-align: center;
+          }
         }
       }
     }
@@ -284,6 +337,10 @@
         line-height: 15px;
         margin-top: 0;
         font-style: italic;
+
+        @media all and (max-width: 640px) {
+          text-align: center;
+        }
       }
 
       p {
@@ -337,6 +394,10 @@
       h2 {
         text-align: center;
         font-size: 24px;
+
+        @media all and (max-width: 640px) {
+          text-align: center;
+        }
       }
 
       p {
@@ -428,6 +489,10 @@
 
         h2 {
           font-size: 22px;
+
+          @media all and (max-width: 640px) {
+            text-align: center;
+          }
         }
 
         p {
@@ -450,6 +515,10 @@
 
         h2 {
           font-size: 20px;
+
+          @media all and (max-width: 640px) {
+            text-align: center;
+          }
         }
 
         h3 {
@@ -552,6 +621,11 @@
       width: 80%;
       margin-right: auto;
       margin-left: auto;
+
+      @media all and (max-width: 640px) {
+        text-align: left;
+        font-size: 17px;
+      }
     }
 
     .sponsor-logo-large {
@@ -617,6 +691,10 @@
         margin-top: 0;
         z-index: 9000;
         position: absolute;
+
+        @media all and (max-width: 640px) {
+          font-size: 15px;
+        }
       }
     }
   }
