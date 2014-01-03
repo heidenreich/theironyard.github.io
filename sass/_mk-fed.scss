@@ -91,10 +91,12 @@
 
   .class-intro {
     margin-top: 40px;
+    margin-bottom: 20px;
     @include clearfix;
 
     img {
       float: right;
+      margin-top: 10px;
       margin-left: 30px;
       margin-bottom: 30px;
 
@@ -181,7 +183,7 @@
     .icon {
       width: 200px;
       display: inline-block;
-      padding: 20px 40px;
+      padding: 6px 40px;
     }
 
     @media all and (max-width: 540px) {
