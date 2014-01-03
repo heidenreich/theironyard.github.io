@@ -56,23 +56,23 @@ sub_nav:
         p.darker-text
           | The intensive course will run 12 weeks, through April 11. Our schedule is set up like a typical five-day work week, with lecture in the morning and lab time in the afternoon. Friday is an open lab day where students can work with the instructor to catch up on projects or get a head start on the weekend's homework. 
 
-        table  
+        table.class-table 
           tbody
-            tr.active
+            tr.active.greenville-sc
               td January 14th
               td Greenville, SC
               td Mason Stewart
               td
                 a.apply-button href="#" Apply
             
-            tr
+            tr.charleston-sc
               td Feb 15th
               td Charleston, SC
               td Cool McCool
               td
                 a.apply-button href="#" Apply
 
-            tr
+            tr.atlanta-ga
               td March 14th
               td Atlanta, GA
               td Barth Vader
@@ -278,16 +278,26 @@ sub_nav:
              img.sponsor-logo-small[src="/images/education/academy/front-end-2/sponsor-small-symbolset.png"]
 
 javascript:
-  var sequence = $(".slider").sequence({
-    autoPlay: true,
-    autoPlayDelay: 3000,
-    moveActiveFrameToTop: true,
-    navigationSkipThreshold: 1000,
-    fadeFrameWhenSkipped: false,
-    prevButton: $('.prev'),
-    nextButton: $('.next'),
-    animateStartingFrameIn: true
-  }).data("sequence");
+  (function(){
+    var sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence");
+
+    var reg = /city=([^&]*)\//g;
+    var city = reg.exec(window.location.search);
+    if (city) {
+      $('.class-table tr').removeClass('active');
+      $('.class-table tr.' + city[1]).first().prependTo('.class-table tbody').addClass('active');
+    }
+  })()
+
 
 
 
