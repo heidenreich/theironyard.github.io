@@ -499,6 +499,11 @@
           color: #7D8A8E;
           font-size: 18px;
         }
+
+        @media all and (min-width: 651px) {
+          border-right: 3px solid #E3E7E9;
+          padding-bottom: 50px;
+        }
       }
 
       .right {
@@ -508,10 +513,6 @@
         width: 39.5%;
         padding-left: 30px;
 
-        @media all and (min-width: 651px) {
-          border-left: 3px solid #E3E7E9;
-          padding-bottom: 50px;
-        }
 
         h2 {
           font-size: 20px;
