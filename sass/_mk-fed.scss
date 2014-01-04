@@ -571,6 +571,11 @@
       margin-top: 40px;
       @include clearfix;
 
+      @media only screen and (max-width: 479px) {
+        margin-top: 0px;
+      }
+
+
       p {
         font-size: 22px;
         line-height: 28px;
@@ -594,6 +599,11 @@
         float: left;
         margin-right: 30px;
         margin-bottom: 50px;
+
+        @media only screen and (max-width: 479px) {
+          margin-bottom: 20px;
+
+        }
 
         @media all and (max-width: 840px) {
           width: 300px;
