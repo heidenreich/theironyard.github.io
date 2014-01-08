@@ -1,7 +1,7 @@
 @import "compass";
 
 // class colors
-.frontend {
+.academy {
   .primary-color  { color: #C4843C; }
   .primary-bg     { background: #C4843C; }
   .dark-bg        { background: #a96c26; }
@@ -15,27 +15,88 @@
     }
   }
 
-  .class-table tr.active {
+  .mobile-engineering table { 
+    background: #B2DFF5;
+
     td {
-      color: #F5C993;
-      background: #C4843C;
+      color: #57AEDF;
+    }
 
-      .apply-button {
-        color: #C4843C;
+    tr.active {
+      td {
+        color: #B2DFF5;
+        background: #2C94CE;
+
+        .apply-button {
+          color: #2C94CE;
+        }
+      }
+    }
+  }
+
+  .rails-engineering table { 
+    background: #FFD0D0;
+
+    td {
+      color: #EB8383;
+    }
+
+    tr.active {
+      td {
+        color: #FFD0D0;
+        background: #A02121;
+
+        .apply-button {
+          color: #A02121;
+        }
+      }
+    }
+  }
+
+  .frontend-engineering table { 
+    background: #F8F3B6;
+
+    td {
+      color: #CCAE38;
+    }
+
+    tr.active {
+      td {
+        color: #FFF9D0;
+        background: #CEAE2C;
+
+        .apply-button {
+          color: #CEAE2C;
+        }
+      }
+    }
+  }
+
+  .class-table {
+    tr.active {
+      td {
+        color: #fff;
+        background: #C4843C;
+
+        .apply-button {
+          color: #C4843C;
+        }
+      }
+
+      &:hover td {
+        color: #fff;
+      }
+
+      &.active:hover td {
+        background: #A16D32;
+
+        .apply-button {
+          color: #A16D32;
+        }
       }
     }
 
-    &:hover td {
-      color: #fff;
-    }
-
-    &.active:hover td {
-      background: #A16D32;
-
-      .apply-button {
-        color: #A16D32;
-      }
-    }
+    td { color: #fff; }
   }
 }
 
@@ -112,6 +173,45 @@
 
       .apply-button {
         color: #8A2323;
+      }
+    }
+  }
+}
+
+// class colors
+.frontend-engineering {
+  .primary-color  { color: #CEAE2C; }
+  .primary-bg     { background: #CEAE2C; }
+  .dark-bg        { background: #CAB337; }
+  .darker-text    { color: #A59785; }
+  .button-bg      { 
+    background: #E6F1FC;
+
+    &:hover {
+      color: #fff;
+      background: #CEAE2C;
+    }
+  }
+
+  .class-table tr.active {
+    td {
+      color: #FFF9D0;
+      background: #CEAE2C;
+
+      .apply-button {
+        color: #CEAE2C;
+      }
+    }
+
+    &:hover td {
+      color: #fff;
+    }
+
+    &.active:hover td {
+      background: #D1A313;
+
+      .apply-button {
+        color: #D1A313;
       }
     }
   }
@@ -196,6 +296,137 @@
         display: none;
       }
     }
+  }
+
+  .academy-intro {
+    margin-top: 40px;
+
+    h2 {
+      font-size: 36px;
+    }
+  }
+
+  .academy-schedule {
+    padding-bottom: 30px;
+    border-bottom: 2px solid #F3E6D8;
+
+    h2 {
+      font-size: 36px;
+    }
+
+    h3 {
+      font-size: 26px;
+      margin-bottom: 10px;
+    }
+
+    table {
+      margin-bottom: 48px;
+        
+      tr {
+        td {
+          padding: 0 !important;
+
+          a {
+            font-weight: bolder;
+            font-style: italic;
+            padding: 0px 20px 3px;
+            font-size: 24px;
+            text-decoration: none;
+            margin-top: 3px;
+            line-height: 38px;
+          }
+        }
+
+        &.active, &:hover {
+          td {
+            padding-bottom: 3px !important;
+          }
+        }
+      }
+    }
+  }
+
+  .academy-well {
+    padding: 30px 0 50px;
+    background: #F2F4F5;
+    h2 {
+     text-align: center;
+
+      @media only screen and (max-width: 479px) {
+        text-align: left;
+      }
+    }
+  }
+
+  .academy-general {
+    padding: 30px 0 50px;
+     h2 {
+      text-align: center;
+
+      @media only screen and (max-width: 479px) {
+        text-align: left;
+      }
+    }
+  }
+
+  .class-preview {
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    @include clearfix;
+
+
+    img {
+      float: left;
+      margin-right: 20px;
+      margin-bottom: 30px;
+    }
+
+    p {
+      position: absolute;
+      left: 136px;
+      right: 170px;
+      margin-top: 4px;
+      font-size: 18px;
+    }
+
+    h3 {
+      margin: 0;
+
+      @media all and (max-width: 780px) {
+        text-align: center;
+      }
+    }
+
+    a {
+      margin-top: 10px;
+      float: right;
+    }
+
+    @media all and (max-width: 780px) {
+      text-align: center;
+      img, a {
+        float: none;
+      }
+
+      p { 
+        text-align: left;
+        position: static;
+      }
+    }
+
+    @media only screen and (max-width: 479px) {
+      text-align: left;
+
+      img {
+        display: none;
+      }
+
+      h3, p, a{
+        text-align: left;
+      }
+    }
+
   }
 
   .scholarships {
@@ -317,79 +548,79 @@
     p {
       font-size: 18px;
     }
+  }
 
-    .class-table {
-      border-spacing: 0;
-      width: 100%;
-      color: #C9D0D4;
+  .class-table {
+    border-spacing: 0;
+    width: 100%;
+    color: #C9D0D4;
 
-      tr:hover td {
-        background: #D0D7D9;
+    tr:hover td {
+      background: #D0D7D9;
+      color: #39474e;
+
+      .apply-button {
         color: #39474e;
+      }
+    }
+
+    tr {
+      &.active td, &:hover td {
+        border-bottom: none;
+        padding-bottom: 27px;
+
+        &:first-child {
+          @include border-radius(4px 0 0 4px);
+        }
+
+        &:last-child {
+          @include border-radius(0 4px 4px 0);
+        }
 
         .apply-button {
-          color: #39474e;
+          background: #fff;
         }
       }
 
-      tr {
+      &.active:hover td {
+        color: #fff;
+      }
+
+      @media all and (max-width: 649px) {
         &.active td, &:hover td {
-          border-bottom: none;
-          padding-bottom: 27px;
-
-          &:first-child {
-            @include border-radius(4px 0 0 4px);
-          }
-
-          &:last-child {
-            @include border-radius(0 4px 4px 0);
-          }
-
-          .apply-button {
-            background: #fff;
-          }
+          padding-bottom: 13px;
         }
-
-        &.active:hover td {
-          color: #fff;
-        }
-
-        @media all and (max-width: 649px) {
-          &.active td, &:hover td {
-            padding-bottom: 13px;
-          }
-        }
-
       }
 
-      td {
-        padding: 24px;
+    }
+
+    td {
+      padding: 24px;
+      border-bottom: 3px solid #fff;
+      font-size: 24px;
+      font-style: italic;
+      font-weight: bolder;
+      text-align: center;
+
+      .apply-button {
+        color: #C9D0D4;
+      }
+
+      @media all and (max-width: 649px) {
+        padding: 10px;
         border-bottom: 3px solid #fff;
-        font-size: 24px;
+        font-size: 14px;
         font-style: italic;
         font-weight: bolder;
-        text-align: center;
+
+        &.teacher {
+          display: none;
+        }
 
         .apply-button {
           color: #C9D0D4;
-        }
-
-        @media all and (max-width: 649px) {
-          padding: 10px;
-          border-bottom: 3px solid #fff;
           font-size: 14px;
-          font-style: italic;
-          font-weight: bolder;
-
-          &.teacher {
-            display: none;
-          }
-
-          .apply-button {
-            color: #C9D0D4;
-            font-size: 14px;
-            text-align: center;
-          }
+          text-align: center;
         }
       }
     }
