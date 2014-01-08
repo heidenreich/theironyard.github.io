@@ -78,6 +78,45 @@
   }
 }
 
+// class colors
+.rails-engineering {
+  .primary-color  { color: #A02121; }
+  .primary-bg     { background: #A02121; }
+  .dark-bg        { background: #B43131; }
+  .darker-text    { color: #A59785; }
+  .button-bg      { 
+    background: #E6F1FC;
+
+    &:hover {
+      color: #fff;
+      background: #A02121;
+    }
+  }
+
+  .class-table tr.active {
+    td {
+      color: #FFD0D0;
+      background: #A02121;
+
+      .apply-button {
+        color: #A02121;
+      }
+    }
+
+    &:hover td {
+      color: #fff;
+    }
+
+    &.active:hover td {
+      background: #8A2323;
+
+      .apply-button {
+        color: #8A2323;
+      }
+    }
+  }
+}
+
 .fed-2 {
 
   h1 {
