@@ -6,7 +6,6 @@
   .primary-bg     { background: #C4843C; }
   .dark-bg        { background: #a96c26; }
   .darker-text    { color: #A59785; }
-  .button-color   { color: #F5C993; }
   .button-bg      { 
     background: #FCF3E6;
 
@@ -35,6 +34,45 @@
 
       .apply-button {
         color: #A16D32;
+      }
+    }
+  }
+}
+
+// class colors
+.mobile-engineering {
+  .primary-color  { color: #2C94CE; }
+  .primary-bg     { background: #2C94CE; }
+  .dark-bg        { background: #3175B4; }
+  .darker-text    { color: #A59785; }
+  .button-bg      { 
+    background: #E6F1FC;
+
+    &:hover {
+      color: #fff;
+      background: #2C94CE;
+    }
+  }
+
+  .class-table tr.active {
+    td {
+      color: #B2DFF5;
+      background: #2C94CE;
+
+      .apply-button {
+        color: #2C94CE;
+      }
+    }
+
+    &:hover td {
+      color: #fff;
+    }
+
+    &.active:hover td {
+      background: #3279A1;
+
+      .apply-button {
+        color: #3279A1;
       }
     }
   }
@@ -71,6 +109,12 @@
     padding: 8px 20px 12px;
     font-size: 24px;
     text-decoration: none;
+    background: #ADB8C4;
+    color: #fff;
+
+    &:hover {
+      background: #39474e;
+    }
   }
 
   .apply-button {
