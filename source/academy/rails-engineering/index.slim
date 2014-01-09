@@ -1,14 +1,12 @@
 ---
 layout: page_full_width
-title: "Rails Engineering"
+title: "Rails Engineering" 
 date: 2014-01-08 12:54
 color: "#A02121"
-description: "Learn to build production-quality web apps with Ruby on Rails.."
+description: "Learn to build production-quality web apps with Ruby on Rails."
 meta_description: "The Iron Yard's super-intensive Ruby on Rails development course, aimed at taking students through everything they need to go out and start working as Rails developers."
-parent_url: "/education/academy"
+parent_url: "/academy"
 sub_nav:
-  - name: "Hire Graduates"
-    slug: "graduates"
   - name: "FAQs"
     slug: "faq"
   - name: "We're hiring"
@@ -19,27 +17,26 @@ sub_nav:
 
     .container
       .class-intro
-        h2.primary-color Learn to build web apps with HTML, CSS &amp; JavaScript
-        img src="/images/education/academy/front-end-2/mason-teaching.jpg"
-        p Over the course of three months, a practicing veteran (and skilled teacher) will show you the ins-and-outs of Front End Engineering using HTML, CSS and a whole lot of JavaScript. At the end of the class you'll have the skills to create beautiful, fully functional websites and web applications. 
-        p The best part: we'll help you get a job offer when you graduate (or your tuition back, <em>guaranteed</em>). Don't know any code? Don't worry. Our proven teachers and process will take you from zero to hero and mentor you into a professional junior-level programmer.         
-
+        h2.primary-color Learn to build full-stack apps with Ruby on Rails and fairy dust
+        img src="/images/education/academy/front-end-2/rails-engineering-page-image.jpg"
+        p Over the course of three months, a heavy-duty programming veteran (and skilled mentor) will show you the power of Ruby on Rails, one of the most popular server-side frameworks in the world. At the end of class you’ll know how to build rock-solid servers, manage databases and know the basics of front end app development. 
+        p The best part: we'll help you get a job offer when you graduate (or your tuition back, <em>guaranteed</em>). Don't know any code? Don't worry. Our proven teachers and process will take you from zero to hero and mentor you into a professional junior-level programmer.      
       .well.icons
         .icon
           img[src="/images/icons/clock.png"]
-          p Get prototypes off the ground quickly
+          p Get functional prototypes lauched quickly
         .icon
           img[src="/images/icons/tetris.png"]
-          p Build fast, production-quality apps
+          p Build fast, production-quality full-stack apps
         .icon
           img[src="/images/icons/ham.png"]
-          p Create robust, beautiful interfaces
+          p Create well-architected server-side systems
         .icon
           img[src="/images/icons/lambda.png"]
-          p Go deep into JavaScript functions and objects
+          p Go deep into the Ruby on Rails framework
         .icon
           img[src="/images/icons/computers.png"]
-          p Optimize designs for desktop and mobile
+          p Optimize systems for desktop and mobile
         .icon
           img[src="/images/icons/brain-guy.png"]
           p Most importantly, learn how to learn
@@ -48,38 +45,31 @@ sub_nav:
         img[src="/images/icons/nebula.png"]
         h3 Scholarships
         p One of our missions is to make programming, engineering and computer science welcoming to <em>everyone</em>. Learn more about our scholarships for women, military personnel and others.   
-        a.light-button href="http://blog.theironyard.com/announcing-scholarships-for-women-in-tech/" Learn More
+        a.light-button href="/academy/scholarships" Learn More
 
 
   .fed-2
     .schedule
       .container
-        h2.primary-color Class Schedule
+        h2.primary-color <a name="class-schedule"></a> Class Schedule 
         p.darker-text
-          | Our intensive Front End courses run for 12 weeks. The schedule is set up like a typical five-day work week, with lecture in the morning and lab time in the afternoon. Friday is an open lab day where students can work with the instructor to catch up on projects or get a head start on the weekend's homework. 
+          | Our intensive Ruby on Rails courses run for 12 weeks. The schedule is set up like a typical five-day work week, with lecture in the morning and lab time in the afternoon. Friday is an open lab day where students can work with the instructor to catch up on projects or get a head start on the weekend's homework. 
 
         table.class-table 
           tbody
             tr.active.greenville-sc
-              td April 28th
-              td Greenville, SC
-              td.teacher Mason Stewart
-              td
-                a.apply-button href="http://jotform.us/form/30235345026141" Apply
-            
-            tr.charleston-sc
               td March 3rd
               td Charleston, SC
-              td.teacher Calvin Webster
+              td.teacher Nick Bucciarelli
               td
-                a.apply-button href="http://jotformpro.com/form/40026068314950" Apply
-
-            tr.atlanta-ga
-              td August 25th
-              td Greenville, SC
-              td.teacher Mason Stewart
+                a.apply-button href="https://theironyard.typeform.com/to/njbQe5" Apply
+            
+            tr.charleston-sc
+              td Fall 2014
+              td Charleston, SC
+              td.teacher Nick Bucciarelli
               td
-                a.apply-button href="http://jotform.us/form/30235345026141" Apply
+                a.apply-button href="https://theironyard.typeform.com/to/njbQe5" Apply
         
   .fed-2
     .classtime
@@ -101,8 +91,8 @@ sub_nav:
       
         .curriculum-overview
           h2 Curriculum Overview
-          p Just knowing punctuation doesn't make you a great writer. In the same sense, just knowing syntax doesn't make you a programmer; that's the easy part of front end development. The emphasis in all of our classes is on helping you <em>think like an engineer</em>. Programming is a lifelong study, and our goal is for you to learn how to learn so you remain highly valuable for the rest of your career. 
-          p That being said, you'll leave our class with a toolbox of skills that will set you far apart from other junior-level programmers. You'll cover an incredible amount of ground in 3 months, learning everything below and then some. Some topics like Backbone.js will take weeks to cover, others like JavaScript templates will be taught in just a few lectures. 
+          p Just knowing punctuation doesn't make you a great writer. In the same sense, just knowing how to spin up a Rails app doesn't make you a programmer; that's the easy part of development. The emphasis in all of our classes is on helping you <em>think like an engineer</em>. Programming is a lifelong study, and our goal is for you to learn how to learn so you remain highly valuable for the rest of your career. 
+          p That being said, you'll leave our class with a toolbox of skills that will set you far apart from other junior-level Rails devs. You'll cover an incredible amount of ground in 3 months, learning everything below and then some. Some topics like json Ajax requests will take weeks to cover, others like using Active Helper (instead of HTML) will be taught in just a few lectures. 
           p No matter your learning pace, we keep our class sizes small so that we can spend individual time with each student and make sure no one falls behind. 
           
           .columns
@@ -111,97 +101,45 @@ sub_nav:
               
               h4 Git and GitHub
               p Master Git for personal and team workflows. All of your code will live on GitHub from day one.
+
+              h4 Rails Fundamentals
+              p We'll cover generators, app structure, Bundler/gem management, migrations, Active Record, relationships, routes, models, views, controllers, Rails style, developing APIs, Active Helper, Asset Pipeline and much, more.
               
-              h4 HTML and CSS
-              p We'll go from HTML foundations to HTML5 APIs. In CSS, we cover layouts, typography and CSS3 animations. We'll also utilize preprocessors like SASS/Compass, Styles, Slim, Jade and Stylus.
-              
-              h4 Building Responsive Sites
-              p We teach media queries and responsive design early and require almost every layout to be fully functional across all screen sizes. 
+              h4 Testing, testing, testing
+              p No code should be written without proper testing. We will do our fair share in both Ruby and Javascript.
               
               h4 Design fundamentals
               p Every student learns strong fundamentals in layout, typography, color theory, user interface and user experience.
               
               h4 Freelance fundamentals
               p Seasoned pros show you how to find good work, write contracts, set expectations, price well and communicate like a pro.
-              
-              h4 JavaScript
-              p We dive deep into JS, covering types, functions, objects, scope, closures, constructors, prototypes and much more. 
 
               h4 jQuery
               p You'll learn everything from DOM manipulation to non-DOM methods ($.extend, $.proxy, etc) to Chaining, Callbacks and Promises.
-
-              h4 Underscore.js
-              p Our grads are well versed in functional programming paradigm Underscore.js unlocks.
               
             .right-column
+              h4 MVC Fundamentals
+              p We look closely at what it means to utilize MVC structure in your applications.
+
               h4 Backbone, Angular, and Ember
               p These are the three big contenders in the world of MVC-like tools.
               
-              h4 JavaScript Testing
-              p Our students unit test every JS assignment with tools like Jasmine, Mocha and QUnit, and use continuous integration tools like Wercker and TravisCI.
+              h4 HTML and CSS
+              p We will cover HTML and CSS foundations and utilize the SCSS preprocessor that is included in the Ruby on Rails toolkit.
               
-              h4 Languages that compile to JavaScript
-              p We cover CoffeeScript and ClojureScript and a number of other popular languages.
+              h4 JavaScript Basics
+              p We will dive into JS fundamentals covering types, functions, objects, scope, losures, constructors, prototypes and more. These will be used to enrich your Rails applications with some beautiful front end interactions
               
-              h4 JavaScript Templating
-              p Our students learn Underscore, Skim, and Jade and the importance of using JS templates for serious browser applications. 
-              
-              h4 Node.js Basics
-              p We teach the basics of building backends and APIs using Node.js and tools like Express.
+              h4 CoffeeScript
+              p We will learn CoffeeScript as it is included in Ruby on Rails as a substitute for JavaScript.
               
               h4 Deployment
-              p We cover Heroku, Nodejitsu and other deployment tools. 
-              
-              h4 Parse as a Backend
-              p With a tool like Parse, our front end students can do a massive amount of backend/database work on their web apps. 
-              
-              h4 Front End Tools
-              p Yeoman, Grunt and Bower are just a few of the components you'll use everyday.
+              p Utilize Heroku to quickly turn your application from local to production ready.
               
               h4 Getting Hired
               p We do mock interviews, resume writing and portfolio building. Grads have weekly meetings with our team to help find exciting jobs and projects.
 
-          p.callout Excited? You've come to the right place. Keep reading!
-
-  .fed-2.image-slider
-    .slider
-      ul.sequence-canvas
-        
-        li.animate-out
-          .slide
-            .bg style="background-image: url('/images/education/academy/front-end-2/fee-slider-5.jpg');"
-            
-            .container    
-              .description Individual guidance and mentorship.
-              
-        li.animate-out
-          .slide
-            .bg style="background-image: url('/images/education/academy/front-end-2/fee-slider-2.jpg');"
-
-            .container    
-              .description Hands-on learning, not scripted assignments.
-
-        li.animate-out
-          .slide
-            .bg style="background-image: url('/images/education/academy/front-end-2/fee-slider-1.jpg');"
-
-            .container    
-              .description Learn how to build apps and code on a team.
-
-        li.animate-out
-          .slide
-            .bg style="background-image: url('/images/education/academy/front-end-2/fee-slider-6.jpg');"
-
-            .container    
-              .description Opportunities for paid freelance work before you graduate.
-
-        li.animate-out
-          .slide
-            .bg style="background-image: url('/images/education/academy/front-end-2/fee-slider-8.jpg');"
-
-            .container    
-              .description Full access to Iron Yard events, mentors, and programs.
-    
+          p.callout Excited? You've come to the right place. Keep reading!    
 
   .fed-2
     .container
@@ -211,7 +149,7 @@ sub_nav:
           .left 
             h2 Is This For You?
             p
-              | Before we get into specifics, we need to let you know that this class is going to be <em>very</em> challenging. The material gets really hard, really fast. All of the work is very do-able, but if you think you're going to develop professional level skills in a cushy 40 hour week, this isn't the place for you. (The average student puts in about 60 hours per week, minimum). We don't require you to know code to start with, but you need to have tried it and enjoyed it. If that's you, go ahead and <a href="/education/academy/front-end-engineering/apply">apply now</a>. If not, <a href="http://www.codecademy.com/tracks/javascript">try a few exercises</a> to see.
+              | Before we get into specifics, we need to let you know that this class is going to be <em>very</em> challenging. The material gets really hard, really fast. All of the work is very do-able, but if you think you're going to develop professional level skills in a cushy 40 hour week, this isn't the place for you. (The average student puts in about 60 hours per week, minimum). We don't require you to know code to start with, but you need to have tried it and enjoyed it. If that's you, go ahead and <a href="#class-schedule">apply now</a>. If not, <a href="http://www.codecademy.com/tracks/ruby">try a few exercises</a> to see.
             
               br
               br
@@ -220,12 +158,12 @@ sub_nav:
 
             h2 How Much Does It Cost?
             p 
-              | <strong>Base tuition is $9000</strong>, and we have significant discounts for enlisted military personnel and veterans. Do we offer payment options? You know it. Checkout out our <a href="/education/academy/front-end-engineering/faq">FAQ</a>.
+              | <strong>Base tuition is $9000</strong>, and we have significant discounts for enlisted military personnel and veterans. Do we offer payment options? You know it. Checkout out our <a href="/academy/rails-engineering/faq">FAQ</a>.
 
               br
               br
 
-              | <strong>Tuition with a laptop included is $10,000.</strong> This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? <a href="mailto:academy@theironyard.com?subject=Will my laptop work for the Front End Engineering program?">Give us a shout</a>.
+              | <strong>Tuition with a laptop included is $10,000.</strong> This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? <a href="mailto:academy@theironyard.com?subject=Will my laptop work for the Rails Engineering program?">Give us a shout</a>.
 
           .right
             h2 Here are a few things we look for in students:
@@ -253,21 +191,9 @@ sub_nav:
       .container
         .testimonial
           a href="https://vimeo.com/69189571"
-            img src="/images/education/academy/front-end-2/marco-quote.jpg"
-          p.quote.primary-color "I was amazed at the amount of skill these students had acquired after a month-and-a-half of teaching. These are skills that took me, being self taught, years to learn. It's a great way to go from not really knowing anything to being the kind of candidate that I would be looking to hire at a company."
-          p.credit Marco Suarez, <br>Art Director at MailChimp
-
-        .testimonial
-          a href="https://vimeo.com/64245253"
-            img src="/images/education/academy/front-end-2/jen-quote.jpg"
-          p.quote.primary-color “Our latest programmer is an Iron Yard graduate and we’re impressed. She comes to us in learning mode from the Academy and is picking up the languages that we need her to use quickly.”
-          p.credit William Haynes, <br>CEO of Sabai Technology
-        
-        .testimonial
-          a href="https://vimeo.com/69189570"
-            img src="/images/education/academy/front-end-2/andrew-quote.jpg"
-          p.quote.primary-color “When I hired Andrew McIntee to overhaul a handful of our web properties, I was blown away at how much he had learned from The Iron Yard Academy.”
-          p.credit Dan Waldschmidt, <br>CEO of Waldschmidt Partners
+            img src="/images/education/academy/front-end-2/flack-quote.jpg"
+          p.quote.primary-color "Andy's skill set coming out of The Iron Yard Academy is nothing short of amazing. The experience he gained applying practical solutions to real world problems over the course of three months is more impressive than the experience most CS students gain in four years. The intensive training the Academy provides has unequivocally set Andy up for a success as a front end developer in our company."
+          p.credit Terry Horner, <br>CTO at ChartSpan
 
         p.meet-our-grads Want to meet more of our grads? Check out our <a href="/graduates">Graduates for Hire</a> page.
 
