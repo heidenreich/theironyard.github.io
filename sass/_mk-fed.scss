@@ -543,6 +543,104 @@
 
   }
 
+  .city-preview {
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #F1F1F1;
+    @include clearfix;
+
+    * {
+      vertical-align: top;
+    }
+
+    .text-container {
+      display: inline-block;
+      width: 78%;
+      margin-right: 2%;
+      font-size: 18px;
+
+      h3 {
+        color: #3AC29C;
+        margin: 0;
+      }
+
+      p {
+        margin-top: 0px;
+      }
+
+      a.more-info {
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+
+    .button-container {
+      display: inline-block;
+      width: 20%;
+      text-align: center;
+      
+      @media all and (min-width: 600px) {
+        margin-top: 48px;
+
+        a.light-button {
+          margin-top: 10px;
+          padding-left: 0;
+          padding-right: 0;
+          width: 100%;
+        }
+      }
+    }
+
+    @media all and (max-width: 780px) {
+
+      a.light-button {
+        float: none;
+      }
+
+
+
+      .text-container {
+        width: 64%;
+        p { 
+          text-align: left;
+          position: static;
+        }
+      }
+      .button-container {
+        width: 32%;
+        margin-bottom: 20px;
+      }
+    }
+
+    @media only screen and (max-width: 600px) {
+      text-align: left;
+
+
+      div {
+        width: 100% !important;
+      }
+
+      h3, p, a{
+        text-align: left !important;
+      }
+
+      h3 {
+        line-height: 35px;
+        margin-bottom: 15px;
+      }
+
+      .button-container {
+        text-align: left;
+      }
+    }
+
+  }
+
   .scholarships {
     position: relative;
     margin-top: 30px;
