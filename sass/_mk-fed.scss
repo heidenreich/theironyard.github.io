@@ -72,10 +72,17 @@
     }
   }
 
+  .academy-left {
+    margin: 0px 9% 0px 0px;
+  }
+
+  .academy-right {
+    margin: 0;
+  }
+
   .academy-left, .academy-right {
     width: 45%;
     display: inline-block;
-    margin: 0px 70px 0px 0px;
     vertical-align: top;
 
     @media all and (max-width: 780px) {
@@ -90,7 +97,8 @@
   .academy-video {
     @include border-radius;
     // border: 7px solid white;
-    margin-top: 3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
     position: relative;
     padding-bottom: 56.25%; /* 16/9 ratio */
     // padding-top: 30px;
@@ -504,12 +512,15 @@
         display: none;
       }
 
-      .text {
+      .text-container {
 
         p { 
           text-align: left;
           position: static;
         }
+      }
+      .button-container {
+        margin-bottom: 20px;
       }
     }
 
@@ -518,6 +529,15 @@
 
       h3, p, a{
         text-align: left !important;
+      }
+
+      h3 {
+        line-height: 35px;
+        margin-bottom: 15px;
+      }
+
+      .button-container {
+        text-align: left;
       }
     }
 
