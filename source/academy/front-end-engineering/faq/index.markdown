@@ -1,12 +1,10 @@
 ---
 layout: page
 title: "FAQs"
-color: "#CE822C"
-date: 2014-01-03 14:38
-comments: true
-sharing: true
-footer: true
-parent_url: "/academy"
+date: 2014-01-09 14:02
+color: "#CEAE2C"
+description: "FAQ for The Iron Yard's Front End Engineering program."
+parent_url: "/academy/front-end-engineering"
 ---
 
 ## Seek and you will find
@@ -83,30 +81,27 @@ Our students pursue all types of programming careers when they leave The Iron Ya
 
 ### <a name="cost"></a> How much does it cost? 
 
-Our pricing 
-
 **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
 
 **Tuition**  
-Base tuition is $9000, and we have significant discounts for enlisted military personnel and veterans, as well as [scholarships](/academy/scholarships). 
+Base tuition is $9,000, and we have significant discounts for enlisted military personnel and veterans, as well as [scholarships](/academy/scholarships). 
 
 **Payment options**  
-If you pay the full cost of tuition up front, you’ll get a $250 discount. We also offer financing: Pay one-third of the tuition up front and the balance in even payments over six months. If applicable, the cost of housing is spread evenly over the six-month payment period.
+If you pay the full cost of tuition up front, you’ll get a $250 discount. If you pay half up front, you'll get a $125 discount. We also offer financing: Pay one-third of the tuition up front and the balance in even payments over six months afterwards.
 
 **Laptop**  
-Tuition with a laptop included is $1000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? Give us a shout.
+Tuition with a laptop included is $10,000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? [Give us a shout](mailto:academy@theironyard.com?subject:Will my computer work for your Academy courses?).
 
 **Housing (Greenville, SC only)**  
 Housing is only available for our Greenville, SC Front End Engineering course. It is $1500 for the three months. We have a block of really nice, fully-furnished apartments that are reserved for our Greenville Academy students year round. We’ve done our research and it’s almost impossible to find cheaper (nice) living if you don’t live in town.
 
 ### <a name="commitment"></a> How much time time and commitment will it *really* take?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are very clear with our students about how difficult this program is. We train professional programmers, not casual enthusiasts. Our average student puts in 60 hours per week, many have to invest more than that. 
+
+What makes it so demanding? You learn a new subject almost every day and have homework associated with that topic—due at 8:00am the next day (or Monday if it's a weekend). The assignments are cumulative, so you incorporate things you've already learned into new ones so that by the end you have muscle memory across the spectrum of the subject you're studying. 
+
+Don't get us wrong—we're not workaholics and we don't want you to be either, but building the foundation for a great, balanced career is no easy task. Our policy is "work hard during class so you don't have to afterwards."
 
 ### <a name="employer-feedback"></a> What do employers say about students they’ve hired?
 
@@ -136,7 +131,7 @@ We’re so glad you asked. We’ll let them tell you themselves:
 *“The staff is cool, easily approachable and encourages questions. The workspace and classroom are awesome. Aside from comfy furniture, they have a pool table, an open source video game console but best of all, you can draw on almost every wall in the building.”*  
 **—Ari Picker, Class of August, 2013**
 
-Want to talk to a graduate? [Give us a shout](mailto:academy@theironyard.com?subject=I'd like to talk to a graduate) and we’ll connect you.
+Want to talk to a graduate? [Give us a shout](mailto:academy@theironyard.com?subject=I'd like to talk with an Academy graduate) and we’ll connect you.
 
 {% sidebar %}
 
