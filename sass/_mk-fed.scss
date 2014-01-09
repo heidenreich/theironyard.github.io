@@ -72,6 +72,41 @@
     }
   }
 
+  .academy-left {
+    width: 45%;
+    display: inline-block;
+    margin: 0px 70px 0px 0px;
+    vertical-align: top;
+  }
+
+  .academy-right {
+    width: 45%;
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+    vertical-align: top;
+  }
+
+  .academy-video {
+    @include border-radius;
+    // border: 7px solid white;
+    margin-top: 3%;
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    // padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .academy-video iframe,  
+  .academy-video object,  
+  .academy-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
   .class-table {
     tr.active {
       td {
@@ -254,6 +289,55 @@
     &:hover {
       background: #39474e;
     }
+  }  
+
+  .light-button-front-end {
+    display: inline-block;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 8px 20px 12px;
+    font-size: 24px;
+    text-decoration: none;
+    background: #ADB8C4;
+    color: #fff;
+
+    &:hover {
+      background: #CEAE2C;
+    }  
+  }
+
+  .light-button-rails {
+    display: inline-block;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 8px 20px 12px;
+    font-size: 24px;
+    text-decoration: none;
+    background: #ADB8C4;
+    color: #fff;
+
+    &:hover {
+      background: #A02121;
+    }
+  }
+
+
+  .light-button-mobile {
+    display: inline-block;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 8px 20px 12px;
+    font-size: 24px;
+    text-decoration: none;
+    background: #ADB8C4;
+    color: #fff;
+
+    &:hover {
+      background: #2C94CE;
+    } 
   }
 
   .apply-button {
