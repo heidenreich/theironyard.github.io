@@ -33,43 +33,41 @@ Let's tackle what makes us unique by category.
 
 **Online resources**
 
-We love telling people that you can find *almost* all of the information in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial, error, and learning the hard way how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
+We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial, error, and learning the hard way how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
 
 **Online code education programs**
 
-We’re huge fans of online education. In fact, we’re good friends with the people at Treehouse, and encourage all of our students to sign up so they can expand their knowledge, learn new languages, and continue practicing the art of code. What’s more, most students who come to us have spent time in some sort of online code program and realized that becoming a professional developer in the near future is going to take more than a few hours of tutorials on nights and weekends. What many don’t realize is that most online schools fail to plumb the depths needed in order to be a top-notch developer. Instead of scripted, step-by-step assignments, our exercises focus first on problem solving, meaning students complete the same assignment in a variety of ways. This teaches them the real-world complexity of programming and gives our instructor live examples to teach from.
+We’re huge fans of online education. In fact, we’re good friends with the people at Treehouse and encourage all of our students to sign up so they can expand their knowledge, learn new languages, and continue practicing the art of code. What’s more, most students who come to us have spent time in some sort of online code program and realized that becoming a professional developer in the near future is going to take more than a few hours of tutorials on nights and weekends. What many don’t realize is that most online schools fail to plumb the depths needed in order to be a top-notch developer. Instead of scripted, step-by-step assignments, our exercises focus first on problem solving, meaning students complete the same assignment in a variety of ways. This teaches them the real-world complexity of programming and gives our instructor live examples to teach from.
 
 **Offline code schools**
 
-There are offline code schools popping up all around the world, and from what we can tell, their quality varies widely. After talking with students from other schools, here are a few things that set our program apart:
+There are offline code schools popping up all around the world, and from what we can tell, their quality varies widely. After talking with students and instructors from other schools, here are a few things that we know set our program apart:
 
-- **Dollar for dollar, we’re the most accessible program out there.** You get a brand new laptop and a job. It doesn’t get much more full service than that. We’ve had students step off of a plane, take a taxi to the housing, use their bike for the semester, and get hired one-week after graduation. Not bad if we say so ourselves.
-- W**e teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, back-end programmers, entrepreneurs, and more.
-- **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program, and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics, and more.
+- **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
+- **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, back-end programmers, entrepreneurs, and more.
+- **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics and provides templated contracts and proposals they'll need when they graduate. 
 - **Our instructors are practicing professionals**. We give our teachers one month off between each class, and that time is filled with working on real products, learning the latest technology, and incorporating their learnings into the curriculum to keep it bleeding-edge.
-- **Our job-placement is personalized**. Our team works incredibly hard to get students where they want to be, whether that’s a startup or a large corporation. We have contacts all around the country, and after the program we meet weekly with each student to execute a job-searching strategy with them. We also perform mock interviews so that there aren’t any surprises when you graduate.
+- **Our job-placement is personalized**. Our team works incredibly hard to get students where they want to be, whether that’s a startup or a large corporation. We have contacts all around the country and after the program we meet weekly with each student to execute a job-searching strategy with them. We also perform mock interviews so that there aren’t any surprises when you graduate.
 - **When appropriate, we give our students paid freelance work before they graduate**. If students have extra bandwidth, we connect them with partner companies who pay cash for contract work, meaning real portfolio work and references when they graduate.
-- **We work on real projects for real people**. Whether it’s an internal tool for The Iron Yard or an actual product our team or one of our Accelerators is building, our students have the chance to work on real live stuff that actual customers will use.
+- **We work on real projects**. Whether it’s an internal tool for The Iron Yard or an actual product our team or one of our Accelerators is building, our students have the chance to work on real live stuff that actual customers will use.
 - **You get access to the entire Iron Yard family**. Whether it’s working shoulder-to-shoulder with our accelerator teams, sitting in on mentor sessions, networking with our CoWorkers, or looking through our Rolodex and asking for introductions, we give you any resource we can to help you be successful.
 We partner with awesome sponsors. Our sponsors provide amazing resources to our students, from free accounts to web-design assets. Check them out at the bottom of the page.
 
 ### <a name="no-code"></a> I don't need to know how to code? *Are you serious*?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sounds crazy, doesn't it? But it's true: we teach people who don't have any prior coding skill. We do require people to dip their toe in the water by going through some basic online tutorials during the interview process, but that's simply so they have a chance to actually write the language and be certain they want to dive into three heavy duty months of it. 
+
+Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programs available for hire *and* have the foundation upon which to pursue a CTO-like role. 
 
 ### <a name="sorcery"></a> What kind of sorcery do you use to make all of this happen?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Black magic. (Just kidding.)
+
+First and foremost, we accomplish this through hiring the most talented people out there. Our employees are some of the most highly-paid people in their industry because they're worth it. 
+
+Second, we all *love* what we do. The people we hire are passionate about changing people's lives through code education, and they invest their heart and soul into making that happen. (Several have left huge companies and startups to join our team because they believe in our mission). 
+
+More practically, our progam works really well because of our approach to education. We are committed to training the highest-quality developers in the world, both in skill and in character. That means training think like engineers and solve problems—not just how to type the syntax of a language. Knowing syntax and punctuation don't make you a great writer; in the same way simply knowing how to write some JavaScript doesn't make you a great programmer—that's the easy part. Because of the thinking foundation we build, our graduates have the apptitude to jump into new languages and learn them very quicly.
 
 ### <a name="job-placement"></a> You’ll help me find a job?
 
@@ -77,21 +75,20 @@ If you choose to enroll in the job placement program, we’ll do our darndest to
 
 We cannot guarantee the exact salary or location of the job, but if you don’t get an offer in six months, we’ll give you your tuition back. [Contact us](mailto:academy@theironyard.com?subject:I have a question about job placement) for more details.
 
+If you choose to freelance, we help you get paid work and walk through your first several projects with you. 
+
 ### <a name="companies"></a> What kinds of companies do your graduates go to work for?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our students pursue all types of programming careers when they leave The Iron Yard, from small web shops, venture-funded startups and marketing agencies to established product companies and design firms. Many of our students also choose to pursue freelance or contract work for the flexibility they provide. 
 
 ### <a name="cost"></a> How much does it cost? 
 
-We strive to make our courses as affordable accessible as possible, providing students with a brand new laptop, housing, and a bike to ride to class. You can fly in, catch a ride from the airport to our apartments, and take our classes without having to worry about where to stay or how to get around.
+Our pricing 
+
+**Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
 
 **Tuition**  
-Base tuition is $9000, and we have significant discounts for enlisted military personnel and veterans, as well as scholarships. 
+Base tuition is $9000, and we have significant discounts for enlisted military personnel and veterans, as well as [scholarships](/academy/scholarships). 
 
 **Payment options**  
 If you pay the full cost of tuition up front, you’ll get a $250 discount. We also offer financing: Pay one-third of the tuition up front and the balance in even payments over six months. If applicable, the cost of housing is spread evenly over the six-month payment period.
