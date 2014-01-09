@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_full_width_reverse_triangle
 title: "Accelerator"
 date: 2013-08-05 22:48
 color: "#349FAD"
