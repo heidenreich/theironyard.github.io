@@ -72,18 +72,19 @@
     }
   }
 
-  .academy-left {
+  .academy-left, .academy-right {
     width: 45%;
     display: inline-block;
     margin: 0px 70px 0px 0px;
     vertical-align: top;
-  }
 
-  .academy-right {
-    width: 45%;
-    display: inline-block;
-    margin: 0px 0px 0px 20px;
-    vertical-align: top;
+    @media all and (max-width: 780px) {
+      @include inline-block;
+      float: none;
+      margin: 0;
+      padding: 0;
+      width: 100% !important;
+    }
   }
 
   .academy-video {
@@ -292,32 +293,12 @@
   }  
 
   .light-button-front-end {
-    display: inline-block;
-    border-radius: 4px;
-    font-weight: bolder;
-    font-style: italic;
-    padding: 8px 20px 12px;
-    font-size: 24px;
-    text-decoration: none;
-    background: #ADB8C4;
-    color: #fff;
-
     &:hover {
       background: #CEAE2C;
     }  
   }
 
   .light-button-rails {
-    display: inline-block;
-    border-radius: 4px;
-    font-weight: bolder;
-    font-style: italic;
-    padding: 8px 20px 12px;
-    font-size: 24px;
-    text-decoration: none;
-    background: #ADB8C4;
-    color: #fff;
-
     &:hover {
       background: #A02121;
     }
@@ -325,16 +306,6 @@
 
 
   .light-button-mobile {
-    display: inline-block;
-    border-radius: 4px;
-    font-weight: bolder;
-    font-style: italic;
-    padding: 8px 20px 12px;
-    font-size: 24px;
-    text-decoration: none;
-    background: #ADB8C4;
-    color: #fff;
-
     &:hover {
       background: #2C94CE;
     } 
@@ -387,6 +358,7 @@
 
     h2 {
       font-size: 36px;
+      line-height: 38px;
     }
   }
 
@@ -474,6 +446,8 @@
       font-size: 18px;
     }
 
+    a
+
     h3 {
       margin: 0;
 
@@ -482,15 +456,28 @@
       }
     }
 
-    a {
+    a.more-info {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    a.light-button {
       margin-top: 10px;
       float: right;
     }
 
     @media all and (max-width: 780px) {
       text-align: center;
-      img, a {
+      
+      a.light-button {
         float: none;
+      }
+
+      img {
+        display: none;
       }
 
       p { 
@@ -502,12 +489,8 @@
     @media only screen and (max-width: 479px) {
       text-align: left;
 
-      img {
-        display: none;
-      }
-
       h3, p, a{
-        text-align: left;
+        text-align: left !important;
       }
     }
 
