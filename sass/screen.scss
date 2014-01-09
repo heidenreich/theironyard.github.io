@@ -359,9 +359,9 @@ hr {
       left: 20px;
       bottom: -40px;
       border-top: 20px solid #fff;
-      border-right: 25px solid transparent;
+      border-right: 18px solid transparent;
       border-bottom: 20px solid transparent;
-      border-left: 25px solid transparent;
+      border-left: 18px solid transparent;
       width: 0;
       height: 0;
     }
@@ -401,6 +401,90 @@ hr {
     .title {
       font-size: 44px;
     }
+  }
+
+  &.reverse-triangle {
+
+    .short-slide {
+      display: none;
+    }
+
+    .triangle-cutout {
+      display: none;
+    }
+    
+    @media all and (max-width: 600px) {
+      .container {
+        margin-bottom: 40px;
+      }
+    }
+
+    @media all and (min-width: 600px) {
+
+      overflow: hidden;
+      position: relative;
+
+      .short-slide {
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 370px;
+      }
+      
+      .container {
+        padding-top: 174px;
+
+        .intro-content {
+          padding-bottom: 36px;
+        }
+
+        .triangle {
+          display: none;
+        }
+
+        .triangle-cutout {
+          position: absolute;
+          z-index: 1;
+          left: 20px;
+          display: block;
+          border: none;
+          bottom: 0;
+          width: 41px;
+          height: 20px;
+          background: image_url('reverse-triangle.png') no-repeat top center;
+
+          &:before {
+            position: absolute;
+            height: 20px;
+            background: #fff;
+            width: 10000%;
+            content: " ";
+            right: 41px;
+          }
+
+          &:after {
+            position: absolute;
+            height: 20px;
+            background: #fff;
+            width: 10000%;
+            content: " ";
+            left: 41px;
+          }
+        }
+      }
+    }
+
+    // @media all and (max-width: 480px) {
+    //   overflow: visible;
+
+    //   .short-slide {
+    //     height: 200px;
+    //   }
+
+    //   .container {
+    //     padding-top: 4px;
+    //   }
+    // }
   }
 }
 
