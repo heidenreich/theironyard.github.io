@@ -72,10 +72,17 @@
     }
   }
 
+  .academy-left {
+    margin: 0px 9% 0px 0px;
+  }
+
+  .academy-right {
+    margin: 0;
+  }
+
   .academy-left, .academy-right {
     width: 45%;
     display: inline-block;
-    margin: 0px 70px 0px 0px;
     vertical-align: top;
 
     @media all and (max-width: 780px) {
@@ -90,7 +97,8 @@
   .academy-video {
     @include border-radius;
     // border: 7px solid white;
-    margin-top: 3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
     position: relative;
     padding-bottom: 56.25%; /* 16/9 ratio */
     // padding-top: 30px;
@@ -431,58 +439,88 @@
     margin-bottom: 30px;
     @include clearfix;
 
-
-    img {
-      float: left;
-      margin-right: 20px;
-      margin-bottom: 70px;
+    * {
+      vertical-align: top;
     }
 
-    p {
-      position: absolute;
-      left: 136px;
-      right: 170px;
-      margin-top: 4px;
+    .img-container {
+      width: 16%;
+      margin-right: 2%;
+      display: inline-block;
+
+      img {
+        max-width: 180px;
+      }
+    }
+
+    .text-container {
+      display: inline-block;
+      width: 60%;
+      margin-right: 2%;
       font-size: 18px;
-    }
 
-    a
+      h3 {
+        margin: 0;
 
-    h3 {
-      margin: 0;
-
-      @media all and (max-width: 780px) {
-        text-align: center;
+        @media all and (max-width: 780px) {
+          text-align: center;
+        }
       }
-    }
 
-    a.more-info {
-      text-decoration: none;
+      p {
+        margin-top: 0px;
+      }
 
-      &:hover {
+      a.more-info {
         text-decoration: none;
+
+        &:hover {
+          text-decoration: none;
+        }
       }
     }
 
-    a.light-button {
-      margin-top: 10px;
-      float: right;
+    .button-container {
+      display: inline-block;
+      width: 20%;
+      text-align: center;
+      
+      @media all and (min-width: 780px) {
+        margin-top: 48px;
+
+        a.light-button {
+          margin-top: 10px;
+          padding-left: 0;
+          padding-right: 0;
+          width: 100%;
+        }
+      }
     }
 
     @media all and (max-width: 780px) {
       text-align: center;
       
+      div {
+        width: 100% !important;
+      }
+
       a.light-button {
         float: none;
       }
 
-      img {
+      .img-container {
         display: none;
       }
 
-      p { 
-        text-align: left;
-        position: static;
+      .text-container {
+
+        p { 
+          text-align: left;
+          position: static;
+        }
+      }
+      .button-container {
+        margin-bottom: 20px;
       }
     }
 
@@ -491,6 +529,15 @@
 
       h3, p, a{
         text-align: left !important;
+      }
+
+      h3 {
+        line-height: 35px;
+        margin-bottom: 15px;
+      }
+
+      .button-container {
+        text-align: left;
       }
     }
 
