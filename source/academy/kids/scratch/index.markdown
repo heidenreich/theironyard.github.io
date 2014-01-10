@@ -6,7 +6,7 @@ color: "#CE822C"
 comments: true
 sharing: true
 footer: true
-parent_url: "/education/coderdojo"
+parent_url: "/academy"
 ---
 
 <img src="/images/education/coderdojo/coderdojo-scratch-kids.jpg" style="border-radius: 3px;">
@@ -19,21 +19,18 @@ In the video game module, students learn a visual programming language called Sc
 
 ---
 <a id="schedule"></a>
-### 2013 Schedule
+### 2014 Schedules
 
-Scratch classes will be 6 weeks long with a 2-3 week break between each session. Our goal is to run them throughout the school year. Volunteers make this possible, [so please sign up today](http://eepurl.com/DWo8v)! 
+<h4 style="font-size:21px;">Atlanta, Charleston, and Spartanburg schedules coming soon!</h4>
 
-The following sessions are open for registration:
+*We are in the process of getting campuses and spaces set up. Classes will launch ASAP!*
 
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-september-2013" class="button"> September 10th - October 15th</a>  
+---
 
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-november-2013" class="button"> November 5th - December 10th</a>
-
-### 2014 Schedule
+#### Greenville Schedule
 
 We've already scheduled sessions for the spring semester, but haven't opened registration yet. Sign up for the waitlist, and you'll be the first to know when signups go live. 
-
-* <a href="http://eepurl.com/EwEor"> Join the Jan. 1 - Feb. 11 waitlist</a>
+  
 * <a href="http://eepurl.com/EwEp5"> Join the Mar. 4 - Apr. 8 waitlist</a>
 * <a href="http://eepurl.com/EwErn"> Join the Apr. 22 - May 27 waitlist</a>
 
@@ -65,19 +62,8 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 Volunteers allow us to keep these classes free. If you're passionate about helping kids learn, jump in!
 
 <ul>
-  <li>• <a href="http://eepurl.com/DWo8v"> Sign up to volunteer in Greenville!</a></li>
+  <li><a href="http://eepurl.com/DWo8v"> Sign up to volunteer in Greenville!</a></li>
 </ul>
-
----
-#### Greenville class details
-
-**Day**: Tuesdays  
-**Time**: 6:00-7:30pm  
-**Location**: Greenville, SC
-**Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
-**Ages**: 8 - 18 *(parent required for <13)*  
-**Cost**: FREE!
 
 ---
 
