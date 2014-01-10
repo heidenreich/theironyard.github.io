@@ -2,7 +2,7 @@
 layout: page
 title: "Website Basics"
 date: 2013-08-29 16:03
-color: "#CE822C"
+color: "#CE822C"  
 comments: true
 sharing: true
 footer: true
