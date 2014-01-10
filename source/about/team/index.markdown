@@ -188,6 +188,35 @@ sub_nav:
 
 <div class="student-profile">
   <div class="graduates-left">
+    <img class="student" width="300" height="300" src="/images/about/team-jo.jpg">
+    <p style="text-align: center;"><strong>iOS Instructor</strong></p>
+  </div>
+  <div class="graduates-right">
+    <h1 class="name">Jo Albright</h1>
+    <p class="bio">Jo started as a designer while studying at the Creative Circus, which has cursed him with the need to critique any and all bad design implementation. After getting a taste of code as a web developer, he found his passion and constantly pushed himself to learn more. That journey led him his true love: building apps for mobile devices. After launching several top-notch iOS apps, he landed at startup HighFive, a mobile rewards platform that tracks a users activities and chooses when to reward them. His passion for education has never left, though, so he joined our team as an iOS instructor to help others discover the beauty of Objective-C.</p>
+    <ul class="links">
+      <li>&bull;
+        <a href="http://twitter.com/joalbright">@joalbright
+        </a>
+      </li>
+      <li>&bull;
+        <a href="https://github.com/joalbright">GitHub
+        </a>
+      </li>
+      <li>&bull;
+        <a href="http://jo2.co/">jo2.co
+        </a>
+      </li>
+      <li>&bull;
+        <a href="https://linkedin.com/in/joalbright">LinkedIn
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="student-profile">
+  <div class="graduates-left">
     <img class="student" width="300" height="300" src="/images/about/team-tamburro.jpg">
     <p style="text-align: center;"><strong>Front End Engineering TA</strong></p>
   </div>
