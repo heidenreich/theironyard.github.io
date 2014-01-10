@@ -185,3 +185,24 @@ sub_nav:
     </ul>
   </div>
 </div>
+
+<div class="student-profile">
+  <div class="graduates-left">
+    <img class="student" width="300" height="300" src="/images/about/team-tamburro.jpg">
+    <p style="text-align: center;"><strong>Front End Engineering TA</strong></p>
+  </div>
+  <div class="graduates-right">
+    <h1 class="name">Joe Tamburro</h1>
+    <p class="bio">Joe knew knew zero about programming before taking The Iron Yard's Front End Engineering class. He graduated from Clemson in 2009 with a B.S. in Business Management. He spent the two years prior to enrolling in our school as a touring drummer in a band based out of Greenville, SC. He loved traveling and being on the road, but towards the end he knew it was time to close that chapter in his life. Here's what he has to say: "I can say without any hesitation that going through with this course was the best decision I have ever made." We agree...so much so that we kept him around to support Mason as a Teaching Assistant.</p>
+    <ul class="links">
+      <li>&bull;
+        <a href="http://twitter.com/joeytamburro">@joeytamburro
+        </a>
+      </li>
+      <li>&bull;
+        <a href="https://github.com/joetamburro">GitHub
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
