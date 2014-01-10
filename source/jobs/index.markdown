@@ -46,7 +46,7 @@ First and most importantly, here are a few of our values when it comes to teachi
 
 **What the role and responsibilities look like**
 
-Our instructors serve as lecturers and mentors to our students, helping them learn to think like engineers and hone their skills in a programming discipline. You'll also help define and refine the curriculum to stay current with cool new stuff. Here's a peek at the [Front End Engineering course](/education/academy/front-end-engineering) we've already launched. 
+Our instructors serve as lecturers and mentors to our students, helping them learn to think like engineers and hone their skills in a programming discipline. You'll also help define and refine the curriculum to stay current with cool new stuff. Here's a peek at the [Front End Engineering course](/academy/front-end-engineering) we've already launched. 
 
 You'll teach three, three-month semesters each year. The remaining three months you'll only have light duties for The Iron Yard, such as curriculum updates and interviewing students for future classes. Beyond those things, you're free to work on whatever you want (such as personal projects, open source projects, or products that we're building and launching as The Iron Yard). And, of course, you'll want to take some well-deserved time off.
 
