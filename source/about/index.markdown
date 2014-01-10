@@ -35,7 +35,6 @@ We want to accomplish this alongside talented, passionate people who share our v
 
 ### Connect
 
-
 - [Join our team](/jobs)
 - [hello@theironyard.com](mailto:hello@theironyard.com)
 - [@theironyard](http://twitter.com/theironyard) 

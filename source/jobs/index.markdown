@@ -19,7 +19,7 @@ sub_nav:
     slug: "#campus-directors"
 ---
 
-## The short story
+### The short story
 
 We're hiring programming instructors and campus directors to launch code schools in cities across the Southeast. Check out the open positions below, and be sure to read about our [mission](#mission) and [culture](#culture). 
 
