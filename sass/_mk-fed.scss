@@ -279,6 +279,7 @@
   }
 
   .container {
+    position: relative;
     @include box-sizing(border-box);
     padding-right: 30px;
     padding-left: 30px;
@@ -543,6 +544,47 @@
 
   }
 
+  .map-locations {
+    display: none;
+
+    @media all and (min-width: 600px) {
+      display: block;
+      width: 35%;
+      position: absolute;
+      top: -360px;
+      z-index: 100;
+      right: 0;
+
+      ul {
+        margin: 0;
+
+        li {
+          width: 170px;
+          display: inline-block;
+          font-size: 20px;
+          font-weight: bolder;
+          margin-right: 20px;
+          margin-bottom: 20px;
+
+          a {
+            color: #3AC29C;
+            
+            &:hover {
+              text-decoration: none;
+              border-bottom: 3px solid rgba(#fff, 0.5);
+            }
+          }
+        }
+      }
+    }
+
+    @media all and (min-width: 950px) {
+      width: 40%;
+      top: -280px;
+    }
+
+  }
+
   .city-preview {
     position: relative;
     margin-top: 30px;
@@ -553,6 +595,28 @@
 
     * {
       vertical-align: top;
+    }
+
+    .location-icons {
+      margin-left: 0;
+      margin-top: 20px;
+
+      li {
+        display: inline-block;
+        list-style-type: none;
+        margin-right: 30px;
+        width: 230px;
+
+        span {
+          margin-left: 4px;
+          font-weight: bolder;
+        }
+
+        &.inactive {
+          color: #B8D0CA;
+        }
+      }
+
     }
 
     .text-container {
