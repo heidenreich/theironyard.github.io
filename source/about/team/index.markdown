@@ -10,6 +10,8 @@ sub_nav:
     slug: "#leadership"
   - name: "Accelerators"
     slug: "#accelerators"
+  - name: "Instructors"
+    slug: "#instructors"
 ---
 
 ## <a name="leadership"></a> Leadership
@@ -153,6 +155,31 @@ sub_nav:
       </li>
       <li>&bull;
         <a href="http://www.linkedin.com/in/kateprestonmccarthy">LinkedIn
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+## <a name="instructors"></a> Instructors
+
+---
+
+<div class="student-profile">
+  <div class="graduates-left">
+    <img class="student" width="300" height="300" src="/images/about/team-nick.jpg">
+    <p style="text-align: center;"><strong>Ruby on Rails Instructor</strong></p>
+  </div>
+  <div class="graduates-right">
+    <h1 class="name">Nick Bucciarelli</h1>
+    <p class="bio">Nick viciously pursued a degree in Video Game Development from Full Sail where he received his bachelors in 2 years. He has since switched industries and started developing web applications...and he hasn't looked back. He moved to Charleston, SC where he began consuming every bit of knowledge he could. While moving up the ranks at Jack Russell Software to become a Senior Developer (from apprentice in only 3.5 years!), he found a love for teaching motivated individuals everything he had to offer and decided to pursue a career in education. He is super excited to teach and share his passion for his craft (web applications) to students at The Iron Yard Academy.</p>
+    <ul class="links">
+      <li>&bull;
+        <a href="http://twitter.com/n_bucciarelli">@n_bucciarelli
+        </a>
+      </li>
+      <li>&bull;
+        <a href="https://github.com/nbucciarelli">GitHub
         </a>
       </li>
     </ul>
