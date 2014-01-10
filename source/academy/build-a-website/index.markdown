@@ -6,10 +6,10 @@ color: "#CE822C"
 comments: true
 sharing: true
 footer: true
-parent_url: "/education/coderdojo"
+parent_url: "/academy"
 ---
 
-<img src="/images/education/coderdojo/coderdojo-scratch-kids.jpg" style="border-radius: 3px;">
+<img src="/images/education/labs/labs-pic.jpg" style="border-radius: 3px;">
 
 ### CoderDojo: Website Basics
 
@@ -19,17 +19,11 @@ In this class students will learn the basics of HTML and CSS, and how they work 
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
+### 2014 Schedules
 
-Scratch classes will be 6 weeks long with a 2-3 week break between each session. Our goal is to run them throughout the school year. Volunteers make this possible, [so please sign up today](http://eepurl.com/DWo8v)! 
+<h4 style="font-size:21px;">Atlanta, Charleston, Greenville, and Spartanburg schedules coming soon!</h4>
 
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-september-2013" class="button"> September 10th - October 15th</a>  
-
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-november-2013" class="button"> November 5th - December 10th</a>
-
-### 2013 Spartanburg Schedule
-
-> #### *Signups coming soon!*
+*We are in the process of getting campuses and spaces set up. Classes will launch ASAP!*
 
 ---
 <a id="faq"></a>
@@ -59,31 +53,11 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 Volunteers allow us to keep these classes free. If you're passionate about helping kids learn, jump in!
 
 <ul>
-  <li>• <a href="http://eepurl.com/DWo8v"> Sign up to volunteer in Greenville!</a></li>
+  <li><a href="http://eepurl.com/DWo8v"> Sign up to volunteer in Greenville!</a></li>
 </ul>
 
 ---
-#### Greenville class details
 
-**Day**: Tuesdays  
-**Time**: 6:00-7:30pm  
-**Location**: The NEXT Center  
-**Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
-**Ages**: 8 - 18 *(parent required for <13)*  
-**Cost**: FREE!
-
-#### Spartanburg class details
-
-**Day**: TBD  
-**Time**: TBD  
-**Location**: The Mill  
-**Address**: 151 S. Daniel Morgan Ave.  
-**Duration**: 6 weeks  
-**Ages**: 8 - 18 *(parent required for <13)*  
-**Cost**: FREE!
-
----
 
 Questions? [Read our FAQ](#faq) or [send us an email](mailto:coderdojo@theironyard.com?subject=I have a question about the website class).
 
