@@ -1,8 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://theironyard.com/about/culture/</loc>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://theironyard.com/about/</loc>
-        <lastmod>2013-12-13T11:07:58-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/about/team/</loc>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/alumni/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/build-a-website/</loc>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/faq/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/front-end-engineering/alumni/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/front-end-engineering/faq/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/front-end-engineering/graduates/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/front-end-engineering/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/graduates/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/</loc>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/mobile-engineering/faq/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/mobile-engineering/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/rails-engineering/faq/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/rails-engineering/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/scholarships/</loc>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.com/academy/scratch/</loc>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/accelerator/current-companies/</loc>
@@ -18,7 +86,7 @@
     </url>
     <url>
         <loc>http://theironyard.com/accelerator/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/accelerator/mentors/</loc>
@@ -39,100 +107,6 @@
     <url>
         <loc>http://theironyard.com/cowork/</loc>
         <lastmod>2013-12-13T11:07:58-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/front-end-engineering/apply/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/front-end-engineering/faq/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/front-end-engineering/graduates/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/front-end-engineering/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://theironyard.com/education/academy/front-end-engineering/women-in-tech-scholarship/
-        </loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/intro-to-ios-development-basics/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/intro-to-mobile-app-design/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/intro-to-rails/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/ios-development-basics/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/mobile-app-design/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/academy/navigating-the-digital-office/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/coderdojo/electronics/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/coderdojo/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/coderdojo/scratch/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/coderdojo/website-basics/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/build-a-website/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/intro-to-javascript/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/intro-to-ruby-on-rails/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/make-your-website-mobile-friendly/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://theironyard.com/education/labs/open-source-electronics/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/events/grok/</loc>
@@ -156,39 +130,39 @@
     </url>
     <url>
         <loc>http://theironyard.com/</loc>
-        <lastmod>2014-01-10T08:41:41-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/jobs/</loc>
-        <lastmod>2013-12-19T12:47:17-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/atlanta/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/charleston/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/durham/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/greenville/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/</loc>
-        <lastmod>2014-01-10T09:57:43-05:00</lastmod>
+        <lastmod>2014-01-10T09:58:25-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/spartanburg/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/locations/tampa/</loc>
-        <lastmod>2013-12-13T11:07:59-05:00</lastmod>
+        <lastmod>2014-01-10T12:49:26-05:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.com/portfolio/</loc>
