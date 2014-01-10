@@ -27,11 +27,11 @@ We work really hard, but a constantly imbalanced life isn’t healthy for anyone
 
 {% sidebar %}
 
-<img src="/images/about/culture-sidebar-team.jpg" style="border-radius: 3px;">
+<img src="/images/about/culture/culture-sidebar-team.jpg" style="border-radius: 3px;">
 
-<img src="/images/about/culture-sidebar-hacker.jpg" style="border-radius: 3px;">
+<img src="/images/about/culture/culture-sidebar-hacker.jpg" style="border-radius: 3px;">
 
-<img src="/images/about/culture-sidebar-friends.jpg" style="border-radius: 3px;">
+<img src="/images/about/culture/culture-sidebar-friends.jpg" style="border-radius: 3px;">
 
 ---
 
