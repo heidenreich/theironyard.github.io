@@ -9,7 +9,7 @@ footer: true
 parent_url: "/academy"
 ---
 
-<img src="/images/education/labs/labs-pic.jpg" style="border-radius: 3px;">
+<img src="/images/education/labs/labs-picture.jpg" style="border-radius: 3px;">
 
 ### CoderDojo: Website Basics
 
