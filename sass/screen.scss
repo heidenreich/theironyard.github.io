@@ -707,6 +707,23 @@ hr {
   }
 }
 
+.light-button {
+  display: inline-block;
+  border-radius: 4px;
+  font-weight: bolder;
+  font-style: italic;
+  padding: 8px 20px 12px;
+  font-size: 24px;
+  text-decoration: none;
+  background: #ADB8C4;
+  color: #fff;
+
+  &:hover {
+    background: #39474e;
+    text-decoration: none;
+  }
+}
+
 // SLIDER!
 
 $big_slide_height:    520px;
