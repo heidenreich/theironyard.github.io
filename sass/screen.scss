@@ -947,6 +947,7 @@ $small_slide_height:  400px;
       font-weight: 600;
       font-size: 14px;
       display: inline-block;
+      line-height: 16px;
 
       &:last-child {
         border-right: none;
@@ -2201,7 +2202,7 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 .ss-volumelow:before,.ss-volumelow.right:after{content:''}.ss-volumehigh:before,.ss-volumehigh.right:after{content:''}.ss-batteryhigh:before,.ss-batteryhigh.right:after{content:''}.ss-batterymedium:before,.ss-batterymedium.right:after{content:''}.ss-batterylow:before,.ss-batterylow.right:after{content:''}.ss-batteryempty:before,.ss-batteryempty.right:after{content:''}.ss-clouddownload:before,.ss-clouddownload.right:after{content:''}.ss-cloudupload:before,.ss-cloudupload.right:after{content:''}.ss-calendaradd:before,.ss-calendaradd.right:after{content:''}.ss-calendarremove:before,.ss-calendarremove.right:after{content:''}.ss-calendarcheck:before,.ss-calendarcheck.right:after{content:''}.ss-calendardelete:before,.ss-calendardelete.right:after{content:''}
 
 .social-icons-footer {
-  
+  margin-bottom: -13px;
   ul {
     padding-top: 0;
   }
