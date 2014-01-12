@@ -1,18 +1,12 @@
 ---
 layout: home
-title: "Spartanburg, SC"
-date: 2013-08-07 19:54
-/ description: "Technically, every state has an upstate.We just think ours is best."
+title: "Tampa, FL"
+color: "#3AC29C"
+date: 2013-11-23 12:57
 comments: true
 sharing: true
 footer: true
-color: "#3AC29C"
 parent_url: "/locations"
-/ sub_nav:
-/   - name: "Greenville"
-/     slug: "/upstate/greenville"
-/   - name: "Spartanburg"
-/     slug: "/upstate/spartanburg"
 ---
 
 .main style="width:100%;"
@@ -21,7 +15,7 @@ parent_url: "/locations"
       ul
         li.animate-out
           .slide 
-            .bg style="background-image: url(/images/locations/spartanburg/slider.jpg);" 
+            .bg style="background-image: url(/images/locations/tampa/tampa-slider.jpg);"
 
             / .container
             /   .slide-margin.span11
@@ -31,16 +25,15 @@ parent_url: "/locations"
             /       span.no-link
             /         | Welcome to the Upstate.
 
-
   .intro style="background-color:{{page.color}};"
     | {% if page.image %}
-    .short-slide style="background-image: url({{page.image}});" 
+    .short-slide style="background-image: url({{page.image}});"
     | {% endif %}
 
     .container
       .row
         .intro-content
-          .triangle style="border-top: 20px solid {{page.color}};" 
+          .triangle style="border-top: 20px solid {{page.color}};"
           h1
             | {% if page.parent_url %}
             a.ss-left.back href="{{page.parent_url}}"
@@ -61,39 +54,37 @@ parent_url: "/locations"
                 a href="{{link.slug}}" {{ link.name }}  
               | {% endfor %}
             | {% endif %}
-
+  
   .container
     .content
       .article.row
         .span8
           .article-content
             p 
-               | Originally known for its revolutionary roots, Spartanburg is reviving what once was one of the nations' busiest railway hubs. Art, music and other creative culture, combined with connections to some top players in the healthcare industry make it an amazing place to for Digital Health companies to plant and grow. 
-            h2 What we offer in Spartanburg 
+               | Tampa is home to great companies, great culture and a thriving creative scene. We can't wait to join forces and add our code school to an already amazing mix of technology. 
+
+            h2 What's coming in Tampa
             hr
             p.programs-image
-              img alt="Digital Health Accelerator" src="/images/locations/spartanburg/programs/spartanburg-programs-health-accelerator.jpg"
+              img alt="The Iron Yard Academy" src="/images/locations/tampa/tampa-program-academy.jpg"
             .right-of-img
-              h3 Digital Health Accelerator
-              p From wellness apps to enterprise software, we’re helping startups build the future of health.
+              h4 Intensive code school
+              p We are actively building our intensive Academy classes in Tampa. Sign up for the mailing lists for news and announcements.
+              p.city-page-content
+                img.city-page-class-icon src="/images/icons/city-page-class-front-end.png" <a href="http://eepurl.com/JoCSL">Front End Engineering mailing list</a> — Learn to build web apps with HTML, CSS & JavaScript.
+              p.city-page-content
+                img.city-page-class-icon src="/images/icons/city-page-class-rails.png" <a href="http://eepurl.com/JoCXf">Rails Engineering mailing list</a> — Learn to build full-stack apps with Ruby on Rails. 
+              p.city-page-content
+                img.city-page-class-icon src="/images/icons/city-page-class-mobile.png" <a href="http://eepurl.com/JoCUP">Mobile Engineering mailing list</a> — Learn to build iOS apps using Xcode and Objective-C.
+            h3 Kids Classes
+            hr
+            p.programs-image
+              img alt="CoderDojo and kids classes" src="/images/locations/tampa/tampa-program-kids.jpg"
+            .right-of-img
+              p We'll launch our free code classes for kids later this year. Sign up for the newsletter to be notified when things are ready. 
               ul
                 li
-                  a href="/accelerator/" Applications are open!
-            hr
-            p.programs-image
-              img alt="CoWorking at The Iron Yard" src="/images/locations/spartanburg/programs/spartanburg-programs-cowork.jpg"
-            .right-of-img
-              h3 CoWorking Spaces
-              p Housed in the same buildling as our Health Accelerator, The Mill is an incredible collection of startups and creative people. It's also 1 block away from an amazing craft brewery. 
-            hr
-            p.programs-image
-              img alt="CoderDojo and kids classes" src="/images/locations/greenville/programs/greenville-programs-kids.jpg"
-            .right-of-img
-              h3 Kids classes
-              p Kids classes in Spartanburg are launching in early 2014. Sign up for the newsletter for news and announcements. 
-              ul
-                li 
-                  a href="http://eepurl.com/Me9IL" Sign up for the newsletter
+                  a href="news and announcements" Sign up for the mailing list
 
             /   p.city-page-content
             /     img.city-page-class-icon src="/images/icons/city-page-class-front-end.png" <a href="/academy/front-end-engineering">Front End Engineering</a> — Learn to build web apps with HTML, CSS & JavaScript.
@@ -120,20 +111,16 @@ parent_url: "/locations"
               li
                 a href="http://blog.theironyard.com" The Blog
               li
-                a href="https://twitter.com/search?q=%23tiygreenville&src=typd" #tiyhealth
-              li
-                a href="mailto:spartanburg@theironyard.com" spartanburg@theironyard.com
-              li
-                a href="http://eepurl.com/Me9IL" Spartanburg newsletter
+                a href="news and announcements" Tampa newsletter
             hr 
             p
-              img alt="Spartanburg, SC" src="/images/locations/spartanburg/sidebar/spartanburg-sidebar-hub-bub.jpg" style="border-radius: 3px;"
+              img alt="Durham, NC" src="/images/locations/tampa/tampa-sidebar.jpg" style="border-radius: 3px;"
             hr
             p
-              img alt="Spartanburg SC downtown" src="/images/locations/spartanburg/sidebar/spartanburg-sidebar-fountain.jpg" style="border-radius: 3px;"
+              img alt="Durham, NC" src="/images/locations/tampa/tampa-sidebar-1.jpg" style="border-radius: 3px;"
             hr
             p
-              img alt="Spartanburg Hub-Bub venue art music" src="/images/locations/spartanburg/sidebar/spartanburg-sidebar-big-wheels.jpg" style="border-radius: 3px;"
+              img alt="Durham, NC" src="/images/locations/tampa/tampa-sidebar-2.jpg" style="border-radius: 3px;"
   
             / h3 Other locations
             / hr
@@ -148,6 +135,9 @@ parent_url: "/locations"
             /     a href="/locations/spartanburg" Spartanburg, SC
             /   li
             /     a href="/locations/tampa" Tampa, FL
+              
+
+
 
 javascript:
   $('document').ready(function(){
@@ -162,3 +152,6 @@ javascript:
       animateStartingFrameIn: true
     }).data("sequence")
   });
+
+
+
