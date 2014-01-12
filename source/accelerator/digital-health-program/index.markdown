@@ -13,7 +13,7 @@ sub_nav:
   - name: "Mentors"
     slug: "/accelerator/mentors"
   - name: "Spartanburg"
-    slug: "/upstate/spartanburg"
+    slug: "/locations/spartanburg"
 ---
 
 <img src="/images/accelerator/digital-health-program-image.jpg" style="border-radius: 3px;">
