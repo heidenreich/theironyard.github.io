@@ -34,7 +34,7 @@ parent_url: "/locations"
 
   .intro style="background-color:{{page.color}};"
     | {% if page.image %}
-    .short-slide style="background-image: url({{page.image}});"
+    .short-slide style="background-image: url({{page.image}});" 
     | {% endif %}
 
     .container
@@ -61,6 +61,7 @@ parent_url: "/locations"
                 a href="{{link.slug}}" {{ link.name }}  
               | {% endfor %}
             | {% endif %}
+
   .container
     .content
       .article.row
@@ -68,7 +69,7 @@ parent_url: "/locations"
           .article-content
             p 
                | Originally known for its revolutionary roots, Spartanburg is reviving what once was one of the nations' busiest railway hubs. Art, music and other creative culture, combined with connections to some top players in the healthcare industry make it an amazing place to for Digital Health companies to plant and grow. 
-            h2 What we offer in Spartanburg
+            h2 What we offer in Spartanburg 
             hr
             p.programs-image
               img alt="Digital Health Accelerator" src="/images/locations/spartanburg/programs/spartanburg-programs-health-accelerator.jpg"
@@ -77,25 +78,22 @@ parent_url: "/locations"
               p From wellness apps to enterprise software, we’re helping startups build the future of health.
               ul
                 li
-                  a href="/accelerator/digital-health-program" Applications are open!
+                  a href="/accelerator/" Applications are open!
             hr
             p.programs-image
               img alt="CoWorking at The Iron Yard" src="/images/locations/spartanburg/programs/spartanburg-programs-cowork.jpg"
             .right-of-img
               h3 CoWorking Spaces
               p Housed in the same buildling as our Health Accelerator, The Mill is an incredible collection of startups and creative people. It's also 1 block away from an amazing craft brewery. 
-              ul
-                li
-                  a href="/cowork" Learn more about CoWorking at The Iron Yard
             hr
             p.programs-image
               img alt="CoderDojo and kids classes" src="/images/locations/greenville/programs/greenville-programs-kids.jpg"
             .right-of-img
               h3 Kids classes
-              p We teach kids programming classes for free through CoderDojo and offer more advanced after school programs through our Labs courses. 
+              p Kids classes in Spartanburg are launching in early 2014.
               ul
                 li 
-                  a href="/academy/#kids" Greenville CoderDojo classes
+                  a href="/academy/#kids" Learn more about our Kids Classes
 
             /   p.city-page-content
             /     img.city-page-class-icon src="/images/icons/city-page-class-front-end.png" <a href="/academy/front-end-engineering">Front End Engineering</a> — Learn to build web apps with HTML, CSS & JavaScript.
@@ -150,3 +148,17 @@ parent_url: "/locations"
             /     a href="/locations/spartanburg" Spartanburg, SC
             /   li
             /     a href="/locations/tampa" Tampa, FL
+
+javascript:
+  $('document').ready(function(){
+    sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence")
+  });
