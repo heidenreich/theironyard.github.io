@@ -2,7 +2,7 @@
 layout: page
 title: "Atlanta, GA"
 description: "Coming in 2014."
-color: "#B8584B"
+color: "#3AC29C"
 date: 2013-11-23 12:57
 comments: true
 sharing: true
