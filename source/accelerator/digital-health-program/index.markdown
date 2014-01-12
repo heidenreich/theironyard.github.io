@@ -43,7 +43,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 #### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
 
-* * *
+* * * 
 
 ### The Schedule for 2014
 

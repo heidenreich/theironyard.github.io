@@ -1532,6 +1532,7 @@ li {
   }
 }
 
+
 .home-card {
   height: 390px;
   width: 300px;
@@ -2171,7 +2172,7 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 /* This triggers a redraw in IE to Fix IE8's :before content rendering. */
 html:hover [class^="ss-"]{-ms-zoom: 1;}
 
-.ss-icon, .ss-icon.ss-standard,
+.ss-icon, .ss-icon.ss-standard, .ss-social
 [class^="ss-"]:before, [class*=" ss-"]:before,
 [class^="ss-"].ss-standard:before, [class*=" ss-"].ss-standard:before,
 [class^="ss-"].right:after, [class*=" ss-"].right:after,
@@ -2198,3 +2199,17 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 
 /* Legacy classes */
 .ss-volumelow:before,.ss-volumelow.right:after{content:''}.ss-volumehigh:before,.ss-volumehigh.right:after{content:''}.ss-batteryhigh:before,.ss-batteryhigh.right:after{content:''}.ss-batterymedium:before,.ss-batterymedium.right:after{content:''}.ss-batterylow:before,.ss-batterylow.right:after{content:''}.ss-batteryempty:before,.ss-batteryempty.right:after{content:''}.ss-clouddownload:before,.ss-clouddownload.right:after{content:''}.ss-cloudupload:before,.ss-cloudupload.right:after{content:''}.ss-calendaradd:before,.ss-calendaradd.right:after{content:''}.ss-calendarremove:before,.ss-calendarremove.right:after{content:''}.ss-calendarcheck:before,.ss-calendarcheck.right:after{content:''}.ss-calendardelete:before,.ss-calendardelete.right:after{content:''}
+
+.social-icons-footer {
+  
+  ul {
+    padding-top: 0;
+  }
+}
+
+.ss-twitter, .ss-facebook, 
+.ss-vimeo {
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 6px;
+}
