@@ -33,9 +33,9 @@ sub_nav:
 
 **Your Team:**
 
-*   Two or more people
-*   Company should be software or software/hardware combination (like FitBit). We don’t do medical devices, biotech or life sciences.
-*   Your team must be on site for the duration of the program. There is no obligation to stay in the Upstate, but we’d sure be glad to have you.
+*   Two or more people. We will occasionally take solo founders, but teams are preferred.
+*   Company should be software or a software/hardware combination. We also will consider select medical devices, biotech, and life sciences companies.
+*   Your team must co-locate at The Iron Yard for the duration of the program.  There's no obligation to stay her, but we'd sure love to have you.
 
 Did we mention that our space is one block from [RJ Rockers Brewery](http://www.rjrockers.com/)?
 
@@ -45,12 +45,13 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 * * *
 
-### The Schedule for 2013
+### The Schedule for 2014
 
-*   **Jun. 16** – Application Deadline
-*   **Jul. 15** – Program Begins
-*   **Sept. 29 - Oct. 3** – Demo Day at Health 2.0 Silicon Valley Fall Conference
-*   **Oct. 15** – Southeast Launch Event
+*   **March 16** –  Early application deadline
+*   **June 1** –  Final application deadline
+*   **July 1** – Program begins
+*   **Sep. 21-23** – Demo Day at Health 2.0 Silicon Valley Conference
+*   **Oct. 1** - Southeastern Demo Day
 
 * * *
 
