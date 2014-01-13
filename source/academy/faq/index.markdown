@@ -29,7 +29,7 @@ Didn't see what you were lookin for? [Send us an email](mailto:academy@theironya
 
 Great question. The answer depends on which school you compare us to, so we’ll talk through the most common options people ask about. If you want, [set up a call with our team](mailto:academy@theironyard.com?subject=I'd like to talk on the phone about the Academy). We love talking about code schools and want to help you make the right choice (even if that means it's not our school). 
 
-Let's tackle what makes us unique by each category.
+Let's tackle what makes us unique by category.
 
 **Online resources**
 
