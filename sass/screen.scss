@@ -2170,10 +2170,11 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
   font-style: normal;
 }
 
+
 /* This triggers a redraw in IE to Fix IE8's :before content rendering. */
 html:hover [class^="ss-"]{-ms-zoom: 1;}
 
-.ss-icon, .ss-icon, .ss-standard, .ss-social,
+.ss-icon, .ss-icon, .ss-standard,
 [class^="ss-"]:before, [class*=" ss-"]:before,
 [class^="ss-"].ss-standard:before, [class*=" ss-"].ss-standard:before,
 [class^="ss-"].right:after, [class*=" ss-"].right:after,
