@@ -13,7 +13,7 @@ sub_nav:
   - name: "Mentors"
     slug: "/accelerator/mentors"
   - name: "Greenville"
-    slug: "/upstate/greenville"
+    slug: "/locations/greenville"
 ---
 
 <img src="/images/accelerator/tech-program-image.jpg" style="border-radius: 3px;">

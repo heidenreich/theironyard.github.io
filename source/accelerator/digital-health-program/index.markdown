@@ -41,7 +41,9 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 {% sidebar %}
 
-#### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
+#### Applications are open! 
+
+<a href="http://www.f6s.com/theironyardhealthaccelerator14" class="light-button">Apply now</a>
 
 * * * 
 
@@ -69,6 +71,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 ![Spartanburg Regional Hospital](/images/accelerator/sponsors/spartanburg-regional.jpg "Spartanburg Regional")
 ![Mayo Clinic](/images/accelerator/sponsors/mayo.jpg "Mayo Clinic")
 ![Health 2.0](/images/accelerator/sponsors/health20.jpg "Health 2.0")
-![Abbott](/images/accelerator/sponsors/abbott.jpg "Abbott")
+![Wyche](/images/accelerator/sponsors/wyche.jpg "Wyche")
+![GAN](/images/accelerator/sponsors/gan.jpg "GAN")
 
 {% endsidebar %}

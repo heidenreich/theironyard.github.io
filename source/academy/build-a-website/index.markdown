@@ -11,7 +11,7 @@ parent_url: "/academy"
 
 <img src="/images/education/labs/labs-picture.jpg" style="border-radius: 3px;">
 
-### CoderDojo: Website Basics
+### Website Basics
 
 In this class students will learn the basics of HTML and CSS, and how they work together to display content in browsers. 
 
@@ -27,7 +27,7 @@ In this class students will learn the basics of HTML and CSS, and how they work 
 
 ---
 <a id="faq"></a>
-## FAQ
+### FAQ
 
 #### Do I need to be in class with my child?
 
@@ -43,7 +43,7 @@ We require every student to have a waiver/release form signed by a parent or gua
 
 {% sidebar %}
 
-### Ready to learn?
+#### Ready to learn?
 
 To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
 

@@ -11,7 +11,7 @@ parent_url: "/academy"
 
 <img src="/images/education/coderdojo/coderdojo-scratch-kids.jpg" style="border-radius: 3px;">
 
-### CoderDojo: Scratch
+### Scratch
 
 In the video game module, students learn a visual programming language called Scratch (developed by MIT). Kids learn programming fundamentals and video game basics, building their very own video game in the first few nights of class.
 
@@ -36,7 +36,7 @@ We've already scheduled sessions for the spring semester, but haven't opened reg
 
 ---
 <a id="faq"></a>
-## FAQ
+### FAQ
 
 #### Do I need to be in class with my child?
 
@@ -52,7 +52,7 @@ We require every student to have a waiver/release form signed by a parent or gua
 
 {% sidebar %}
 
-### Ready to learn?
+#### Ready to learn?
 
 To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
 
