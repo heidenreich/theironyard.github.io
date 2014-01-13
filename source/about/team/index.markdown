@@ -115,6 +115,23 @@ sub_nav:
   </div>
 </div>
 
+<div class="student-profile">
+  <div class="graduates-left">
+    <img class="student" width="300" height="300" src="/images/about/team-aubrey.jpg">
+    <p style="text-align: center;"><strong>Princess of Particulars</strong></p>
+  </div>
+  <div class="graduates-right">
+    <h1 class="name">Aubrey</h1>
+    <p class="bio">Aubrey was born in Houston, TX and raised in the Upstate of South Carolina, meaning she's a southern girl through and through. Before she was even halfway through with her degree at the University of South Carolina she had already joined Peter to help run the first iteration of our Accelerator program when she wasn't in class. On campus she served as Philanthropy Chair then Recruitment Vice President for Alpha Delta Pi (largest chapter in the nation). Every summer since she's returned to Greenville to keep us straight with her perfect organizational skills, type-A project management skills and her always-wonderful way with people. </p>
+    <ul class="links">
+      <li>&bull;
+        <a href="https://twitter.com/AubreyDuggar">@AubreyDuggar
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
 ## <a name="accelerators"></a> Accelerators
 
 ---
