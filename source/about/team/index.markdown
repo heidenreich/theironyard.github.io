@@ -121,7 +121,7 @@ sub_nav:
     <p style="text-align: center;"><strong>Operations Manager</strong></p>
   </div>
   <div class="graduates-right">
-    <h1 class="name">Aubrey</h1>
+    <h1 class="name">Aubrey Duggar</h1>
     <p class="bio">Aubrey was born in Houston, TX and raised in the Upstate of South Carolina, meaning she's a southern girl through and through. Before she was even halfway through with her degree at the University of South Carolina she had already joined Peter to help run the first iteration of our Accelerator program when she wasn't in class. On campus she served as Philanthropy Chair then Recruitment Vice President for Alpha Delta Pi (largest chapter in the nation). Every summer since she's returned to Greenville to keep us straight with her perfect organizational skills, type-A project management skills and her always-wonderful way with people. </p>
     <ul class="links">
       <li>&bull;
