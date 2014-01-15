@@ -50,7 +50,7 @@ sub_nav:
     <p class="bio">Eric was born and raised in Upstate, SC where he spent his early year hiking, mountain biking and dirt bike riding with his dad. Somehow he ended up at Clemson University where he tutored calculus, studied marketing and matriculated summa cum laude. (We hear there was a lot of wake boarding, too.) After school Eric worked at a nationally renowned marketing shop where he developed content, managed accounts and built strategies for companies like Best Buy and Double Day. He crossed paths with Peter as The Iron Yard was being born and jumped ship to join as a partner and head of marketing.</p>
     <ul class="links">
       <li>&bull;
-        <a href="http://ericdodds.com)">ericdodds.com
+        <a href="http://ericdodds.com">ericdodds.com
         </a>
       </li>
       <li>&bull;
@@ -58,7 +58,7 @@ sub_nav:
         </a>
       </li>
       <li>&bull;
-        <a href="github.com/ericdodds">GitHub
+        <a href="http://github.com/ericdodds">GitHub
         </a>
       </li>
       <li>&bull;
@@ -150,7 +150,7 @@ sub_nav:
         </a>
       </li>
       <li>&bull;
-        <a href="https://ridepost">RidePost
+        <a href="https://www.ridepost.com">RidePost
         </a>
       </li>
     </ul>
@@ -213,7 +213,7 @@ sub_nav:
     <p class="bio">Calvin was born in Hawaii, but eventually landed in Charleston by way of the Outer Banks.  Tempered by hurricanes and big waves, Calvin has a passion for coastal life that is only rivaled by his passion to learn and teach. Calvin has taught web development classes to college students and environmental education to K-12 students.  As a developer Calvin has worked with a huge range of companies from The Charleston Museum to the Veterans Administration and Cummins Marine.  He has also contributed to the Modernizr project as well as Adobe Brackets.</p>
     <ul class="links">
       <li>&bull;
-        <a href="http://twitter.com/n_bucciarelli">@calweb
+        <a href="http://twitter.com/calweb">@calweb
         </a>
       </li>
       <li>&bull;
