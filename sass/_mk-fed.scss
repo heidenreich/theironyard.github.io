@@ -278,6 +278,11 @@
     }
   }
 
+  p.class-phone-callout {
+    border-top: 3px solid rgb(221, 221, 221);
+    padding-top: 17px;  
+  }
+
   .container {
     position: relative;
     @include box-sizing(border-box);
@@ -786,7 +791,7 @@
   }
 
   .icons {
-    padding: 20px 0;
+    padding: 20px 0px 10px 0px;
     text-align: center;
 
     .icon {
