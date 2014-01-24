@@ -16,20 +16,20 @@ sub_nav:
 
 #### The Iron Yard exists to create exceptional value for people and their ideas through code education, startup accelerators and coworking spaces.  
 
-Through our broad, deep and growing network of teachers, programmers, designers, entrepreneurs, investors, employers and coworking spaces we have developed a thriving community where serendipity happens en-masse.
+Through our broad, deep and growing network of teachers, programmers, designers, entrepreneurs, investors, employers and coworking spaces, we have developed a thriving community where serendipity happens en masse.
 
 #### We are people-centric.   
-We put our students, teams, investors, and supporters first in all of our decision making. Our success is entirely dependent on their success. 
+We put our students, teams, investors and supporters first in all of our decision making. Our success is entirely dependent on their success. 
 
 #### Our challenge is immense.  
-The world has huge problems that need to be solved, many of which technology is perfectly suited to address. Companies around the globe are answering this call, but anyone with boots on the ground can feel the acute shortage of talent needed to rise to the occasion. That gap is widening right now, and over the next decade the shortfall will effect industries, economies, businesses and individuals as they fight to add value in digital world. 
+The world has huge problems that need to be solved, many of which technology is perfectly suited to address. Companies around the globe are answering this call, but anyone with boots on the ground can feel the acute shortage of talent needed to rise to the occasion. That gap is widening right now, and over the next decade the shortfall will affect industries, economies, businesses and individuals as they fight to add value in a digital world. 
 
 #### The Iron Yard is a solution at that juncture of supply, demand, business and a broken education system.  
-We are committed to training up the highest-quality developers and startups in the world, both in skill and in character. Our mission is to find people who want to pursue the craft and life-long adventure of technology, teach them the tools of the trade, and then release them into the world with the drive and capability to make a difference. We believe that passionate, talented people who love what they do will create great families, jobs, companies, and solutions to the world’s problems.
+We are committed to training the highest-quality developers and startups in the world, both in skill and in character. Our mission is to find people who want to pursue the craft and life-long adventure of technology, teach them the tools of the trade, and then release them into the world with the drive and capability to make a difference. We believe that passionate, talented people who love what they do will create great families, jobs, companies and solutions to the world’s problems.
 
-#### Join us
+#### Join us.
 
-We want to accomplish this alongside talented, passionate people who share our vision, love what they do, and want to have a whole lot of fun along the way. [Check out our job openings](/jobs) and join the team. 
+We want to accomplish our goal alongside talented, passionate people who share our vision, love what they do, and want to have a whole lot of fun along the way. [Check out our job openings](/jobs) and join the team. 
 
 {% sidebar %}
 
