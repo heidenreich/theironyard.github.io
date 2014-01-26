@@ -278,6 +278,11 @@
     }
   }
 
+  p.class-phone-callout {
+    border-top: 3px solid rgb(221, 221, 221);
+    padding-top: 17px;  
+  }
+
   .container {
     position: relative;
     @include box-sizing(border-box);
@@ -786,7 +791,7 @@
   }
 
   .icons {
-    padding: 20px 0;
+    padding: 20px 0px 10px 0px;
     text-align: center;
 
     .icon {
@@ -906,6 +911,27 @@
       }
     }
   }
+
+  .phone-callout {
+    p {
+      @include box-sizing(border-box);
+      clear: both;
+      color: #39474e;
+      font-size: 15px;
+      margin-top: 0px;
+      border: 3px solid #E3E7E9;
+      padding: 8px 25px;
+      margin: 0px 0px 33px 0px;
+      text-align: center;
+      width: 100%;
+      background: #E3E7E9;
+
+      @media only screen and (max-width: 479px) {
+        width: 100%;
+      }
+    }
+  }  
+
 
   .classtime {
     img {
