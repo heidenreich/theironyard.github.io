@@ -57,7 +57,7 @@ We partner with awesome sponsors. Our sponsors provide amazing resources to our 
 
 Sounds crazy, doesn't it? But it's true: we teach people who don't have any prior coding skill. We do require people to dip their toe in the water by going through some basic online tutorials during the interview process, but that's simply so they have a chance to actually write the language and be certain they want to dive into three heavy duty months of it. 
 
-Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programs available for hire *and* have the foundation upon which to pursue a CTO-like role. 
+Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programmers available for hire *and* have the foundation upon which to pursue a CTO-like role. 
 
 ### <a name="sorcery"></a> What kind of sorcery do you use to make all of this happen?
 
