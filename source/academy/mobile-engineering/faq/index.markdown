@@ -15,7 +15,7 @@ parent_url: "/academy/mobile-engineering"
 - [You’ll help me find a job?](#job-placement)
 - [What kinds of companies do your graduates go to work for?](#companies)
 - [How much does it cost?](#cost)
-- [How much time time and commitment will it *really* take?](#commitment)
+- [How much time and commitment will it *really* take?](#commitment)
 - [What do employers say about students they’ve hired?](#employer-feedback)
 - [What do students say about your classes?](#student-feedback)
 
@@ -31,7 +31,7 @@ Let's tackle what makes us unique by category.
 
 **Online resources**
 
-We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial, error, and learning the hard way how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
+We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial, error, and learning the hard way how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
 
 **Online code education programs**
 
@@ -95,7 +95,7 @@ Tuition with a laptop included is $10,000. This is the absolute cheapest way for
 **Housing (Greenville, SC only)**  
 Housing is only available for our Greenville, SC Front End Engineering course. It is $1500 for the three months. We have a block of really nice, fully-furnished apartments that are reserved for our Greenville Academy students year round. We’ve done our research and it’s almost impossible to find cheaper (nice) living if you don’t live in town.
 
-### <a name="commitment"></a> How much time time and commitment will it *really* take?
+### <a name="commitment"></a> How much time and commitment will it *really* take?
 
 We are very clear with our students about how difficult this program is. We train professional programmers, not casual enthusiasts. Our average student puts in 60 hours per week, many have to invest more than that. 
 
