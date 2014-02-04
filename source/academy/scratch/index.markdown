@@ -21,7 +21,7 @@ In the video game module, students learn a visual programming language called Sc
 <a id="schedule"></a>
 ### 2014 Schedules
 
-<h4 style="font-size:21px;">Atlanta, Charleston, and Spartanburg schedules coming soon!</h4>
+<h4 style="font-size:21px;">Atlanta and Charleston schedules coming soon!</h4>
 
 *We are in the process of getting campuses and spaces set up. Classes will launch ASAP!*
 
@@ -33,6 +33,14 @@ We've already scheduled sessions for the spring semester, but haven't opened reg
   
 * <a href="http://eepurl.com/EwEp5"> Join the Mar. 4 - Apr. 8 waitlist</a>
 * <a href="http://eepurl.com/EwErn"> Join the Apr. 22 - May 27 waitlist</a>
+
+---
+
+#### Spartanburg Schedule
+
+* <a href="https://ti.to/the-iron-yard/the-iron-yard-kids-academy-spartanburg-scratch-level-1-feb-20--march-27-14">Join Scratch Level 1 - Feb 20 - Details inside</a>
+
+* <a href="https://ti.to/the-iron-yard/kids-classes-february-2014-scratch-level-2">Join Scratch Level 2 - Feb 18 - Details inside</a>
 
 ---
 <a id="faq"></a>

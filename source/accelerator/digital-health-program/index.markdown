@@ -27,7 +27,7 @@ sub_nav:
 *   Demo Day exclusive session at Health 2.0, Silicon Valley Fall Conference.
 *   Full year of free coworking space surrounded by other innovators.
 *   Strong partnerships with industry experts including global medical research institutions, top pharma distributors and leading hospital systems.
-*   Free legal services and amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com).  
+*   Free legal services and amazing perks through [GAN](http://gan.co) and [F6S](http://form.jotformpro.com/form/40124712669958 ).  
 *   Great downtown housing in the same building as the accelerator and free access to bikes for getting around town.
 *   Fun events to introduce you to the Upstate and the surrounding mountains. All work and no play makes Jack a dull entrepreneur.
 
@@ -43,7 +43,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 #### Applications are open! 
 
-<a href="http://www.f6s.com/theironyardhealthaccelerator14" class="light-button">Apply now</a>
+<a href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
 
 * * * 
 
