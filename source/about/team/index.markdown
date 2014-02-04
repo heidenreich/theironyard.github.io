@@ -117,7 +117,7 @@ sub_nav:
 
 <div class="student-profile">
   <div class="graduates-left">
-    <img class="student" width="300" height="300" src="/images/about/team-aubrey.jpg">
+    <img class="student" width="300" height="300" src="/images/about/aubrey.jpg">
     <p style="text-align: center;"><strong>Operations Manager</strong></p>
   </div>
   <div class="graduates-right">
