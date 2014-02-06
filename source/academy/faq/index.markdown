@@ -21,7 +21,7 @@ parent_url: "/academy"
 - [What do employers say about students they’ve hired?](#employer-feedback)
 - [What do students say about your classes?](#student-feedback)
 
-Didn't see what you were lookin for? [Send us an email](mailto:academy@theironyard.com?subject=The FAQ didn't answer my question) and we'd be happy to answer your question. 
+Didn't see what you were looking for? [Send us an email](mailto:academy@theironyard.com?subject=The FAQ didn't answer my question) and we'd be happy to answer your question. 
 
 ---
 
@@ -33,7 +33,7 @@ Let's tackle what makes us unique by category.
 
 **Online resources**
 
-We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial, error, and learning the hard way how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
+We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial and error, and learning the hard way just how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
 
 **Online code education programs**
 
@@ -45,7 +45,7 @@ There are offline code schools popping up all around the world, and from what we
 
 - **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
 - **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, back-end programmers, entrepreneurs, and more.
-- **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics and provides templated contracts and proposals they'll need when they graduate. 
+- **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programmer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics and provides templated contracts and proposals they'll need when they graduate. 
 - **Our instructors are practicing professionals**. We give our teachers one month off between each class, and that time is filled with working on real products, learning the latest technology, and incorporating their learnings into the curriculum to keep it bleeding-edge.
 - **Our job-placement is personalized**. Our team works incredibly hard to get students where they want to be, whether that’s a startup or a large corporation. We have contacts all around the country and after the program we meet weekly with each student to execute a job-searching strategy with them. We also perform mock interviews so that there aren’t any surprises when you graduate.
 - **When appropriate, we give our students paid freelance work before they graduate**. If students have extra bandwidth, we connect them with partner companies who pay cash for contract work, meaning real portfolio work and references when they graduate.
@@ -67,7 +67,7 @@ First and foremost, we accomplish this through hiring the most talented people o
 
 Second, we all *love* what we do. The people we hire are passionate about changing people's lives through code education, and they invest their heart and soul into making that happen. (Several have left huge companies and startups to join our team because they believe in our mission). 
 
-More practically, our progam works really well because of our approach to education. We are committed to training the highest-quality developers in the world, both in skill and in character. That means training think like engineers and solve problems—not just how to type the syntax of a language. Knowing syntax and punctuation don't make you a great writer; in the same way simply knowing how to write some JavaScript doesn't make you a great programmer—that's the easy part. Because of the thinking foundation we build, our graduates have the apptitude to jump into new languages and learn them very quicly.
+More practically, our program works really well because of our approach to education. We are committed to training the highest-quality developers in the world, both in skill and in character. That means training students to think like engineers and solve problems—not just how to type the syntax of a language. Knowing syntax and punctuation doesn't make you a great writer; in the same way simply knowing how to write some JavaScript doesn't make you a great programmer—that's the easy part. Because of the thinking foundation we build, our graduates have the aptitude to jump into new languages and learn them very quickly.
 
 ### <a name="job-placement"></a> You’ll help me find a job?
 
@@ -101,7 +101,7 @@ Housing is only available for our Greenville, SC Front End Engineering course. I
 
 We are very clear with our students about how difficult this program is. We train professional programmers, not casual enthusiasts. Our average student puts in 60 hours per week, many have to invest more than that. 
 
-What makes it so demanding? You learn a new subject almost every day and have homework associated with that topic—due at 8:00am the next day (or Monday if it's a weekend). The assignments are cumulative, so you incorporate things you've already learned into new ones so that by the end you have muscle memory across the spectrum of the subject you're studying. 
+What makes it so demanding? You learn a new subject almost every day and have homework associated with that topic due at 8:00am the next day (or Monday if it's a weekend). The assignments are cumulative, so you incorporate things you've already learned into new ones so that by the end you have muscle memory across the spectrum of the subjects you're studying. 
 
 Don't get us wrong—we're not workaholics and we don't want you to be either, but building the foundation for a great, balanced career is no easy task. Our policy is "work hard during class so you don't have to afterwards."
 
