@@ -37,9 +37,15 @@ sub_nav:
 
 {% sidebar %}
 
-#### Applications closed
+### Applications closed
 
 ---
+
+#### Virtual Office Hours
+ 
+* **[Click to schedule an appointment](http://ohours.org/bauermarty)**
+
+* * *
 
 #### Dig Deeper
 

@@ -57,6 +57,12 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 * * *
 
+### Virtual Office Hours
+ 
+* **[Click to schedule an appointment](http://ohours.org/bauermarty)**
+
+* * *
+
 ### Dig Deeper
 
 * Check out our [Frequently Asked Questions](/accelerator/digital-health-program/faq).
