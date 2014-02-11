@@ -32,7 +32,7 @@ In our experience, it doesn't take much convincing.
 
 {% sidebar %}
 
-#### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
+#### Applications are currently closed.
 
 * * *
 
