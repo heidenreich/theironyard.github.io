@@ -22,9 +22,9 @@ parent_url: "/academy"
 
 - [Meet our grads and see where they work now.](/academy/alumni)
 - [Refer someone to the class for a chance at $150.](mailto:academy@theironyard.com)
-- [Check out our blogs to see what's happening right now.](blog.theironyard.com)
+- [Check out our blogs to see what's happening right now.](http://blog.theironyard.com)
 - [Follow us on Twitter.](http://twitter.com/theironyard)
-- [See where we've been covered in the press.](blog.theironyard.com)
+- [See where we've been covered in the press.](http://blog.theironyard.com)
 
 ---
 
