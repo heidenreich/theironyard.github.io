@@ -22,15 +22,15 @@ parent_url: "/academy"
 
 - [Meet our grads and see where they work now.](/academy/alumni)
 - [Refer someone to the class for a chance at $150.](/refer)
-- [Check out our blogs to see what's happening right now.](blog.theironyard.com)
+- [Check out our blogs to see what's happening right now.](http://blog.theironyard.com)
 - [Follow us on Twitter.](http://twitter.com/theironyard)
-- [See where we've been covered in the press.](blog.theironyard.com)
+- [See where we've been covered in the press.](http://news.theironyard.com)
 
 ---
 
 **Need to get in touch? **
 
 - <a href="tel:+18553992275">(855) 399-2275</a>
-- [academy@theironyard.com](academy@theironyard.com)
+- [mailto:academy@theironyard.com](academy@theironyard.com)
 
 {% endsidebar %}
