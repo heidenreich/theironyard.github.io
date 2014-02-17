@@ -31,8 +31,8 @@ In the video game module, students learn a visual programming language called Sc
 
 We've already scheduled sessions for the spring semester, but haven't opened registration yet. Sign up for the waitlist, and you'll be the first to know when signups go live. 
   
-* <a href="http://eepurl.com/EwEp5"> Join the Mar. 4 - Apr. 8 waitlist</a>
-* <a href="http://eepurl.com/EwErn"> Join the Apr. 22 - May 27 waitlist</a>
+* <a href="http://eepurl.com/OBAF5"> Join the Mar. 4 - Apr. 8 waitlist</a>
+* <a href="http://eepurl.com/OBAF5"> Join the Apr. 22 - May 27 waitlist</a>
 
 ---
 
