@@ -85,6 +85,10 @@
 p.city-page-content {
   margin-left: 20px;
 }
+.highlights {
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
 
 // Icons
 
@@ -96,8 +100,7 @@ p.city-page-content {
   vertical-align: text-top;
   background-image: url("/images/courseIconSprite.png");
   background-position: 0 0;
-  background-repeat: no-repeat;
-  
+  background-repeat: no-repeat; 
 }
 
 .classIcon-jsCourse {

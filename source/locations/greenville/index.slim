@@ -57,20 +57,18 @@ location_feed: "http://greenville.theironyard.com/feed/"
             span.classIcon-iosCourse
             p iOS
 
-  .content
-      .article.row
-        .span8
-          .article-content
-            h3
-              | City Highlights
-            p 
-              | Nestled into the foothills of the Blue Ridge Mountains, Greenville combines traditional southern charm, stunning natural beauty and nationally-respected tech and design communities to create one of America's hottest emerging destinations and fastest-growing cities. 
-          
-        .article-sidebar-city.span4
-          .article-sidebar-content-section
-            h4 City Links
-            p
-              | this is some text
+  .highlights
+      .container
+        .row
+          .col-md-6
+            img[src="/images/locations/greenville/gvl.jpg"]
+            
+          .col-md-6
+            .article-sidebar-content-section
+              h3 City Highlights
+              p 
+              | Nestled into the foothills of the Blue Ridge Mountains, Greenville combines traditional southern charm, stunning natural beauty and nationally-respected tech and design communities to create one of America's hottest emerging destinations and fastest-growing cities.
+        div[style="clear:both;"]
 
   .location-well
     .container
@@ -83,6 +81,18 @@ location_feed: "http://greenville.theironyard.com/feed/"
           a[href="#" class="light-button"] Learn More
         .academy-right.col-md-6
           img[src="http://placehold.it/470x275"]
+    .courses
+      .container
+        .row
+          .col-md-4[style="border-right:2px solid white;"]
+            p Railside
+            p The original CoWork in Downtown Greenville
+          .col-md-4[style="border-right:2px solid white;"]
+            p The Forge
+            p The Next Building in Downtown Greenville
+          .col-md-4
+            p The Mill
+            p The Grain District of Spartanburg
 
   .content
       .article.row
