@@ -26,4 +26,12 @@
   <script src="/javascripts/libs/sequence.jquery.js"></script>
   {% convert_include custom/head.slim %}
   {% include google_analytics.html %}
+  {% if page.location_feed %}
+  <script src="/javascripts/libs/feed.js"></script>
+  <script>
+   $(function() {
+       wpFeed('{{page.location_feed}}', $(".recent"));
+    });
+  </script>
+  {% endif %}
 </head>
