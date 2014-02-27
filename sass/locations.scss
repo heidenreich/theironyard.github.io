@@ -85,3 +85,27 @@
 p.city-page-content {
   margin-left: 20px;
 }
+
+// Icons
+
+[class^="classIcon-"], [class*=" classIcon-"] {
+  display: inline-block;
+  width: 75px;
+  height: 77px;
+  line-height: 77px;
+  vertical-align: text-top;
+  background-image: url("/images/courseIconSprite.png");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  
+}
+
+.classIcon-jsCourse {
+  background-position: 0 0;
+}
+.classIcon-railsCourse {
+  background-position: -75px 0;
+}
+.classIcon-iosCourse {
+  background-position: -150px 0;
+}
