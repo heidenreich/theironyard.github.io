@@ -37,12 +37,25 @@ location_feed: "http://greenville.theironyard.com/feed/"
               
   .location-well
     .container
-      .article.row
-        .span4.academy-left
+      .row
+        .span4.academy-left.col-md-6
           h3 The Academy
           p We offer an intensive Front End Engineering course and other, shorter-format design and development classes in Greenville. Our program goes far beyond tactical skills and teaches you to think like a software engineer.
-        .span8.academy-right
+          a[href="#" class="light-button"] Learn More
+        .span8.academy-right.col-md-6
           img[src="http://placehold.it/470x275"]
+    .courses
+      .container
+        .row
+          .col-md-4[style="border-right:2px solid white;"]
+            img[src="/images/icons/front-end-engineering-logo.png"]
+            p JavaScript
+          .col-md-4[style="border-right:2px solid white;"]
+            img[src="/images/icons/rails-engineering-logo.png"]
+            p Ruby on Rails
+          .col-md-4
+            img[src="/images/icons/mobile-engineering-logo.png"]
+            p iOS
 
   .content
       .article.row
@@ -61,14 +74,15 @@ location_feed: "http://greenville.theironyard.com/feed/"
 
   .location-well
     .container
-      .academy-left
-        h2 
-          | Coworking Spaces
-        p
-          | Our Coworking spaces are comprised of designers, strategists, developers, writers and entrepreneurs. We're not talking about fly-by-night freelancers. They're independent business owners, connected with each other through the space they share and the projects they inevitably develop together.
-        a[href="#" class="light-button"] Learn More
-      .academy-right
-        img[src="http://placehold.it/470x275"]
+      .row
+        .academy-left.col-md-6
+          h2 
+            | Coworking Spaces
+          p
+            | Our Coworking spaces are comprised of designers, strategists, developers, writers and entrepreneurs. We're not talking about fly-by-night freelancers. They're independent business owners, connected with each other through the space they share and the projects they inevitably develop together.
+          a[href="#" class="light-button"] Learn More
+        .academy-right.col-md-6
+          img[src="http://placehold.it/470x275"]
 
   .content
       .article.row
@@ -89,14 +103,15 @@ location_feed: "http://greenville.theironyard.com/feed/"
 
   .location-well
     .container
-      .academy-left
-        h2 
-          | Tech Accelerators
-        p
-          | We run two programs a year, an open tech program in the spring and a digital health program in the late summer/fall. We're interested in building strong, sustainable businesses that add real value to customers' lives.
-        a[href="#" class="light-button"] Learn More
-      .academy-right
-        img[src="http://placehold.it/470x275"]
+      .row
+        .academy-left.col-md-6
+          h2 
+            | Tech Accelerators
+          p
+            | We run two programs a year, an open tech program in the spring and a digital health program in the late summer/fall. We're interested in building strong, sustainable businesses that add real value to customers' lives.
+          a[href="#" class="light-button"] Learn More
+        .academy-right.col-md-6
+          img[src="http://placehold.it/470x275"]
 
   .content
       .article.row
@@ -174,5 +189,15 @@ css:
       margin-bottom:0;
       padding-bottom:0;
     }
+    .courses {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 1.5em;
+      margin-bottom: -40px;
+    }
+    .courses img {
+      clear:both;
+    }
+
 
   }
