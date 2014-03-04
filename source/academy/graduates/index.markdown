@@ -128,7 +128,20 @@ sub_nav:
   </div>
 </div>
 
-<div class="student-profile">
+
+## <a name="rails"></a> Rails Engineering Graduates
+
+---
+
+Coming soon! 
+
+## <a name="mobile"></a> Mobile Engineering Graduates
+
+---
+
+Coming soon! 
+
+<!-- <div class="student-profile">
   <div class="graduates-left">
     <img class="student" width="300" height="300" src="/images/education/academy/front-end-2/graduates/ari-picker.jpg">
     <a class="available-button" href="mailto:picker10024@yahoo.com?subject=I found you through The Iron Yard and I'd love to chat">
@@ -162,16 +175,4 @@ sub_nav:
       <p>Available For Hire</p>
     </a>
   </div>
-</div>
-
-## <a name="rails"></a> Rails Engineering Graduates
-
----
-
-Coming soon! 
-
-## <a name="mobile"></a> Mobile Engineering Graduates
-
----
-
-Coming soon! 
+</div> -->
