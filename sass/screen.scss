@@ -2222,17 +2222,25 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 
 .fb-logo {
   position: relative;
-  left: 100px;
+  left: 90px;
+  height: 115px;
+  width: 115px;
 }
 
 .treehouse-logo {
-  margin-left: 50px;
-  margin-bottom: 30px;
+  margin: 20px 0 30px 50px;
 }
 
 .tagboard-logo {
   margin-bottom: 25px;
 }
 
+.squarespace {
+  margin-left: 10px;
+}
 // testing new layout styles
-
+.cowork-icon {
+  position: relative;
+  right: 34px;
+  top: -25px;
+}
