@@ -3,6 +3,7 @@ layout: page
 title: "Current companies"
 date: 2013-08-08 12:13
 color: "#349FAD"
+meta_description: "The list of companies from our most recent Digital Health Tech Accelerator in Spartanburg, SC."
 comments: true
 sharing: true
 footer: true
@@ -162,13 +163,13 @@ footer: true
          </li>
          <li class="angellist">
             <a href="https://angel.co/chartspan-medical-technologies" target="_blank">Angel List</a>
-         </li> 
+         </li>
          <li class="twitter">
             <a href="https://twitter.com/ChartSpanApp" target="_blank">Twitter</a>
-         </li>  
+         </li>
          <li class="facebook">
             <a href="https://www.facebook.com/ChartSpan" target="_blank">Facebook</a>
-         </li>   
+         </li>
          <li class="email">
             <a href="mailto:JonMichial@ChartSpan.com" target="_blank">Email</a>
          </li>

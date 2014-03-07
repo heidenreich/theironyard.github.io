@@ -3,6 +3,7 @@ layout: page
 title: "Digital Health FAQ"
 date: 2013-08-08 13:56
 color: "#349FAD"
+meta_description: "FAQs about our Digital Health Tech Accelerator in Spartanburg, SC."
 comments: true
 sharing: true
 footer: true

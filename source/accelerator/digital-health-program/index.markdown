@@ -4,6 +4,7 @@ title: "Digital Health program"
 date: 2013-08-08 10:21
 color: "#349FAD"
 comments: true
+meta_description: "$20,000 in seed capital, demo days in Silicon Valley, three months of incredible mentorship and weekly workshops from experts in healthcare innovation, and more!"
 sharing: true
 footer: true
 parent_url: "/accelerator"
@@ -41,11 +42,11 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 {% sidebar %}
 
-#### Applications are open! 
+#### Applications are open!
 
 <a href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
 
-* * * 
+* * *
 
 ### The Schedule for 2014
 
@@ -58,7 +59,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 * * *
 
 ### Virtual Office Hours
- 
+
 * **[Click to schedule an appointment](http://ohours.org/bauermarty)**
 
 * * *
@@ -68,7 +69,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 * Check out our [Frequently Asked Questions](/accelerator/digital-health-program/faq).
 * Check out our lovely city, [Spartanburg](/locations/spartanburg).
 * Meet your [mentors](/accelerator/mentors).
-* We offer amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com). 
+* We offer amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com).
 
 * * *
 
