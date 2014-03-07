@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/academy"
+meta_description: "Geared towards children, students in this class will learn the basics of HTML and CSS, and how they work together to display content in browsers."
 ---
 
 <img src="/images/education/labs/labs-picture.jpg" style="border-radius: 3px;">

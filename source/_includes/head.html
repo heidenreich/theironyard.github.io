@@ -8,7 +8,7 @@
   <meta name="author" content="{{ site.author }}">
 
   {% capture meta_description %}{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-  <meta name="description" content="{{ meta_description | strip_html | condense_spaces | truncate:150 }}">
+  <meta name="description" content="{{ meta_description | strip_html | condense_spaces | truncate:160 }}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
   <!-- http://t.co/dKP3o1e -->

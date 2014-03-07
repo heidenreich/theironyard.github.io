@@ -3,8 +3,8 @@ layout: page
 title: "Graduates"
 date: 2014-01-09 13:56
 color: "#CEAE2C"
-description: "Graudates for hire from The Iron Yard's Front End Engineering program."
 parent_url: "/academy/front-end-engineering"
+meta_description: "Graudates for hire from The Iron Yard's Front End Engineering program."
 ---
 
 <div class="student-profile">

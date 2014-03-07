@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/"
+meta_description: "The Iron Yard exists to create exceptional value for people and their ideas through code education, startup accelerators, and coworking spaces."
 sub_nav:
   - name: "Team"
     slug: "team"

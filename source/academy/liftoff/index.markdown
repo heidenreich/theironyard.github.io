@@ -5,6 +5,8 @@ date: 2014-02-14 09:07
 color: "#CE822C"
 footer: true
 parent_url: "/academy"
+meta_description: "Buckle up for an incredible adventure!"
+
 ---
 
 ### Welcome to The Iron Yard Family. A grand adventure lies ahead.

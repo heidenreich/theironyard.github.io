@@ -3,8 +3,8 @@ layout: page
 title: "Alumni"
 date: 2014-01-09 13:58
 color: "#CEAE2C"
-description: "Hired alumni from The Iron Yard's Front End Engineering program."
 parent_url: "/academy/front-end-engineering"
+meta_description: "The stories we create are what makes our organization unique. Our graduates define our story. See where they have come from and where they are now."
 ---
 
 <div class="student-profile">

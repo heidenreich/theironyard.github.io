@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/academy"
+meta_description: "In our Scratch class, kids learn programming fundamentals and video game basics, building their very own video game in the first few nights of class."
 ---
 
 <img src="/images/education/coderdojo/coderdojo-scratch-kids.jpg" style="border-radius: 3px;">

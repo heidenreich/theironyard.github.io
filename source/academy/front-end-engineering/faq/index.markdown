@@ -3,8 +3,8 @@ layout: page
 title: "FAQs"
 date: 2014-01-09 14:02
 color: "#CEAE2C"
-description: "FAQ for The Iron Yard's Front End Engineering program."
 parent_url: "/academy/front-end-engineering"
+meta_description: "Find answers to commonly asked questions here. Don't see what you are looking for? Give us a call, shoot us an email, or hop into our chat room!"
 ---
 
 ## Seek and you will find

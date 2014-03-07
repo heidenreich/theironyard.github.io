@@ -6,6 +6,7 @@ date: 2013-11-20 06:21
 color: "#CE822C"
 footer: true
 parent_url: "/academy"
+meta_description: "Graudates for hire from The Iron Yard's Front End Engineering program."
 sub_nav: 
   - name: "Front End Engineering"
     slug: "#front-end"

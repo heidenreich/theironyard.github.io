@@ -5,6 +5,7 @@ date: 2014-01-09 13:19
 color: "#CE822C"
 footer: true
 parent_url: "/academy"
+meta_description: "The stories we create are what makes our organization unique. Our graduates define our story. See where they have come from and where they are now."
 ---
 
 <div class="student-profile">

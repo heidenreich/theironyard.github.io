@@ -5,6 +5,7 @@ date: 2014-01-10 09:31
 color: "#39474E"
 footer: true
 parent_url: "/about"
+meta_description: "What defines our culture you ask? People first, always. Flat structure and highly entrepreneurial. Open mindset, and our 'Being home for dinner' policy."
 ---
 
 If you walk into The Iron Yard on any given afternoon, you’re as likely to see an engineering team architecting software as you are to see a group enjoying craft brews over ping pong and video games.

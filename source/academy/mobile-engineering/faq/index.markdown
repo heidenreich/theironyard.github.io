@@ -3,8 +3,8 @@ layout: page
 title: "FAQs"
 date: 2014-01-09 14:02
 color: "#2C94CE"
-description: "FAQ for The Iron Yard's Mobile Engineering program."
 parent_url: "/academy/mobile-engineering"
+meta_description: "Find answers to commonly asked questions here. Don't see what you are looking for? Give us a call, shoot us an email, or hop into our chat room!"
 ---
 
 ## Seek and you will find
