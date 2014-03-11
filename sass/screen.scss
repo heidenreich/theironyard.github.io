@@ -786,9 +786,9 @@ $small_slide_height:  400px;
 
   .slide-margin {
     position: relative;
-    left: -80px;
+    bottom: -250px;
     padding-top: 260px;
-    max-width: 960px;
+    text-align: center;
   }
 
   .row {
@@ -815,18 +815,18 @@ $small_slide_height:  400px;
     margin-top: 40px;
 
     a, .no-link {
-      color: #fff;
+      color: #FFF;
       font-size: 73px;
       line-height: 110px;
       font-weight: bolder;
-      background: $dark_slate;
-      @include box-shadow($slide-text-bg);
+      background: linear-gradient(rgba(1, 10, 14, 0.02),rgba(2, 11, 16, 0.83));
+      // @include box-shadow($slide-text-bg);
 
       &:hover {
-        color: $fancy_blue;
+        // color: $fancy_blue;
         text-decoration: none;
-        background: $darker_slate;
-        @include box-shadow($slide-text-bg-hover);
+        // background: $darker_slate;
+        // @include box-shadow($slide-text-bg-hover);
       }
 
       .ss-navigateright {
@@ -839,8 +839,8 @@ $small_slide_height:  400px;
 
     .no-link:hover {
       color: #fff !important;
-      background: $dark_slate;
-      @include box-shadow($slide-text-bg);
+      // background: $dark_slate;
+      // @include box-shadow($slide-text-bg);
     }
   }
 

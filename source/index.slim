@@ -18,14 +18,14 @@ footer: true
           .slide
             .bg style="background-image: url(/images/homepage/homepage-academy-slider.jpg);"
 
-            .container
-              .slide-margin.span11
-                span.prev Grok
-                span.next Accelerator
-                .description
-                  a href="/academy"
-                    | Learn code and get a job in the Academy.
-                    span.ss-navigateright.ss-standard
+            / .container
+            .slide-margin.span11
+              / span.prev Grok
+              / span.next Accelerator
+              .description
+                a href="/academy"
+                  | Learn to code. Get a job. Guaranteed.
+                  span.ss-navigateright.ss-standard
 
         li.animate-out
           .slide
@@ -180,7 +180,7 @@ footer: true
 javascript:
   $('document').ready(function(){
     sequence = $(".slider").sequence({
-      autoPlay: true,
+      autoPlay: false,
       autoPlayDelay: 3000,
       moveActiveFrameToTop: true,
       navigationSkipThreshold: 1000,
