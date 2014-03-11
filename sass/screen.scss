@@ -773,7 +773,7 @@ $small_slide_height:  400px;
   }
 
   .animate-in .slide {
-    padding-left: 100px;
+    // padding-left: 100px;
     @include opacity(1);
     @include transition-duration(1s);
   }
@@ -812,18 +812,21 @@ $small_slide_height:  400px;
 
 
   .description {
-    margin-top: 40px;
+    margin-top: 60px;
+    background: linear-gradient(rgba(1, 10, 14, 0),#020D13);
 
     a, .no-link {
+      position: relative;
+      top: 13px;
       color: #FFF;
       font-size: 73px;
       line-height: 110px;
       font-weight: bolder;
-      background: linear-gradient(rgba(1, 10, 14, 0.02),rgba(2, 11, 16, 0.83));
+      // background: linear-gradient(rgba(1, 10, 14, 0.02),rgba(2, 11, 16, 0.83));
       // @include box-shadow($slide-text-bg);
 
       &:hover {
-        // color: $fancy_blue;
+        color: $fancy_blue;
         text-decoration: none;
         // background: $darker_slate;
         // @include box-shadow($slide-text-bg-hover);
@@ -1684,7 +1687,7 @@ li {
         a, .no-link {
           font-size: 32px;
           line-height: 45px;
-          @include box-shadow(0px 4px 0px 9px $dark_slate);
+          // @include box-shadow(0px 4px 0px 9px $dark_slate);
 
           @media only screen and (max-width: 479px) {
             font-size: 26px;
@@ -1700,8 +1703,8 @@ li {
           &:hover {
             color: $fancy_blue;
             text-decoration: none;
-            background: $darker_slate;
-            @include box-shadow(0px 4px 0px 9px $darker_slate);
+            // background: $darker_slate;
+            // @include box-shadow(0px 4px 0px 9px $darker_slate);
           }
         }
       }

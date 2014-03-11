@@ -13,7 +13,6 @@ footer: true
   .intro
     .slider
       ul
-
         li.animate-out
           .slide
             .bg style="background-image: url(/images/homepage/homepage-academy-slider.jpg);"
@@ -25,46 +24,46 @@ footer: true
               .description
                 a href="/academy"
                   | Learn to code. Get a job. Guaranteed.
-                  span.ss-navigateright.ss-standard
+                  / span.ss-navigateright.ss-standard
 
         li.animate-out
           .slide
             .bg style="background-image: url(/images/homepage/homepage-accelerator-slider.jpg);"
 
-            .container
-              .slide-margin.span11
-                span.prev Academy
-                span.next Locations
-                .description
-                  a href="/accelerator"
-                    | Launch your company in the Accelerator.
-                    span.ss-navigateright.ss-standard
+            / .container
+            .slide-margin.span11
+              / span.prev Academy
+              / span.next Locations
+              .description
+                a href="/accelerator"
+                  | Launch your company in the Accelerator.
+                  / span.ss-navigateright.ss-standard
 
         li.animate-out
           .slide
             .bg style="background-image: url(/images/homepage/homepage-upstate-slider.jpg);"
 
-            .container
-              .slide-margin.span11
-                span.prev Accelerator
-                span.next Grok
-                .description
-                  a href="/locations"
-                    | We're expanding to new places.
-                    span.ss-navigateright.ss-standard
+            / .container
+            .slide-margin.span11
+              / span.prev Accelerator
+              / span.next Grok
+              .description
+                a href="/locations"
+                  | We're expanding to new places.
+                  / span.ss-navigateright.ss-standard
 
         li.animate-out
           .slide
             .bg style="background-image: url(/images/homepage/homepage-events-slider.jpg);"
 
-            .container
-              .slide-margin.span11
-                span.prev Locations
-                span.next Academy
-                .description
-                  a href="/grok"
-                    | Find inspiration at Grok.
-                    span.ss-navigateright.ss-standard
+            / .container
+            .slide-margin.span11
+              / span.prev Locations
+              / span.next Academy
+              .description
+                a href="/grok"
+                  | Find inspiration at Grok.
+                  / span.ss-navigateright.ss-standard
 
 
   .academy
@@ -180,7 +179,7 @@ footer: true
 javascript:
   $('document').ready(function(){
     sequence = $(".slider").sequence({
-      autoPlay: false,
+      autoPlay: true,
       autoPlayDelay: 3000,
       moveActiveFrameToTop: true,
       navigationSkipThreshold: 1000,
