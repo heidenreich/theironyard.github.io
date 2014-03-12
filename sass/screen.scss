@@ -812,12 +812,13 @@ $small_slide_height:  400px;
 
 
   .description {
-    margin-top: 60px;
+    margin-top: 5px;
+    height: 160px;
     background: linear-gradient(rgba(1, 10, 14, 0),#020D13);
 
     a, .no-link {
       position: relative;
-      top: 13px;
+      top: 50px;
       color: #FFF;
       font-size: 73px;
       line-height: 110px;
