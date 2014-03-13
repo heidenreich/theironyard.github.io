@@ -90,7 +90,7 @@ Our students pursue all types of programming careers when they leave The Iron Ya
 Base tuition is $9,000, and we have significant discounts for enlisted military personnel and veterans, as well as [scholarships](/academy/scholarships). 
 
 **Payment options**  
-If you pay the full cost of tuition up front, you’ll get a $250 discount. If you pay half up front, you'll get a $125 discount. We also offer financing: Pay one-third of the tuition up front and the balance in even payments over six months afterwards.
+If you pay the full cost of tuition up front, you’ll get a $500 discount. If you pay half up front, you’ll get a $250 discount. We also offer financing: Deposit $1,000 to secure your seat, then $2,000 on the first day of class. After that, you'll make $1,000 monthly installments until your balance is paid off. No fees or interest.
 
 **Laptop**  
 Tuition with a laptop included is $10,000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? [Give us a shout](mailto:academy@theironyard.com?subject:Will my computer work for your Academy courses?).
