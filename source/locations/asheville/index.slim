@@ -1,157 +1,111 @@
 ---
-layout: home
+layout: location
 title: "Asheville, NC"
-date: 2014-01-13 17:30
+date: 2013-10-4 11:29
 color: "#3AC29C"
+image: "/images/locations/asheville/asheville-slider.jpg"
 parent_url: "/locations"
 meta_description: "Asheville has built a vibrant tech scene in Western North Carolina that The Iron Yard is excited to help continue to thrive through our Green Tech Accelerator."
 footer: true
+location_feed: "http://blog.theironyard.com/feed/"
 ---
-
-.main style="width:100%;"
-  .intro
-    .slider
-      ul
-        li.animate-out
-          .slide 
-            .bg style="background-image: url(/images/locations/asheville/asheville-slider.jpg);" 
-
-            / .container
-            /   .slide-margin.span11
-            /     span.prev Recreation
-            /     span.next Events and Festivals
-            /     .description
-            /       span.no-link
-            /         | Welcome to the Upstate.
-
-  .intro style="background-color:{{page.color}};"
-    | {% if page.image %}
-    .short-slide style="background-image: url({{page.image}});" 
-    | {% endif %}
-
-    .container
-      .row
-        .intro-content
-          .triangle style="border-top: 20px solid {{page.color}};" 
-          h1
-            | {% if page.parent_url %}
-            a.ss-left.back href="{{page.parent_url}}"
-            | {% endif %}
-
-            | {{page.title}}
-
-          | {% if page.description %}
-          .description 
-            | {{page.description}}
-          | {% endif %}
-
-          .secondary
-            | {% if page.sub_nav %}
-            ul.sub-nav 
-              |{% for link in page.sub_nav %}
-              li
-                a href="{{link.slug}}" {{ link.name }}  
-              | {% endfor %}
-            | {% endif %}
-
+.location
   .container
     .content
       .article.row
-        .span8
+        .span8.location-border
           .article-content
             p 
-               | We are launching a Green Tech accelerator in Asheville this fall. In partnership with the A-B Tech Education and Entrepreneurial Development Foundation and other community leaders, we are excited about working with companies who are using technology to make our world a better place to live and work. 
-            h2 What's coming in Asheville
-            hr
-            p.programs-image
-              img alt="Greentech Accelerator" src="/images/locations/asheville/asheville-programs-accelerator.jpg"
-            .right-of-img
-              h3 Green Tech Accelerator
-              p From energy to the environment and efficiency in healthcare, we are going to accelerate companies focused on Green Tech. 
-              ul
-                li
-                  a href="/accelerator/green-tech" Learn more
-            p.programs-image
-              img alt="CoWorking at The Iron Yard" src="/images/locations/asheville/asheville-programs-cowork.jpg"
-            .right-of-img
-              h3 CoWorking Spaces
-              p We will offer CoWorking space housing a mix of designers, developers and startups. 
-            hr
-            p.programs-image
-              img alt="Kids classes" src="/images/locations/asheville/asheville-programs-kids.jpg"
-            .right-of-img
-              h3 Kids classes
-              p We will launch kids code classes along with our accelerator program. Sign up for the newsletter to learn more. 
-              ul
-                li 
-                  a href="http://eepurl.com/MmxWX" Sign up for the newsletter
+              | We are launching a Green Tech accelerator in Asheville this fall. In partnership with the A-B Tech Education and Entrepreneurial Development Foundation and other community leaders, we are excited about working with companies who are using technology to make our world a better place to live and work. 
 
-            /   p.city-page-content
-            /     img.city-page-class-icon src="/images/icons/city-page-class-front-end.png" <a href="/academy/front-end-engineering">Front End Engineering</a> — Learn to build web apps with HTML, CSS & JavaScript.
-            /   p.city-page-content
-            /     img.city-page-class-icon src="/images/icons/city-page-class-rails.png" <a href="/academy/rails-engineering">Rails Engineering</a> — Learn to build full-stack apps with Ruby on Rails. 
-            /   p.city-page-content
-            /     img.city-page-class-icon src="/images/icons/city-page-class-mobile.png" <a href="/academy/mobile-engineering">Mobile Engineering</a> — Learn to build iOS apps using Xcode and Objective-C.
-            / hr
-            / p.programs-image
-            /   img alt="The Iron Yard Academy" src="/images/locations/atlanta/atlanta-program-kids.jpg"
-            / .right-of-img
-            /   h4 Free kids classes
-            /   p We will launch kids classes in Atlanta in Spring 2014. Sign up for our mailing list to learn more. 
-            /   ul
-            /     li
-            /       a href="http://eepurl.com/MeMgz" Atlanta Academy Kids Mailing List
-
-
+            h2
+              | What we offer in Asheville:
+          
         .article-sidebar-city.span4
           .article-sidebar-content-section
-            h3 Connect
-            hr
+            h4 City Links
             ul
               li
-                a href="/jobs" <strong>We're hiring in Asheville!</strong>
+                a[href="http://www.visitgreenvilleesc.com"] visitgreenvilleesc.com
               li
-                a href="http://blog.theironyard.com" The Blog
+                a[href="http://lifeingreenville.com"] lifeingreenville.com
               li
-                a href="https://twitter.com/search?q=%23tiyasheville&src=typd" #tiyasheville
-              li
-                a href="mailto:asheville@theironyard.com" asheville@theironyard.com
-              li
-                a href="http://eepurl.com/MmxWX" Asheville newsletter
-            hr 
-            p
-              img alt="Asheville, NC" src="/images/locations/asheville/asheville-sidebar.jpg" style="border-radius: 3px;"
-            hr 
-            p
-              img alt="Asheville, NC" src="/images/locations/asheville/asheville-sidebar-1.jpg" style="border-radius: 3px;"
-            hr 
-            p
-              img alt="Asheville, NC" src="/images/locations/asheville/asheville-sidebar-2.jpg" style="border-radius: 3px;"
-  
-            / h3 Other locations
-            / hr
-            / ul
-            /   li
-            /     a href="/locations/greenville" Greenville, SC
-            /   li
-            /     a href="/locations/charleston" Charleston, SC
-            /   li
-            /     a href="/locations/durham" Durham, NC
-            /   li
-            /     a href="/locations/spartanburg" Spartanburg, SC
-            /   li
-            /     a href="/locations/tampa" Tampa, FL
+                a[href="http://yeahthatgreenville.com"] yeahthatgreenville.com
+              
+  .location-well
+    .container
+      .article.row
+        .span4.academy-left
+          h3 The Academy
+          p We offer an intensive Front End Engineering course and other, shorter-format design and development classes in Greenville. Our program goes far beyond tactical skills and teaches you to think like a software engineer.
+        .span8.academy-right
+          img[src="http://placehold.it/470x275"]
 
-javascript:
-  $('document').ready(function(){
-    sequence = $(".slider").sequence({
-      autoPlay: true,
-      autoPlayDelay: 3000,
-      moveActiveFrameToTop: true,
-      navigationSkipThreshold: 1000,
-      fadeFrameWhenSkipped: false,
-      prevButton: $('.prev'),
-      nextButton: $('.next'),
-      animateStartingFrameIn: true
-    }).data("sequence")
-  });
+  .content
+      .article.row
+        .span8
+          .article-content
+            h3
+              | City Highlights
+            p 
+              | Nestled into the foothills of the Blue Ridge Mountains, Greenville combines traditional southern charm, stunning natural beauty and nationally-respected tech and design communities to create one of America's hottest emerging destinations and fastest-growing cities. 
+          
+        .article-sidebar-city.span4
+          .article-sidebar-content-section
+            h4 City Links
+            p
+              | this is some text
+
+  .location-well
+    .container
+      .academy-left
+        h2 
+          | Coworking Spaces
+        p
+          | Our Coworking spaces are comprised of designers, strategists, developers, writers and entrepreneurs. We're not talking about fly-by-night freelancers. They're independent business owners, connected with each other through the space they share and the projects they inevitably develop together.
+        a[href="#" class="btn"] Learn More
+      .academy-right
+        img[src="http://placehold.it/470x275"]
+
+  .content
+      .article.row
+        .span6
+          .article-content
+            h3
+              | Events
+            p 
+              | Greenville is home to some amazing events geared towards designers, developers and makers. These events are a great time. Someone should probably rewrite this. 
+            
+          
+        .article-sidebar-city.span6
+          .article-sidebar-content-section
+            h4 
+              | City Links
+            p
+              | this is some text
+
+  .location-well
+    .container
+      .academy-left
+        h2 
+          | Tech Accelerators
+        p
+          | We run two programs a year, an open tech program in the spring and a digital health program in the late summer/fall. We're interested in building strong, sustainable businesses that add real value to customers' lives.
+        a[href="#" class="btn"] Learn More
+      .academy-right
+        img[src="http://placehold.it/470x275"]
+
+  .content
+      .article.row
+        .span8.location-border
+          .article-content
+            h3
+              | Grok + Race Cars = Awesome
+            p 
+              | Grok is a unique conference. While we did add keynote speakers last year (at the request of attendees), the emphasis has always been on honest, problem-tacklings conversations in small groups where no one is a hero. Problems are solved, companies are launched, and creative people are refreshed and encouraged. It's awesome...
+            a[href="#"] Read More 
+          
+        .article-sidebar-city.span4
+          .article-sidebar-content-section
+            h4 Recent posts from the blog
+            ul.recent

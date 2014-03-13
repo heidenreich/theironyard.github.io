@@ -85,3 +85,103 @@
 p.city-page-content {
   margin-left: 20px;
 }
+.highlights {
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+
+// Icons
+
+[class^="classIcon-"], [class*=" classIcon-"] {
+  display: inline-block;
+  width: 75px;
+  height: 77px;
+  line-height: 77px;
+  vertical-align: text-top;
+  background-image: url("/images/courseIconSprite.png");
+  background-position: 0 0;
+  background-repeat: no-repeat; 
+}
+
+.classIcon-jsCourse {
+  background-position: 0 0;
+}
+.classIcon-railsCourse {
+  background-position: -75px 0;
+}
+.classIcon-iosCourse {
+  background-position: -150px 0;
+}
+
+@media (min-width: 600px) {
+
+    .article .span8 {
+      width: 625px;
+      padding-right:20px;
+      box-sizing:border-box;
+      
+    }
+
+    .location-well {
+      padding: 30px 0 50px;
+      background: #f2f4f5;
+    }
+    .article {
+      padding-bottom:0;
+    }
+    .article .span8 {
+      margin-bottom:0;
+    }
+    .article h4 {
+        margin:5px;
+    }
+
+    .location .intro.reverse-triangle .short-slide {
+      height: 440px;
+    }
+
+    .location .intro.reverse-triangle .container {
+      padding-top: 300px;
+    }
+
+    .location-border {
+      border-right: 2px solid #eef1f6;
+    }
+
+    .location a {
+      color: #41d3ac;
+    }
+    .location ul {
+      margin:0;
+    }
+    .location ul li {
+      display:block;
+      text-decoration:none;
+    }
+    .recent li {
+      display:block;
+      padding-bottom:10px;
+      border-bottom: 3px solid #f0f4f5;
+    }
+    .recent li:last-child {
+      border-bottom:none;
+    }
+    .location a.light-button {
+      color: #fff;
+    }
+    .article .article-sidebar-content-section {
+      margin-bottom:0;
+      padding-bottom:0;
+    }
+    .courses {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 1.5em;
+      margin-bottom: -40px;
+    }
+    .courses img {
+      clear:both;
+    }
+
+
+  }
