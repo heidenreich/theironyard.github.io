@@ -814,7 +814,7 @@ $small_slide_height:  400px;
 
   .description {
     // margin-top: 6px;
-    height: 160px;
+    height: 180px;
     background: linear-gradient(rgba(1, 10, 14, 0),#020D13);
 
     a, .no-link {
@@ -928,7 +928,7 @@ $small_slide_height:  400px;
   background-size: cover;
   clear: both;
   background: $slate;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 
   .copyright {
     font-size: 12px;
