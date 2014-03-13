@@ -172,6 +172,11 @@ p.city-page-content {
     .article .article-sidebar-content-section {
       margin-bottom:0;
       padding-bottom:0;
+
+      img {
+        margin-top: 12px;
+      }
+      
     }
     .courses {
       margin-top: 40px;
@@ -184,4 +189,12 @@ p.city-page-content {
     }
 
 
+  }
+
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    height: 220px;
+    width: 100%;
+    background: linear-gradient(rgba(20, 4, 4, 0.02),rgba(6, 0, 0, 0.94));
   }
