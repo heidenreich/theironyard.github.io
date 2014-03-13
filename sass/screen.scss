@@ -730,7 +730,7 @@ $medium_slide_height: 400px;
 $small_slide_height:  400px;
 
 .slider {
-  height: 700px;
+  height: 600px;
   // height: $big_slide_height;
   position: relative;
   margin-top: -101px;
@@ -779,14 +779,14 @@ $small_slide_height:  400px;
   }
 
   .animate-out .slide {
-    padding-left: 200px;
+    // padding-left: 200px;
     @include opacity(0);
     @include transition-duration(1s);
   }
 
   .slide-margin {
     position: relative;
-    bottom: -250px;
+    bottom: -160px;
     padding-top: 260px;
     text-align: center;
   }
@@ -812,17 +812,18 @@ $small_slide_height:  400px;
 
 
   .description {
-    margin-top: 5px;
+    // margin-top: 6px;
     height: 160px;
     background: linear-gradient(rgba(1, 10, 14, 0),#020D13);
 
     a, .no-link {
       position: relative;
-      top: 50px;
+      top: 74px;
       color: #FFF;
-      font-size: 73px;
+      font-size: 48px;
       line-height: 110px;
       font-weight: bolder;
+      padding-left: 30px;
       // background: linear-gradient(rgba(1, 10, 14, 0.02),rgba(2, 11, 16, 0.83));
       // @include box-shadow($slide-text-bg);
 
@@ -1625,7 +1626,7 @@ li {
 
     .slider {
       .slide-margin {
-        padding-top: 225px;
+        padding-top: 160px;
         max-width: 100%;
       }
       .prev {
@@ -1679,6 +1680,7 @@ li {
       }
       .description {
         margin-top: 10px;
+        width: 110%;
 
         .no-link {
           font-size: 36px;
@@ -1686,8 +1688,9 @@ li {
         }
 
         a, .no-link {
-          font-size: 32px;
+          font-size: 30px;
           line-height: 45px;
+          top: 96px;
           // @include box-shadow(0px 4px 0px 9px $dark_slate);
 
           @media only screen and (max-width: 479px) {
@@ -1741,7 +1744,7 @@ li {
       .slide-margin {
         position: relative;
         left: -45px;
-        padding-top: 160px;
+        padding-top: 250px;
         max-width: 960px;
       }
     }
