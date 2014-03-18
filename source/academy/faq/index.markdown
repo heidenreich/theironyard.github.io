@@ -12,7 +12,7 @@ meta_description: "Find answers to commonly asked questions here. Don't see what
 
 ## Seek and you will find
 
-- [This sounds great, but what makes you different from other code schools?](#different)
+- [What makes you different from other code schools?](#different)
 - [I don't need to know how to code? *Are you serious*?](#no-code)
 - [What kind of sorcery do you use to make all of this happen?](#sorcery)
 - [You’ll help me find a job?](#job-placement)
@@ -26,26 +26,26 @@ Didn't see what you were looking for? [Send us an email](mailto:academy@theirony
 
 ---
 
-### <a name="different"></a> This sounds great, but what makes you different from other code schools?
+### <a name="different"></a> What makes you different from other code schools?
 
-Great question. The answer depends on which school you compare us to, so we’ll talk through the most common options people ask about. If you want, [set up a call with our team](mailto:academy@theironyard.com?subject=I'd like to talk on the phone about the Academy). We love talking about code schools and want to help you make the right choice (even if that means it's not our school). 
+Great question. The answer depends on which school you compare us to, so we’ll talk through the most common options people ask about. If you want, give us a call (855-399-2275) or [send us an email](mailto:academy@theironyard.com?subject=I have a question about The Iron Yard Academy). We love talking about code schools and want to help you make the right choice (even if that means it's not our school). 
 
 Let's tackle what makes us unique by category.
 
-**Online resources**
+**Online resources and information**
 
-We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial and error, and learning the hard way just how much horrible information and advice there is on the internet. With the ever-increasing technological advances in the world of programming, it’s getting even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time by showing you the right resources, dive far deeper than most internet tutorials take you, and, most importantly, teach you the intangible elements of great programming (collaborative coding, architecture, workflows, good communication, etc.)
+We love telling people that you can find *almost* all of the *raw information* in our curriculum online, for free. It’s no secret: “Google University” has produced many a fine programmer. In almost every case, though, their skill was forged over years of experience, trial and error, and learning the hard way just how much horrible information and advice there is on the Internet. With the ever-increasing technological advances in the world of programming, it’s becoming even harder to sort the good from the bad and keep up with what new tools you should learn. Our course is designed to trim the fat you find online, compress learning time by showing you the right tools and resources to focus on, dive far deeper than most Internet tutorials take you, and, most importantly, teach you the intangible elements of being a great programmer (collaborative coding, architecture, work flows, good communication, etc.)
 
 **Online code education programs**
 
-We’re huge fans of online education. In fact, we’re good friends with the people at Treehouse and encourage all of our students to sign up so they can expand their knowledge, learn new languages, and continue practicing the art of code. What’s more, most students who come to us have spent time in some sort of online code program and realized that becoming a professional developer in the near future is going to take more than a few hours of tutorials on nights and weekends. What many don’t realize is that most online schools fail to plumb the depths needed in order to be a top-notch developer. Instead of scripted, step-by-step assignments, our exercises focus first on problem solving, meaning students complete the same assignment in a variety of ways. This teaches them the real-world complexity of programming and gives our instructor live examples to teach from.
+We’re huge fans of online education. In fact, we’re good friends with the people at Treehouse and encourage all of our students to sign up so they can expand their knowledge, learn new languages, and continue practicing the art of code. What’s more, most students who come to us have spent time tackling some sort of online code tutorial. Almost all of them have realized that becoming a professional developer in the near future is going to take more than a few hours of tutorials on nights and weekends. What many don’t realize is that most online schools fail to plumb the depths needed in order to be a top-notch developer in a short amount of time. Instead of scripted, step-by-step assignments, our exercises focus first on problem solving, meaning students complete the same assignment in a variety of ways. This teaches them the real-world complexity of programming and gives our instructor live examples to teach from—the closest analogue you will get to solving real engineering problems in the real world. 
 
 **Offline code schools**
 
-There are offline code schools popping up all around the world, and from what we can tell, their quality varies widely. After talking with students and instructors from other schools, here are a few things that we know set our program apart:
+There are offline code schools popping up all around the world and their quality varies widely. After talking with students and instructors from other schools, here are a few things that we know set our program apart:
 
-- **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
-- **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, back-end programmers, entrepreneurs, and more.
+- **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is generally far less than places like New York and San Francisco, making the life transition much more feasible for people in all walks of life. 
+- **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, other disciplines of programming, entrepreneurship, and more. We provide our students with the widest possible gamut of exposure so that they have a well-rounded view of the industry when they graduate. 
 - **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programmer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics and provides templated contracts and proposals they'll need when they graduate. 
 - **Our instructors are practicing professionals**. We give our teachers one month off between each class, and that time is filled with working on real products, learning the latest technology, and incorporating their learnings into the curriculum to keep it bleeding-edge.
 - **Our job-placement is personalized**. Our team works incredibly hard to get students where they want to be, whether that’s a startup or a large corporation. We have contacts all around the country and after the program we meet weekly with each student to execute a job-searching strategy with them. We also perform mock interviews so that there aren’t any surprises when you graduate.
