@@ -42,7 +42,7 @@ We’re huge fans of online education. In fact, we’re good friends with the pe
 
 **Offline code schools**
 
-There are offline code schools popping up all around the world, and from what we can tell, their quality varies widely. After talking with students and instructors from other schools, here are a few things that we know set our program apart:
+There are offline code schools popping up all around the world and their quality varies widely. After talking with students and instructors from other schools, here are a few things that we know set our program apart:
 
 - **Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is generally far less than places like New York and San Francisco, making the life transition much more feasible for people in all walks of life. 
 - **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, other disciplines of programming, entrepreneurship, and more. We provide our students with the widest possible gamut of exposure so that they have a well-rounded view of the industry when they graduate. 
