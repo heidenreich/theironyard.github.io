@@ -13,11 +13,13 @@ meta_description: "Find answers to commonly asked questions here. Don't see what
 ## Seek and you will find
 
 - [What makes you different from other code schools?](#different)
-- [I don't need to know how to code? *Are you serious*?](#no-code)
-- [What kind of sorcery do you use to make all of this happen?](#sorcery)
-- [You’ll help me find a job?](#job-placement)
-- [What kinds of companies do your graduates go to work for?](#companies)
 - [How much does it cost?](#cost)
+- [You’ll help me find a job?](#job-placement)
+- [What is your success rate for job placement?](#placement-success)
+- [What kinds of companies do your graduates go to work for?](#companies)
+- [I don't need to know how to code? *Are you serious*?](#no-code)
+- [Do you require students to do pre-work?](#prework)
+- [What kind of sorcery do you use to make all of this happen?](#sorcery)
 - [How much time and commitment will it *really* take?](#commitment)
 - [What do employers say about students they’ve hired?](#employer-feedback)
 - [What do students say about your classes?](#student-feedback)
@@ -58,11 +60,80 @@ There are offline code schools popping up all around the world and their quality
 - **You get access to the entire Iron Yard family**. Whether it’s working shoulder-to-shoulder with our accelerator teams, sitting in on mentor sessions, networking with our CoWorkers, or looking through our Rolodex and asking for introductions, we give you any resource we can to help you be successful.
 - **We partner with awesome sponsors.** Our sponsors provide amazing resources to our students, from free accounts to web-design assets.
 
+### <a name="cost"></a> How much does it cost?  
+
+**Tuition**  
+Base tuition is $9,000.
+
+**Discounts for paying up front**  
+We offer a $500 discount for those who pay the full amount up front and a $250 discount for those who pay half up front. 
+
+**Financing options**  
+Here are the details of our financing plan: 
+
+- $1,000 deposit to secure your seat when you are accepted to the program
+- $2,000 on the first day of class (total payments at this point amount to 1/3 of the total)
+- After that, you'll make $1,000 monthly installments until your balance is paid off. 
+- No fees or interest.
+
+**Laptop**  
+Tuition with a laptop included is $10,000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? [Give us a shout](mailto:academy@theironyard.com?subject:Will my computer work for your Academy courses?).
+
+- If you elect to get the laptop, the cost will be reflected in your monthly payments. 
+
+**Housing (Greenville, SC only)**  
+Housing is only available for our Greenville, SC Front End Engineering course. It is $1500 for the three months. We have a block of really nice, fully-furnished apartments that are reserved for our Greenville Academy students year round. We’ve done our research and it’s almost impossible to find cheaper (nice) living if you don’t live in town.
+
+### <a name="job-placement"></a> You’ll help me find a job?
+
+If you choose to enroll in the job placement program, we’ll do our darndest to put you where you want to be, and we’re putting our money where our mouth is.
+
+We cannot guarantee the exact salary or location of the job, but here's the guarantee: 
+
+**If you don’t get an offer in six months, we’ll give you your tuition back.** If you choose to freelance, we help you get paid work and walk through your first several projects with you. 
+
+It's as simple as that. We believe in what we do and our program is extremely selective, so if we can't produce the right result, someone's doing something wrong.   
+
+Give us a call (855-399-2275) or [send us an email](mailto:academy@theironyard.com?subject:I have a question about job placement) for more details.
+
+### <a name="placement-success"></a> What is your success rate for job placement?
+
+We have a 100% success rate. We've never had to give a refund to a single student. Want to talk to our graduates? Give us a call (855-399-2275) or [send us an email](mailto:academy@theironyard.com?subject=I would like to speak to your graduates). 
+
+### <a name="companies"></a> What kinds of companies do your graduates go to work for?
+
+Our students pursue all types of programming careers when they leave The Iron Yard, from small web shops, venture-funded startups and marketing agencies to established product companies and design firms. Many of our students also choose to pursue freelance or contract work for the flexibility they provide. 
+
+Here's a list of a few of our hiring partners to give you an idea: 
+
+- [Benefitfocus](benefitfocus.com)
+- [SPARC](http://www.sparcedge.com/)
+- [Jack Russel Software](http://jackrussellsoftware.com/)
+- [Organic](http://www.organic.com/default.aspx)
+- [Fuzzco](http://fuzzco.com/)
+- [Boomtown](http://boomtownroi.com/)
+- [Blue Ion](http://www.blueion.com/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
+
 ### <a name="no-code"></a> I don't need to know how to code? *Are you serious*?
 
 Sounds crazy, doesn't it? But it's true: we teach people who don't have any prior coding skill. We do require people to dip their toe in the water by going through some basic online tutorials during the interview process, but that's simply so they have a chance to actually write the language and be certain they want to dive into three heavy duty months of it. 
 
 Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programmers available for hire *and* have the foundation upon which to pursue a CTO-like role. 
+
+### <a name="pre work"></a> Do you require students to do prework?
+
+We will start our answer to this question by making an import an distinction: *information isn't the same as knowledge*, and from our experience with work that students do ahead of time, information (and pre-work) only goes so far in helping you do well in our classes.  
+
+The primary reason is that in most situations, scripted assignments and even understanding the vernacular of a language doesn't teach you how to think about the subject on a deep level. Let's take learning a foreign language as an example. If you wanted to learn Mandarin, you could buy books on the language and listen to Rosetta Stone. You'd gather a lot of information about the language—sentence structure, vocabulary and more. As many people have found out, though, even if you've done well with those tools, it's a different game when you get to the country and hear natives speak. It can even be hard to understand because they are speaking so quickly and with 'imperfect' pronunciations related to their region, etc. That's why people say, "*if you really want to learn Mandarin, go live in China.*" Knowing sentence structure and vocabulary help, but only so much. And in fact, if you dive into the deep end first (by moving to China, for example), you find that those things come naturally because you're *learning the foundations of the language*—its history, culture, mechanics and slang. Having context and foundation for details mean they fit easily into place as you grow in your knowledge of a subject. 
+
+Some schools use a huge amount of pre work as a substitute for intensity or instruction during the actual class. (Some only offers 20 minute lectures!) From our experience, that really does a disservice to students—complex subject matter like Rails warrant far more time in the classroom. 
+
+At The Iron yard we assign very light amounts of pre-work. There are a few exercises and some reading, but the goal is mainly to familiarize you with some terms and basic concepts. 
+
+Why? Our classes are so intensive that even if people do a huge amount of pre-work, the entire class is generally on a level playing field by the second week. In fact, most students have said that going through The Iron Yard is one of the hardest things they've ever done. Part of the reason for that is we don't give scripted assignments or follow-along-step-by-step projects. Everything is *very* open ended so that our instructors can help you develop the mental muscle required to think through the foundations of building an application, from architecture to user experience to security to design. 
+
+From our experience, hours and hours spent reading or doing assignments ahead of time might make the first few weeks of class easier, but it doesn't actually make you any better of a programmer than people who didn't do that same prework. 
 
 ### <a name="sorcery"></a> What kind of sorcery do you use to make all of this happen?
 
@@ -72,35 +143,7 @@ First and foremost, we accomplish this through hiring the most talented people o
 
 Second, we all *love* what we do. The people we hire are passionate about changing people's lives through code education, and they invest their heart and soul into making that happen. (Several have left huge companies and startups to join our team because they believe in our mission). 
 
-More practically, our program works really well because of our approach to education. We are committed to training the highest-quality developers in the world, both in skill and in character. That means training students to think like engineers and solve problems—not just how to type the syntax of a language. Knowing syntax and punctuation doesn't make you a great writer; in the same way simply knowing how to write some JavaScript doesn't make you a great programmer—that's the easy part. Because of the thinking foundation we build, our graduates have the aptitude to jump into new languages and learn them very quickly.
-
-### <a name="job-placement"></a> You’ll help me find a job?
-
-If you choose to enroll in the job placement program, we’ll do our darndest to put you where you want to be, and we’re putting our money where our mouth is.
-
-We cannot guarantee the exact salary or location of the job, but if you don’t get an offer in six months, we’ll give you your tuition back. [Contact us](mailto:academy@theironyard.com?subject:I have a question about job placement) for more details.
-
-If you choose to freelance, we help you get paid work and walk through your first several projects with you. 
-
-### <a name="companies"></a> What kinds of companies do your graduates go to work for?
-
-Our students pursue all types of programming careers when they leave The Iron Yard, from small web shops, venture-funded startups and marketing agencies to established product companies and design firms. Many of our students also choose to pursue freelance or contract work for the flexibility they provide. 
-
-### <a name="cost"></a> How much does it cost? 
-
-**Dollar for dollar, we’re one of the most affordable programs out there for what you get.** A new laptop and guaranteed job offers are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is far less than places like New York and San Francisco. 
-
-**Tuition**  
-Base tuition is $9,000, and we have significant discounts for enlisted military personnel and veterans, as well as [scholarships](/academy/scholarships). 
-
-**Payment options**  
-If you pay the full cost of tuition up front, you’ll get a $500 discount. If you pay half up front, you’ll get a $250 discount. We also offer financing: Deposit $1,000 to secure your seat, then $2,000 on the first day of class. After that, you'll make $1,000 monthly installments until your balance is paid off. No fees or interest.
-
-**Laptop**  
-Tuition with a laptop included is $10,000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? [Give us a shout](mailto:academy@theironyard.com?subject:Will my computer work for your Academy courses?).
-
-**Housing (Greenville, SC only)**  
-Housing is only available for our Greenville, SC Front End Engineering course. It is $1500 for the three months. We have a block of really nice, fully-furnished apartments that are reserved for our Greenville Academy students year round. We’ve done our research and it’s almost impossible to find cheaper (nice) living if you don’t live in town.
+More practically, our program works really well because of our approach to education. We are committed to training the highest-quality developers in the world, both in skill and in character. That means training students to think like engineers and solve problems—not just how to type the syntax of a language. Knowing syntax and punctuation doesn't make you a great writer; in the same way simply knowing how to write some JavaScript doesn't make you a great programmer—that's the easy part. Because of the thinking foundation we build, our graduates have an amazing level of aptitude after only 12 weeks with us. 
 
 ### <a name="commitment"></a> How much time and commitment will it *really* take?
 
@@ -144,7 +187,11 @@ Want to talk to a graduate? [Give us a shout](mailto:academy@theironyard.com?sub
 
 ---
 
-**We love talking to people about what makes our school different and how it can change their lives. Feel free to [schedule a phone call](mailto:academy@theironyard.com?subject=I'd like to talk on the phone about the Academy) to talk with someone today.**
+**We love talking to people about what makes our school different and how it can change their lives.** 
+
+- Give us a call at [855-399-2275](tel:+18553992275)
+- [Send us an email](mailto:academy@theironyard.com?subject=I'd like to talk on the phone about the Academy)
+- Jump into our [Academy chat room](https://www.hipchat.com/gVQZ3qwbv) to talk with someone on the team
 
 ---
 
