@@ -21,17 +21,26 @@ location_feed: "http://atlanta.theironyard.com/feed/"
 
             h2
               | What we offer in Atlanta:
-          
+        
         .article-sidebar-city.span4
           .article-sidebar-content-section
-            h4 City Linkssssss
-            ul
-              li
-                a[href="http://www.visitgreenvilleesc.com"] visitgreenvilleesc.com
-              li
-                a[href="http://lifeingreenville.com"] lifeingreenville.com
-              li
-                a[href="http://yeahthatgreenville.com"] yeahthatgreenville.com
+            h4 Address
+            hr
+            span The Iron Yard - Atlanta
+            br
+            span 123 ABC 
+            br 
+            span Atlanta, GA   
+        / .article-sidebar-city.span4
+        /   .article-sidebar-content-section
+        /     h4 City Linkssssss
+        /     ul
+        /       li
+        /         a[href="http://www.visitgreenvilleesc.com"] visitgreenvilleesc.com
+        /       li
+        /         a[href="http://lifeingreenville.com"] lifeingreenville.com
+        /       li
+        /         a[href="http://yeahthatgreenville.com"] yeahthatgreenville.com
               
   .location-well
     .container
@@ -39,33 +48,50 @@ location_feed: "http://atlanta.theironyard.com/feed/"
         .span4.academy-left
           h3 The Academy
           p We offer all of our intensive Academy courses in Atlanta. Our grads get jobs with amazing local companies as well as awesome shops around the country.
+          a[href="/academy" class="light-button"] Learn More
         .span8.academy-right
           img[src="http://placehold.it/470x275"]
+        .courses
+          .container
+            .row
+              .col-md-4[style="border-right:2px solid white;"]
+                a[href="/academy/front-end-engineering"]
+                  span.classIcon-jsCourse
+                p Front End Engineering
+              .col-md-4[style="border-right:2px solid white;"]
+                a[href="/academy/rails-engineering"]
+                  span.classIcon-railsCourse
+                p Rails Engineering
+              .col-md-4
+                a[href="/academy/mobile-engineering"]
+                  span.classIcon-iosCourse
+                p Mobile Engineering
 
   .content
       .article.row
         .span8
           .article-content
             h3
-              | City Highlights
+              | Kids Classes
             p 
-              | Nestled into the foothills of the Blue Ridge Mountains, Greenville combines traditional southern charm, stunning natural beauty and nationally-respected tech and design communities to create one of America's hottest emerging destinations and fastest-growing cities. 
-          
-        .article-sidebar-city.span4
-          .article-sidebar-content-section
-            h4 City Links
-            p
-              | this is some text
+              | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        .span4.academy-right
+          img.kids-pic-atl[src="/images/locations/atlanta/kids-atlanta.jpg"]
 
   .location-well
     .container
       .academy-left
         h2 
-          | Coworking Spaces
-        p
+          | Coworking Partners
+        p.cowork-partners
           | Our Coworking spaces are comprised of designers, strategists, developers, writers and entrepreneurs. We're not talking about fly-by-night freelancers. They're independent business owners, connected with each other through the space they share and the projects they inevitably develop together.
         a[href="#" class="light-button"] Learn More
-      .academy-right
+      .academy-right.cowork-partners-img
         img[src="http://placehold.it/470x275"]
 
   .content
