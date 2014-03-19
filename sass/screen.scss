@@ -2263,6 +2263,21 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
   height: 330px;
 }
 
+.location-team-img {
+  height: 179px !important;
+  width: 178px !important;
+}
+
+.team-left{
+  margin-left: 0 !important;
+  margin-right: 50px !important;
+
+  h4, h5 {
+    text-align: center;
+    margin-top: 10px;
+  }
+}
+
 // atlanta pages
 
 .kids-pic-atl {

@@ -90,6 +90,11 @@ p.city-page-content {
       padding-bottom: 50px;
 }
 
+.recent {
+  margin-top: 20px !important;
+  margin-left: 4px !important;
+}
+
 // Icons
 
 [class^="classIcon-"], [class*=" classIcon-"] {
@@ -158,6 +163,7 @@ p.city-page-content {
       display:block;
       text-decoration:none;
     }
+
     .recent li {
       display:block;
       padding-bottom:10px;
