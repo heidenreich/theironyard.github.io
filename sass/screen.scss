@@ -2270,10 +2270,19 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 }
 
 .team-left{
+  margin-bottom: 0;
+  margin-top: 10px;
   margin-left: 0 !important;
   margin-right: 50px !important;
 
-  h4, h5 {
+  h4 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  h5 {
+    font-size: 14px;
     text-align: center;
     margin-top: 10px;
   }
@@ -2306,4 +2315,9 @@ html:hover [class^="ss-"]{-ms-zoom: 1;}
 .cowork-partners-button {
   display: block;
   width: 163px;
+}
+
+.atl-sidebar-img {
+  position: relative;
+  top: 90px;
 }
