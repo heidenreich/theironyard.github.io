@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/events"
+meta_description: "The Indie Craft Parade is a public market that brings together many of the best artists and their handmade goods from across the Southeast."
 ---
 
 <iframe src="http://player.vimeo.com/video/12376738?color=c94c3d" width="620" height="349" frameborder="0" alt="" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe> 

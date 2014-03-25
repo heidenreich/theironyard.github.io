@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/accelerator/tech-program"
+meta_description: "FAQs about our Open Tech Accelerator."
 ---
 
 ### Where is the Iron Yard's Spring Program?

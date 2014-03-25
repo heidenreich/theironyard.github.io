@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/"
+meta_description: "The Iron Yard mentors and invests in talented entrepreneurs buildilng truly great startup companies."
 ---
 
 <div class="team-member one-fourth">

@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/events"
+meta_description: "A day of learning how to start or grow your creative business filled with practical advice from industry experts and collective discussions."
 ---
 
 <img src="/images/events/the-makers-summit/the-makers-summit.jpg" style="border-radius: 3px;">

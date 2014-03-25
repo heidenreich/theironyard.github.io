@@ -6,6 +6,7 @@ color: "#349FAD"
 comments: true
 sharing: true
 footer: true
+meta_description: "A list of the incredible mentors to The Iron Yard!"
 ---
 
 <div class="team-member one-fourth">

@@ -5,6 +5,7 @@ date: 2014-02-17 19:07
 color: "#CE822C"
 parent_url: "/"
 footer: true
+meta_description: "Refer someone and if they get accepted into our Academy you receive a $150."
 ---
 
 <!-- Change the width and height values to suit you best -->

@@ -4,7 +4,7 @@ title: "Events"
 date: 2013-08-07 23:06
 color: "#B8584B"
 image: "/images/events/events-banner.jpg"
-description: "We set out to build the events we've always wanted to attend."
+meta_description: "We set out to build the events we've always wanted to attend."
 comments: true
 sharing: true
 footer: true

@@ -7,6 +7,7 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/accelerator"
+meta_description: "$20k in seed capital, pitches to potential investors, 3 months of incredible mentorship and weekly workshops from experts in green tech innovation, and more!"
 sub_nav:
   - name: "Mentors"
     slug: "/accelerator/mentors"

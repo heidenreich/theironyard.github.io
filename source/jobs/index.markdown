@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "We're hiring"
-description: "Passionate about tech, education, and working with a really talented, really fun team?"
+meta_description: "Passionate about tech, education, and working with a really talented, really fun team?"
 color: "#39474E"
 date: 2013-11-20 06:17
 comments: true
