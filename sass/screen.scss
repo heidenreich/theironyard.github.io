@@ -1784,6 +1784,10 @@ li {
   /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
   @media only screen and (max-width: 599px) {
 
+    .overlay {
+      display: none;
+    }
+
     .holycow {
       background: none;
     }
@@ -1858,7 +1862,7 @@ li {
         padding: 1px 10px 0px 10px;
         h1 {
           font-size: 30px;
-          line-height: 35px;
+          line-height: 60px;
           margin: 0;
           .back {
             display: none;
