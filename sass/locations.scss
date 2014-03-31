@@ -204,3 +204,20 @@ p.city-page-content {
     width: 100%;
     background: linear-gradient(rgba(20, 4, 4, 0.02),rgba(6, 0, 0, 0.94));
   }
+
+  .smashing-boxes {
+    width: 700px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: -307px;
+    // right: 100px;
+
+    @media (max-width: 960px){
+      width: 600px;
+    }
+
+    @media (max-width: 850px) {
+      width: 500px;
+    }
+  }
