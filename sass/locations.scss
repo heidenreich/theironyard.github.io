@@ -1,5 +1,14 @@
+
 img {
   border-radius: 3px; 
+}
+.intro-content {
+  h1 {
+    @media only screen and (max-width: 599px) {
+      top: 0 !important;
+    }
+  }
+
 }
 
 .article {  
@@ -280,39 +289,39 @@ p.city-page-content {
   }
 }
 
-// atlanta pages
+// // atlanta pages
 
-.kids-pic-atl {
-  position: relative;
-  top: 42px;
-}
+// .kids-pic-atl {
+//   position: relative;
+//   top: 42px;
+// }
 
-.cowork-partners-div {
-  display: inline-block;
-  width: 435px;
-}
+// .cowork-partners-div {
+//   display: inline-block;
+//   width: 435px;
+// }
 
-.cowork-partners-content {
-  display: inline-block;
-  width: 425px;
-}
+// .cowork-partners-content {
+//   display: inline-block;
+//   width: 425px;
+// }
 
-.cowork-partners-img {
-  display: inline-block;
-  position: relative;
-  top: -100px;
-  left: 64px;
-}
+// .cowork-partners-img {
+//   display: inline-block;
+//   position: relative;
+//   top: -100px;
+//   left: 64px;
+// }
 
-.cowork-partners-button {
-  display: block;
-  width: 163px;
-}
+// .cowork-partners-button {
+//   display: block;
+//   width: 163px;
+// }
 
-.atl-sidebar-img {
-  position: relative;
-  top: 95px;
-}
+// .atl-sidebar-img {
+//   position: relative;
+//   top: 95px;
+// }
 
 // durham
 
@@ -321,3 +330,5 @@ p.city-page-content {
     display: none !important;
   }
 }
+
+
