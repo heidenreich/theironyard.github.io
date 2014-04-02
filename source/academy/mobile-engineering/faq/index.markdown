@@ -69,7 +69,7 @@ We offer a $500 discount for those who pay the full amount up front and a $250 d
 Here are the details of our financing plan: 
 
 - $1,000 deposit to secure your seat when you are accepted to the program
-- $2,000 on the first day of class (total payments at this point amount to 1/3 of the total)
+- $2,000 on the first day of class 
 - After that, you'll make $1,000 monthly installments until your balance is paid off. 
 - No fees or interest. 
 
