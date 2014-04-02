@@ -60,7 +60,7 @@ There are offline code schools popping up all around the world and their quality
 ### <a name="cost"></a> How much does it cost?  
 
 **Tuition**  
-Base tuition is $9,000.
+Base tuition is $10,000.
 
 **Discounts for paying up front**  
 We offer a $500 discount for those who pay the full amount up front and a $250 discount for those who pay half up front. 
@@ -72,11 +72,6 @@ Here are the details of our financing plan:
 - $2,000 on the first day of class (total payments at this point amount to 1/3 of the total)
 - After that, you'll make $1,000 monthly installments until your balance is paid off. 
 - No fees or interest.
-
-**Laptop**  
-Tuition with a laptop included is $10,000. This is the absolute cheapest way for our students to get their hands on a brand new MacBook Air. If you want to use your own machine it has to be a recent Apple laptop, with ample processing speed and hard drive space. Not sure if yours qualifies? [Give us a shout](mailto:academy@theironyard.com?subject:Will my computer work for your Academy courses?).
-
-- If you elect to get the laptop, the cost will be reflected in your monthly payments. 
 
 **Housing (Greenville, SC only)**  
 Housing is only available for our Greenville, SC Front End Engineering course. It is $1500 for the three months. We have a block of really nice, fully-furnished apartments that are reserved for our Greenville Academy students year round. We’ve done our research and it’s almost impossible to find cheaper (nice) living if you don’t live in town.
