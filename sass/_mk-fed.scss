@@ -1,5 +1,9 @@
 @import "compass";
  
+
+ body {
+  min-width: 1130px;
+ }
 // class colors
 .academy {
   .primary-color  { color: #C4843C; }
