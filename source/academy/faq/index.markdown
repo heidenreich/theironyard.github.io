@@ -18,7 +18,7 @@ meta_description: "Find answers to commonly asked questions here. Don't see what
 - [What is your success rate for job placement?](#placement-success)
 - [What kinds of companies do your graduates go to work for?](#companies)
 - [I don't need to know how to code? *Are you serious*?](#no-code)
-- [Do you require students to do pre-work?](#prework)
+- [Do you require students to do pre-work?](#pre-work)
 - [What kind of sorcery do you use to make all of this happen?](#sorcery)
 - [How much time and commitment will it *really* take?](#commitment)
 - [What do employers say about students they’ve hired?](#employer-feedback)
@@ -116,7 +116,7 @@ Sounds crazy, doesn't it? But it's true: we teach people who don't have any prio
 
 Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programmers available for hire *and* have the foundation upon which to pursue a CTO-like role. 
 
-### <a name="pre work"></a> Do you require students to do prework?
+### <a name="pre-work"></a> Do you require students to do pre-work?
 
 We will start our answer to this question by making an import an distinction: *information isn't the same as knowledge*, and from our experience with work that students do ahead of time, information (and pre-work) only goes so far in helping you do well in our classes.  
 
@@ -124,7 +124,7 @@ The primary reason is that in most situations, scripted assignments and even und
 
 Some schools use a huge amount of pre work as a substitute for intensity or instruction during the actual class. (Some only offers 20 minute lectures!) From our experience, that really does a disservice to students—complex subject matter like Rails warrant far more time in the classroom. 
 
-At The Iron yard we assign very light amounts of pre-work. There are a few exercises and some reading, but the goal is mainly to familiarize you with some terms and basic concepts. 
+At The Iron Yard, we assign very light amounts of pre-work. There are a few exercises and some reading, but the goal is mainly to familiarize you with some terms and basic concepts. 
 
 Why? Our classes are so intensive that even if people do a huge amount of pre-work, the entire class is generally on a level playing field by the second week. In fact, most students have said that going through The Iron Yard is one of the hardest things they've ever done. Part of the reason for that is we don't give scripted assignments or follow-along-step-by-step projects. Everything is *very* open ended so that our instructors can help you develop the mental muscle required to think through the foundations of building an application, from architecture to user experience to security to design. 
 
