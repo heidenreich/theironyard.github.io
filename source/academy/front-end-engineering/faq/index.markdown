@@ -15,7 +15,7 @@ meta_description: "Find answers to commonly asked questions here. Don't see what
 - [What is your success rate for job placement?](#placement-success)
 - [What kinds of companies do your graduates go to work for?](#companies)
 - [I don't need to know how to code? *Are you serious*?](#no-code)
-- [Do you require students to do pre-work?](#prework)
+- [Do you require students to do pre-work?](#pre-work)
 - [What kind of sorcery do you use to make all of this happen?](#sorcery)
 - [How much time and commitment will it *really* take?](#commitment)
 - [What do employers say about students they’ve hired?](#employer-feedback)
@@ -48,7 +48,7 @@ There are offline code schools popping up all around the world and their quality
   - We hire the best instructors in the industry, require that they have teaching/mentorship experience, pay them what they'd be worth at a *really* good programming job at an awesome company, and give them a month off paid to explore the world of programming and bring that knowledge back into The Iron Yard and our curriculum. 
   - Our class size is capped at 15 students. When you do the math for almost any code school, you realize that adding more students gets very lucrative, very quickly. We started our first class with 7 students and grew it to a number that ensured that each and every person who comes through our program gets as much one-on-one mentorship time with the instructor as they need. In fact, that's what our lab time is all about—not dozens and dozens of students trying to hack it out on their own with little or no access to the actual professor. 
   - *We don't take placement fees from our hiring partners.* This is a big one. Many code schools business models run on kickback from placing students in jobs, whether that's tuition reimbursement or the fee a recruitment firm would get in the same situation. There's nothing inherently wrong with that, but we decided that if we really were 100% committed to our students that it wouldn't be healthy to have an economic interest in where they go to work. 
-- **Dollar for dollar, we’re one of the most affordable programs out there for the quality and results that you get in return.** A new laptop and *guaranteed job offers* are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is generally far less than places like New York and San Francisco, making the life transition much more feasible for people in all walks of life. 
+- **Dollar for dollar, we’re one of the most affordable programs out there for the quality and results that you get in return.** *Guaranteed job offers* are hard to come by, and the total cost of getting both at The Iron Yard is more affordable than other programs. Also, the cost of living in our cities is generally far less than places like New York and San Francisco, making the life transition much more feasible for people in all walks of life. 
 - **We teach far more than code**, bringing in guest-lecturers who talk about design fundamentals, how to work well with designers, other disciplines of programming, entrepreneurship, and more. We provide our students with the widest possible gamut of exposure so that they have a well-rounded view of the industry when they graduate. 
 - **We place a high value on soft skills**, focusing on the qualitative aspects of being a successful programmer, whether that’s in a freelance career or at a company. We give students feedback on their interaction and contribution in group projects, their communication with us during the program and the strengths and weaknesses they’ll carry into their work. On top of this individualized attention, our team lectures throughout the semester on communication skills, freelance contracts, team dynamics and provides contract templates and proposals they'll need when they graduate.
 - **Our job-placement is personalized**. Our team works incredibly hard to get students where they want to be, whether that’s a startup or a large corporation. We have contacts all around the country and after the program we meet weekly and communicate as often as needed with each student to execute a job-searching strategy. We also perform mock interviews so that there aren’t any surprises when you graduate.
@@ -69,7 +69,7 @@ We offer a $500 discount for those who pay the full amount up front and a $250 d
 Here are the details of our financing plan: 
 
 - $1,000 deposit to secure your seat when you are accepted to the program
-- $2,000 on the first day of class 
+- $2,000 on the first day of class
 - After that, you'll make $1,000 monthly installments until your balance is paid off. 
 - No fees or interest.
 
@@ -113,7 +113,7 @@ Sounds crazy, doesn't it? But it's true: we teach people who don't have any prio
 
 Don't get us wrong—you won't be a CTO when you get done with the program, but you *will* be one of the top junior-level programmers available for hire *and* have the foundation upon which to pursue a CTO-like role. 
 
-### <a name="pre work"></a> Do you require students to do prework?
+### <a name="pre-work"></a> Do you require students to do pre-work?
 
 We will start our answer to this question by making an import an distinction: *information isn't the same as knowledge*, and from our experience with work that students do ahead of time, information (and pre-work) only goes so far in helping you do well in our classes.  
 
@@ -121,7 +121,7 @@ The primary reason is that in most situations, scripted assignments and even und
 
 Some schools use a huge amount of pre work as a substitute for intensity or instruction during the actual class. (Some only offers 20 minute lectures!) From our experience, that really does a disservice to students—complex subject matter like Rails warrant far more time in the classroom. 
 
-At The Iron yard we assign very light amounts of pre-work. There are a few exercises and some reading, but the goal is mainly to familiarize you with some terms and basic concepts. 
+At The Iron Yard, we assign very light amounts of pre-work. There are a few exercises and some reading, but the goal is mainly to familiarize you with some terms and basic concepts. 
 
 Why? Our classes are so intensive that even if people do a huge amount of pre-work, the entire class is generally on a level playing field by the second week. In fact, most students have said that going through The Iron Yard is one of the hardest things they've ever done. Part of the reason for that is we don't give scripted assignments or follow-along-step-by-step projects. Everything is *very* open ended so that our instructors can help you develop the mental muscle required to think through the foundations of building an application, from architecture to user experience to security to design. 
 
