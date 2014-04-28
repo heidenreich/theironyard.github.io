@@ -50,11 +50,11 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 ### The Schedule for 2014
 
-*   **March 16** –  Early application deadline
+*   **May 1** –  Early application deadline
 *   **June 1** –  Final application deadline
-*   **July 1** – Program begins
-*   **Sep. 21-23** – Demo Day at Health 2.0 Silicon Valley Conference
-*   **Oct. 1** - Southeastern Demo Day
+*   **July 7** – Program begins
+*   **Sep. 21-24** – Demo Day at Health 2.0 Silicon Valley Conference
+*   **Oct. 2** - Southeastern Demo Day
 
 * * *
 
