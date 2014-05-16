@@ -10,13 +10,9 @@ footer: true
 parent_url: "/accelerator/digital-health-program"
 ---
 
-### Where is the Iron Yard's Spring Program?
+### Where is the Iron Yard's Digital Health Program?
 
-In the lovely town of Spartanburg, SC.
-
-### Where is Spartanburg?
-
-It's in South Carolina, halfway between Atlanta and Charlotte.
+In the lovely town of Spartanburg, SC, halfway between Atlanta and Charlotte.
 
 ### Do I need to move to Spartanburg for the duration of the program?
 
