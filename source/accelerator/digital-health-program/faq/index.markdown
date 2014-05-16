@@ -70,7 +70,7 @@ Nope.
 
 #### Applications are open!
 
-<a href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
+<a target="_blank" href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
 
 ### Still curious? Fire away.
 
