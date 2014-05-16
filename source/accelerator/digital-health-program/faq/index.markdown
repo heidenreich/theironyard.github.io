@@ -68,9 +68,9 @@ Nope.
 
 {% sidebar %}
 
-#### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
+#### Applications are open!
 
-* * *
+<a href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
 
 ### Still curious? Fire away.
 
