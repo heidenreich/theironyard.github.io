@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Green Techg FAQ"
+title: "Green Tech FAQ"
 date: 2013-08-08 13:56
 color: "#349FAD"
 comments: true
@@ -16,7 +16,7 @@ In the lovely town of Asheville, NC.
 
 ### Where is Asheville?
 
-It's in South Carolina, halfway between Atlanta and Charlotte.
+It’s in the beautiful Blue Ridge Mountains of North Carolina.
 
 ### Do I need to move to Asheville for the duration of the program?
 
