@@ -1,1 +1,0 @@
-function wpFeed(e,a){$.ajax({url:document.location.protocol+"//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q="+encodeURIComponent(e),dataType:"json",success:function(e){var o=e.responseData.feed.entries,n="";if(o){for(var c=0;4>c;c++)o[c]&&(n+='<li><a href="'+o[c].link+'">'+o[c].title+"</a></li>");a.append(n)}}})}
