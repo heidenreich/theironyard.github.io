@@ -107,7 +107,7 @@ sub_nav:
 
   <div class="graduates-right">
     <h1 class="name">Tyler Phillips</h1>
-    <p class="bio"> Learning how to write code has been an experience unlike anything else. It wasn't simply learning a new skill. It was a learning a new way of thinking. I learned to look at all areas of the problem and analyze them before making a decision. This new way of thinking has taught me to look at all problems differently, whether they involve programming or everyday life. As I move forward, I'm excited to continue to grow, learn and continue to improve upon my thinking and problem solving abilities.</p>
+    <p class="bio"> Learning how to write code has been an experience unlike anything else. It wasn't simply learning a new skill. It was learning a new way of thinking. I learned to look at all areas of the problem and analyze them before making a decision. This new way of thinking has taught me to look at all problems differently, whether they involve programming or everyday life. As I move forward, I'm excited to continue to grow, learn and continue to improve upon my thinking and problem solving abilities.</p>
     <ul class="links">
       <li>&bull;
         <a href="http://tylerphillips.github.io/">Portfolio
