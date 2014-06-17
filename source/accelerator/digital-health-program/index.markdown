@@ -42,9 +42,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 
 {% sidebar %}
 
-#### Applications are open!
-
-<a target="_blank" href="http://form.jotformpro.com/form/40124712669958" class="light-button">Apply now</a>
+#### Applications are closed.
 
 * * *
 
